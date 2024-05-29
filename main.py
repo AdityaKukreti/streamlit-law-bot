@@ -1,15 +1,13 @@
 import streamlit as st
-from bot import LawBot
+from newbot import LawBot
 
 bot = LawBot()
 
 st.title("Law Chatbot")
 
 if "messages" not in st.session_state:
-    st.session_state.messages = []
+    st.session_state.messages = [{"role":"assistant","content":"Hi, I am your AI assistant. How can i help you?"}]
 
-# with "messages" not in st.session_state:
-#     st.session_state.messages = []
 
 for message in st.session_state.messages:
     with st.chat_message(message['role']):
@@ -23,7 +21,8 @@ if prompt:
         st.markdown(prompt)
     st.session_state.messages.append({'role':'user',"content":prompt})
 
-    response = bot.getResponse(prompt)
+    response = bot.query(prompt)
+    response = f'''source: {response['sources']}\n\n{response['answer']}'''
 
     with st.chat_message("assistant"):
         st.markdown(response)
