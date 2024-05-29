@@ -4,3 +4,4 @@ langchainhub
 langchain-chroma
 langchain-openai 
 unstructured
+streamlit
