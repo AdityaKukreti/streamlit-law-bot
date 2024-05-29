@@ -1,0 +1,1765 @@
+Employer-employee relationship: Every payment made by an employer to his employee for service rendered would be chargeable to tax as salaries. Before an income can become chargeable under the head ‘salaries’, it is vital that there should exist between the payer and the payee, the relationship of an employer and an employee.
+Example to understand this - Sujata, an actress, is employed in Chopra Films, where she is paid a monthly remuneration of ` 2 lakh. She acts in various films produced by various producers. The remuneration for acting in such films is directly paid to Chopra Films by the different producers In this case, 2 lakh will constitute salary in the hands of Sujata, since the relationship of employer and employee exists between Chopra Films and Sujata.
+In the above example, if Sujata acts in various films and gets fees from different producers, the same income will be chargeable as income from profession since the relationship of employer and employee does not exist between Sujata and the film producers.
+Example: Commission received by a Director from a company is salary if the Director is an employee of the company. If, however, the Director is not an employee of the company, the said commission cannot be charged as salary but has to be charged either as income from business or as income from other sources depending upon the facts.
+Example: Salary paid to a partner by a firm is nothing but an appropriation of profits. Any salary, bonus, commission or remuneration by whatever name called due to or received by partner of a firm shall not be regarded as salary. The same is to be charged as income from profits and gains of business or profession. This is primarily because the relationship between the firm and its partners is not that of an employer and employee.
+Example: Remuneration received by a Member of Parliament/State Legislature is not taxable under the head ‘Salaries’ as such person is not a government employee. Such income would be taxable as ‘Income from Other Sources’.
+
+Full-time or part-time employment: Once the relationship of employer and employee exists, the income is to be charged under the head “salaries”. It does not matter whether the employee is a full-time employee or a part-time one. If, for example, an employee works with more than one employer, salaries received from all the employers should be clubbed and brought to charge for the relevant previous years.
+
+Forgoing of salary: Once salary accrues, the subsequent waiver by the employee does not absolve him from liability to income-tax. Such waiver is only an application and hence, chargeable to tax. Example - Mr. A, an employee instructs his employer that he is not interested in receiving the salary for April 2023 and the same might be donated to a charitable institution.
+In this case, Mr. A cannot claim that he cannot be charged in respect of the salary for April 2023. It is only due to his instruction that the donation was made to a charitable institution by his employer. It is only an application of income.
+Hence, the salary for the month of April 2023 will be taxable in the hands of Mr. A. He is, however, entitled to claim a deduction under section 80G for the amount donated to the institution. Deduction under section 80G is available only if Mr. A exercises the option of shifting out of the default tax regime provided under section 115BAC(1A). 
+
+Surrender of salary: However, if an employee surrenders his salary, in the public interest, to the Central Government under section 2 of the Voluntary Surrender of Salaries (Exemption from Taxation) Act, 1961, the salary so surrendered would be exempt while computing his taxable income.
+
+Salary paid tax-free: This, in other words, means that the employer bears the burden of the tax on the salary of the employee. In such a case, the income from salaries in the hands of the employee will consist of his salary income and also the tax on this salary paid by the employer.
+However, as per section 10(10CC), the income-tax paid by the employer on non-monetary perquisites on behalf of the employee would be exempt in the hands of the employee.
+
+Place of accrual of salary: Under section 9(1)(ii), salary earned in India is deemed to accrue or arise in India even if it is paid outside India or it is paid or payable after the contract of employment in India comes to an end.
+
+If an employee is paid pension abroad in respect of services rendered in India, the same will be deemed to accrue in India. Similarly, leave salary paid abroad in respect of leave earned in India is deemed to accrue or arise in India. Section 9(1)(iii) provides that salaries payable by the Government to a citizen of India for services outside India shall be deemed to accrue or arise in India. However, by virtue of section 10(7), any allowance or perquisites paid or allowed outside India by the Government to a citizen of India for rendering services outside India will be fully exempt. Individual assessees who are not citizens of India are entitled to the following exemptions in respect of remuneration/ salary received by them under section 10(6):
+(i)Remuneration received by officials of Embassies etc. of Foreign States [Section 10(6)(ii)]
+The remuneration received by a person for services as an official of an embassy, high commission, legation, commission, consulate or the trade representation of a foreign State or as a member of the staff of any of these officials is exempt.
+Conditions:
+(a)The remuneration received by our corresponding Government officials or members of the staff resident in such foreign countries for similar purposes should be exempt.
+(b)The above-mentioned members of the staff should be the subjects of the respective countries represented and should not be engaged in any other business or profession or employment in India.
+(ii)Remuneration received for services rendered in India as an employee of foreign enterprise [Section 10(6)(vi)]
+Remuneration received by a foreign national as an employee of a foreign enterprise for service rendered by him during his stay in India is also exempt from tax.
+Conditions:
+(a)The foreign enterprise is not engaged in any business or trade in India;
+(b)The employee’s stay in India does not exceed 90 days during the previous year;
+(c)The remuneration is not liable to be deducted from the employer’s income chargeable to tax under the Act.
+
+(iii)Salary received by a non-citizen non-resident for services rendered in connection with employment on foreign ship [Section 10(6)(viii)]
+Salary income received by or due to a non-citizen of India who is also non-resident for services rendered in connection with his employment on a foreign ship is exempt where his total stay in India does not exceed 90 days during the previous year.
+(iv)Remuneration received by Foreign Government employees during their stay in India for specified training [Section 10(6)(xi)]
+Any remuneration received by employees of foreign Government from their respective Government during their stay in India, is exempt from tax, if such remuneration is received in connection with their training in any establishment or office of or in any undertaking owned by –
+(a)the Government; or
+(b)any company wholly owned by the Central or any State Government(s) or jointly by the Central and one or more State Governments; or
+(c)any company which is subsidiary of a company referred to in (b) above; or
+(d)any statutory corporation; or
+(e)any society registered under the Societies Registration Act, 1860 or any other similar law, which is wholly financed by the Central Government or any State Government(s) or jointly by the Central and one or more State Governments. Now, let us discuss the chargeability under section 15, the provisions explaining the meaning of Salary, Perquisite and Profits in lieu of salary contained in section 17 and the deductions under section 16.
+Note - Exemption under section 10(6) and 10(7) would be available to an assessee irrespective of the regime under which he pays tax
+
+Section- 15- Basis of Charge
+(i)Section 15 deals with the basis of charge under the head “Salaries”. Salary is chargeable to tax either on ‘due’ basis or on ‘receipt’ basis, whichever is earlier.
+(ii)However, where any salary, paid in advance, is assessed in the year of payment, it cannot be subsequently brought to tax in the year in which it becomes due.
+(iii)If the salary paid in arrears has already been assessed on due basis, the same cannot be taxed again when it is paid.
+Example - If Mr A draws his salary in advance for the month of April 2024 in the month of March 2024 itself, the same becomes chargeable on receipt basis and is to be assessed as income of the P.Y.2023-24 i.e., A.Y.2024-25. However, the salary for the A.Y.2025-26 will not include that of April 2024. If the salary due for March 2024 is received by Mr A later in the month of April 2024, it is still chargeable as income of the P.Y.2023-24 i.e., A.Y.2024-25 on due basis. Obviously, salary for the A.Y.2025-26 will not include that of March 2024
+
+Advance salary - 
+Advance salary is taxable when it is received by the employee irrespective of the fact whether it is due or not. The rule behind this is the basis of taxability of salary i.e., salary is taxed on due or receipt basis, whichever is earlier.
+It may so happen that when advance salary is included and charged in a particular previous year, the rate of tax at which the employee is assessed may be higher than the normal rate of tax to which he would have been assessed. Section 89 provides for relief in these types of cases. The concept of relief under section 89 is explained in this unit later on.
+
+Difference between advance salary and advance against salary- Loan is different from salary. When an employee takes a loan from his employer, which is repayable in certain specified installments, the loan amount cannot be brought to tax as salary of the employee.
+Similarly, advance against salary is different from advance salary. It is an advance taken by the employee from his employer. This advance is generally adjusted with his salary over a specified time period. It cannot be taxed as salary.
+
+Arrears of salary- Normally speaking, salary arrears must be charged on due basis. However, there are circumstances when it may not be possible to bring the same to charge on due basis. Example - If the Pay Commission is appointed by the Central Government and it recommends revision of salaries of employees with retrospective date, the arrears received in that connection will be charged on receipt basis. Here also, relief under section 89 is available. If the Central Government announces increase in HRA in the previous year 2023-24 which is effective from 1.1.2022, then the arrears from 1.1.2022 to 31.3.3023 will be taxed in the previous year in which they are paid because they were never due earlier.
+Here also, relief under section 89 is available.
+
+Section 17 - SALARY, PERQUISITE AND PROFITS IN LIEU OF SALARY 
+Meaning of salary- The meaning of the term ‘salary’ for purposes of income-tax is much wider than what is normally understood. The term ‘salary’ for the purposes of Income-tax Act, 1961 will include both monetary payments (e.g. basic salary, bonus, commission, allowances etc.) as well as non-monetary facilities (e.g. housing accommodation, medical facility, interest free loans etc.). Section 17(1) defines the term “Salary”. It is an inclusive definition and includes monetary as well as non-monetary items.
+‘Salary’ under section 17(1), includes the following:
+1)wages
+2)any annuity or pension, any gratuity,
+3)any fees, commission, perquisites or profits in lieu of or in addition to any salary or wages,
+4)any advance of salary,
+5)any payment received in respect of any period of leave not availed by him i.e., leave salary or leave encashment,
+6)Provident Fund:the portion of the annual accretion in any previous year to the balance at the credit of an employee participating in a recognised provident fund to the extent it is taxable and transferred balance in recognized provident fund to the extent it is taxable,
+7)the contribution made by the Central Government or any other employer in the previous year to the account of an employee under a pension scheme referred to in section 80CCD.
+8)the contribution made by the Central Government in the previous year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 80CCH.
+
+1)Wages- In common parlance, the term “wages” means fixed regular payment earned for work or services. The words “wages”, “salary”, “basic salary” are used interchangeably. Moreover, the payments in the form of Bonus, Allowances etc. made to the employee are also included within the meaning of salary.
+Under the Income-tax Act, there are certain payments made which are fully taxable, partly taxable and fully exempt. For Example, wages, salary, bonus, dearness allowance etc. are fully taxable payments. Whereas monetary benefits in the form of allowances such as House Rent Allowance, conveyance allowance etc. are partially taxable.
+
+2)Allowances - Allowances are monetary payments made by the employer to the employees for meeting specific expenditure, whether personal or for the performance of duties. Under the Income-tax Act, 1961, allowance is taxable on due or receipt basis, whichever is earlier. These allowances are generally taxable unless some specific exemption has been provided in respect of such allowance. Various types of allowances normally in vogue are discussed below:
+
+Fully taxable under both regimes- 
+(i)Entertainment Allowance
+(ii)Dearness Allowance
+(iii)Overtime Allowance
+(iv)Fixed Medical Allowance
+(v)City Compensatory Allowance (to meet increased cost of living in cities)
+(vi)Interim Allowance
+(vii)Servant Allowance
+(viii)Project Allowance
+(ix)Tiffin/Lunch/Dinner Allowance
+(x)Any	other	cash allowance
+(xi)Warden Allowance
+(xii)Non-practicing Allowance
+(xiii)Transport allowance to employee other than blind/ deaf and dumb/ orthopedically handicapped employee
+
+Fully Taxable under default tax regime/ Partly Exempt under the optional tax regime - 
+(i)House Rent Allowance [u/s 10(13A)]
+(ii)Special Allowances [u/s 10(14)]
+Except
+(a)Travelling allowance
+(b)Daily allowance
+(c)Conveyance allowance
+(d)Transport allowance	to blind/ deaf and dumb/ orthopedically handicapped employee
+Note – The exceptions in (a) to (d) above are partly exempt under both the tax regimes.
+
+Fully Exempt only under the optional tax regime
+
+(i)Allowances to High Court Judges
+(ii)Salary and Allowances paid by the United Nations Organization
+(iii)Sumptuary allowance granted to High Court or Supreme Court Judges
+
+Note – In cases (i) and (iii) above, the respective Acts provide for such exemption, notwithstanding anything contained in the Income- tax Act, 1961. In case (ii), exemption is provided under the respective Act, notwithstanding anything to the contrary contained in any other law.
+
+Fully Exempt under both tax regimes
+Allowance granted to Government employees outside  India  [Section 10(7)]
+
+(A)Allowances which are fully taxable under both regime
+(1)City compensatory allowance: City Compensatory Allowance is normally intended to compensate the employees for the higher cost of living in cities. It is taxable irrespective of the fact whether it is given as compensation for performing his duties in a particular place or under special circumstances.
+(2)Entertainment allowance: This allowance is given to employees to meet the expenses towards hospitality in receiving customers etc. The Act gives a deduction towards entertainment allowance only to a Government employee in case he exercises the option of shifting out of the default tax regime provided under section 115BAC(1A). The details of deduction permissible are discussed later on in this Unit.
+(3)Transport allowance: Transport allowance granted to an employee to meet his expenditure for the purpose of commuting between the place of his residence and the place of his duty is fully taxable. However, in case of blind/ deaf and dumb/ orthopedically handicapped employees exemption upto ` 3,200 p.m. is provided under section 10(14)(ii) read with Rule 2BB. This exemption would be available under both regimes.
+
+(B)Allowances which are partially exempt under the optional tax regime/Allowances which are fully taxable under default tax regime
+(1)House rent allowance [Section 10(13A)]: HRA is a special allowance specifically granted to an employee by his employer towards payment of rent for residence of the employee. HRA granted to an employee is exempt to the extent of least of the following, in case such assessee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A):
+
+Metro Cities (i.e., Delhi, Kolkata, Mumbai, Chennai)
+1)HRA actually received for the relevant period	1)	
+2)Rent paid (-) 10% of salary for the relevant period	
+3)50% of salary for the relevant period	
+
+Other Cities
+1)HRA actually received for the relevant period
+2)Rent paid (-) 10% of salary for the relevant period
+3)40% of salary for the relevant period
+
+Note:Exemption u/s 10(13A) would be available to an assessee only if he exercises the option of shifting out of the default tax regime provided u/s 115BAC(1A). It is not available under the default tax
+regime u/s 115BAC.
+•Exemption is not available to an assessee who lives in his own house, or in a house for which he has not incurred the expenditure of rent.
+•“Salary” for this purpose means basic salary, dearness allowance, if provided in terms of employment and commission as a fixed percentage of turnover.
+•Relevant period means the period during which the said accommodation was occupied by the assessee during the previous year.
+
+(2)Special allowances to meet expenses relating to duties or personal expenses [Section 10(14)]
+This clause provides for exemption (as per Rule 2BB) in respect of the following:
+(i)Special allowances or benefit, not being in the nature of a perquisite, specifically granted to meet expenses incurred wholly, necessarily and exclusively in the performance of the duties of an office or employment of profit [Section 10(14)(i)]
+These allowances would be exempt to that extent such expenses are actually incurred for that purpose. In other words, actual allowance received or actual amount spent for the performance of the duties of an office or employment of profit, whichever is less would be exempt.
+(ii)Special allowances granted to the assessee either to meet his personal expenses at the place where the duties of his office or employment of profit are ordinarily performed by him or at the place where he ordinarily resides or to compensate him for the increased cost of living [Section 10(14)(ii)]. For the allowances under this category, there is a limit on the amount which the employee can receive from the employer. Any amount received by the employee in excess of these specified limits will be taxable in his hands as income from salary for the year. It does not matter whether the amount which is received is actually spent or not by the employee for the purpose for which it was given to him.
+
+Rule 2BB
+The following allowances have been prescribed in Rule 2BB:
+Allowances prescribed for the purposes of section 10(14)(i)
+(a)any allowance granted to meet the expenditure incurred on a helper where such helper is engaged in the performance of the duties of an office or employment of profit (Helper Allowance);
+(b)any allowance granted for encouraging the academic, research and training pursuits in educational and research institutions(Research allowance);
+(c)any allowance granted to meet the expenditure on the purchase or maintenance of uniform for wear during the performance of the duties of an office or employment of profit (Uniform Allowance).
+
+Allowances prescribed for the purposes of section 10(14)(ii)- 
+1)Any Special Compensatory Allowance in the nature of Special Compensatory (Hilly Areas) Allowance or High Altitude Allowance or Uncongenial Climate Allowance or Snow Bound Area Allowance or Avalanche Allowance - Extent to which allowance is exempt is rs 800 or rs 300 per month depending upon the specified locations and rs 7,000 per month in Siachen area of Jammu and Kashmir.
+
+2)Any Special Compensatory Allowance in the nature of border area allowance or remote locality allowance or difficult area allowance or disturbed area allowance - rs 1,300 or 1,100	or 1,050 or  750 or 300 or 200 per month depending upon the specified locations
+
+3)Special Compensatory (Tribal Areas/Schedule Areas/Agency Areas) Allowance [Specified States]- 200 per month
+
+4) Any allowance granted to an employee working in any transport system to meet his personal expenditure during his duty performed in the course of running such transport from one place to another, provided that such employee is not in receipt of daily allowance - 70% of such allowance upto a maximum of 10,000 per month.
+
+5)Children Education Allowance - rs 100 per month per child upto a maximum of two children
+
+6)Any allowance granted to an employee to meet the hostel expenditure on his child- rs 300 per month per child upto a maximum of two children
+7)Compensatory Field Area Allowance [Specified areas in Specified States]- rs 2,600 per month
+8)Compensatory Modified Field Area Allowance [Specified areas in Specified States]- rs 1,000 per month
+9)Any special allowance in the nature of counter insurgency allowance granted to the members of the armed forces operating in areas away from their permanent locations.- rs 3,900 per month
+10)Underground Allowance granted to an employee who is working in uncongenial, unnatural climate in underground mines.- rs 800 per month
+
+11)Any special allowance in the nature of high Altitude allowance granted to the member of the armed forces operating in high altitude areas,
+For altitude of 9,000 to 15,000 feet - Rs 1060 per month
+For above 15,000 feet - Rs 1600 per month
+
+12)Any special allowance in the nature of special compensatory highly active field area allowance granted to the member of the armed forces - Rs 4,200 per month
+13)Any special allowance in the nature of Island (duty) allowance granted to the member of the armed forces in Andaman & Nicobar and Lakshadweep Group of Islands - rs 3,250 per month
+
+Any assessee claiming exemption in respect of allowances mentioned at serial numbers 7 & 8 and 9 shall not be entitled to exemption in respect of the allowance and disturbed area allowance referred at serial number 2, respectively.
+
+
+(C)Allowances which are partly exempt under both regimes
+The following allowances prescribed in Rule 2BB would be exempt under both the default and optional tax regimes:
+Allowances prescribed for the purposes of section 10(14)(i)
+(a)any allowance granted to meet the cost of travel on tour or on transfer
+(Travelling Allowance);
+Explanation - “allowance granted to meet the cost of travel on transfer” includes any sum paid in connection with the transfer, packing and transportation of personal effects on such transfer.
+(b)any allowance, whether granted on tour or for the period of journey in connection with transfer, to meet the ordinary daily charges incurred by an employee on account of absence from his normal place of duty (Daily allowance);
+(c)any allowance granted to meet the expenditure incurred on conveyance in performance of duties of an office or employment of profit (Conveyance Allowance);
+Allowances prescribed for the purposes of section 10(14)(ii)
+Any transport allowance granted to an employee who is blind or deaf and dumb or orthopedically handicapped with disability of the lower extremities of the body, to meet his expenditure for commuting between his residence and place of duty would be exempt upto ` 3,200 per month.
+
+(D)Allowances which are fully exempt only under the optional tax regime (i.e., the normal provisions of the Act)
+(1)Allowance to Supreme Court/ High Court Judges: Any allowance paid to a Judge of a High Court and Supreme Court under section 22A(2) of the High Court Judges (Conditions of Service) Act, 1954 and section 23(1A) of the Supreme Court Judges (Salaries and Conditions of services) Act, 1958, respectively, is not taxable under the optional tax regime (i.e., normal provisions of the Act).
+(2)Allowance received from United Nations Organisation (UNO): Salary and Allowance paid by the UNO to its employees is not taxable by virtue of section 2 of the United Nations (Privileges and Immunities) Act, 1947. Besides salary, any pension covered under the United Nations (Privileges and Immunities) Act and received from UNO is also exempt from tax under the optional tax regime (i.e., normal provisions of the Act).
+(3)Sumptuary allowance: Sumptuary allowance given to High Court Judges under section 22C of the High Court Judges (Conditions of Service) Act, 1954 and Supreme Court Judges under section 23B of the Supreme Court Judges (Conditions of Service) Act, 1958 is not chargeable to tax under the optional tax regime (i.e., normal provisions of the Act)
+Note – In cases (1) and (3) above, the respective Acts provide for such exemption, notwithstanding anything contained in the Income-tax Act, 1961. In case (2), exemption is provided under the respective Act, notwithstanding anything to the contrary contained in any other law.
+(E)Allowances which are fully exempt under both regimes
+Allowances payable outside India [Section 10(7)]: Allowances or perquisites paid or allowed as such outside India by the Government to a citizen of India for services rendered outside India are exempt from tax.
+(2)Annuity or Pension
+Meaning of Annuity
+•As per the definition, ‘annuity’ is treated as salary. Annuity is a sum payable in respect of a particular year. It is a yearly grant. If a person invests some money entitling him to series of equal annual sums, such annual sums are annuities in the hands of the investor.
+•Annuity received by a present employer is to be taxed as salary. It does not matter whether it is paid in pursuance of a contractual obligation or voluntarily.
+•Annuity received from a past employer is taxable as profit in lieu of salary.
+•Annuity received from person other than an employer is taxable as “income from other sources”.
+ 
+Pension
+
+Concise Oxford Dictionary defines ‘pension’ as a periodic payment made especially by Government or a company or other employers to the employee in consideration of past service payable after his retirement.
+Pension is of two types: commuted and uncommuted.
+•Uncommuted Pension: Uncommuted pension refers to pension received periodically. It is fully taxable in the hands of both government and non- government employees.
+•Commuted Pension: Commutation means inter-change. Commuted pension means lump sum amount taken by commuting the whole or part of the pension. Many persons convert their future right to receive pension into a lumpsum amount receivable immediately.
+Example - Suppose a person is entitled to receive a pension of say ` 10,000 p.m. for the rest of his life. He may commute ¼th i.e., 25% of this amount and get a lumpsum of say ` 1,50,000. After commutation, his pension will now be the balance 75% of rs 10,000 p.m. = rs7,500 p.m.
+
+Exemption in respect of Commuted Pension [Section 10(10A)] - As per section 10(10A), the payment in respect of commuted pension is exempt, subject to the conditions specified therein. Its tax treatment is depicted hereunder:
+Commuted Person - 
+(A)Employees of the Central Government/ local authorities/ Statutory Corporation/ members of civil services/ Defence services etc. - Fully exempt u/s 10(10A)(i)
+(B)Other Employees - 
+If the employee is in receipt of gratuity - 1/3 x (commuted pension received ÷ commutation %) x 100, would be exempt u/s 10(10A)(ii)(a)
+If the employee does not receive any gratuity - 1/2 x (commuted pension received ÷ commutation %) x 100, would be exempt u/s 10(10A)(ii)(b)
+
+
+Uncommuted Person- Fully taxable
+
+Note- Exemption u/s 10(10A) in respect of commuted pension is available to an assessee irrespective of the regime under which he pays tax. Judges of the Supreme Court and High Court will be entitled to the exemption of the commuted portion u/s 10(10A)(i).
+
+Exemption in respect of pension received by recipient of gallantry awards [Section 10(18)]
+Any income by way of pension received by an individual is exempt from income- tax if –
+(a)such individual was an employee of Central or State Government and
+(b)has been awarded “Param Vir Chakra” or “Maha Vir Chakra” or “Vir Chakra” or such other gallantry award notified by the Central Government in this behalf.
+In case of the death of such individual, any income by way of family pension received by any member of the family of such individual shall also be exempt under this clause.
+“Family”, in relation to an individual, means –
+-The spouse and children of the individual; and
+-The parents, brothers and sisters of the individuals or any of them, wholly or mainly dependent on the individual.
+
+Exemption under section 10(18) would be available to an assessee irrespective of the regime under which he pays tax.
+
+Exemption of disability pension granted to disabled personnel of armed forces who have been invalided on account of disability attributable to or aggravated by such service [Circular No. 13/2019, dated 24.6.2019]- The entire disability pension, i.e., “disability element” and “service element” of pension granted to members of naval, military or air forces who have been invalided out of naval, military or air force service on account of bodily disability attributable to or aggravated by such service would be exempt from tax.
+The CBDT has, vide this circular, clarified that exemption in respect of disability pension would be available to all armed forces personnel (irrespective of rank) who have been invalided out of such service on account of bodily disability attributable to or aggravated by such service. However, such tax exemption will be available only to armed forces personnel who have been invalided out of service on account of bodily disability attributable to or aggravated by such service and not to personnel who have been retired on superannuation or otherwise.
+
+Gratuity- Gratuity is a voluntary payment made by an employer in appreciation of services rendered by the employee. Now-a-days gratuity has become a normal payment applicable to all employees. In fact, Payment of Gratuity Act, 1972 is a statutory recognition of the concept of gratuity. Almost all employers enter into an agreement with employees to pay gratuity.
+Exemption in respect of Gratuity [Section 10(10)]-
+(A)Received during service - Fully Taxable
+(B)Received at the time of retirement/Death - Received under the Pension Code or Regulations applicable to members of the Defence Service/ Employees of Central Government/ Members of Civil Services/ local authority employees etc. - Fully Exempt u/s 10(10)(i)
+(C)Received at the time of retirement/Death - Other Employees(apart from discussed in above (B))-
+a. Covered under the Payment of Gratuity Act, 1972- Least of the following would be exempt u/s 10(10)(ii) that is rs 20 lakh or Actual gratuity received or 15 days' salary(based on last drawn salary, Salary for this purpose means basic salary and dearness allowance. No. of days in a month
+for this purpose, shall be taken as 26.) for every completed year of service or part in excess of 6 months (No. of days in a month to be taken as 26)
+b. Not covered under the Payment of Gratuity Act, 1972 - Least of the following would be exempt u/s 10(10)(iii) that is rs 20 lakh or Actual gratuity received or Half month salary(based on avg of last 10 months salary, Salary for this purpose means basic salary and dearness allowance, if provided in the terms of employment for retirement benefits, forming part of salary and commission which is expressed as a fixed percentage of turnover.) for every completed year of service (fraction to be ignored). Note that Any death cum retirement gratuity received by an employee on his retirement or his becoming incapacitated prior to such retirement or on his termination or any gratuity received by his widow, children or dependents on his death.
+
+Notes - Where gratuity is received from 2 or more employers in the same previous year, then, aggregate amount of gratuity exempt from tax cannot exceed ` 20,00,000. Where gratuity is received in any earlier previous year from former employer and again received from another employer in a later previous year, the limit of rs 20,00,000 will be reduced by the amount of gratuity exempt earlier. It is important to note the difference in definition of “Salary” and the manner of computation of the third limit in case of employees covered under the Payment of Gratuity Act, 1972 and those not covered for determining the amount of exempt gratuity. Exemption under section 10(10) would be available to an assessee irrespective of the regime under which he pays tax.
+
+(4)Fees, commission, perquisites or profits in lieu of or in addition to any salary or wages
+The payment in the form of fees or commission by the employer to the employee are fully taxable. Commission may be paid as fixed percentage of turnover or net profits etc.
+Section 17(2) and 17(3) contains the provisions relating to perquisites and profits in lieu of salary, respectively. The provisions of these sections would be discussed in detail separately in this unit.
+(5)Any Advance of Salary
+The treatment of “Advance Salary” is already discussed in this unit.
+(6)Leave Salary or Leave Encashment
+Generally, employees are allowed to take leave during the period of service. Employee may avail such leave or in case the leave is not availed, then the leave may either lapse or be accumulated for future or allowed to be encashed every year or at the time termination/ retirement. The payment received on account of encashment of unavailed leave would form part of salary. However, section 10(10AA) provides exemption in respect of amount received by way of encashment of unutilised earned leave by an employee at the time of his retirement, whether on superannuation or otherwise.
+
+Exemption of amount received by way of encashment of unutilised earned leave on retirement [Section 10(10AA)]:
+The taxability and exemption provisions are depicted hereunder:
+(A)Leave Encashment Received during the period of service is fully taxable.
+(B)Leave Encashment Received on retirement, whether on superannuation or otherwise By a Government employee is Fully exempt u/s 10(10AA)(i).
+(C)Leave Encashment Received on retirement, whether on superannuation or otherwise by any other employee(not government employee) - Least of the following is exempt u/s 10(10AA)(ii) that is Rs 25,00,000 or Leave salary actually received or 10 months' salary (on the basis of average salary of last 10 months preceding retirement) or Cash equivalent of unavailed leave (Based on last 10 months average salary) to his credit at the time of retirement (Earned leave entitlement cannot exceed 30 days for every year of actual service rendered for the employer from whose service he has retired)
+
+Note:•Where leave salary is received from two or more employers in the same previous year, then the aggregate amount of leave salary exempt from tax cannot exceed ` 25,00,000.
+•Where leave salary is received in any earlier previous year from a former employer and again received from another employer in a later previous year, the limit of ` 25,00,000 will be reduced by the amount of leave salary exempt earlier.
+•Salary for this purpose means basic salary and dearness allowance, if provided in the terms of employment for retirement benefits and commission which is expressed as a fixed percentage of turnover.
+•‘Average salary’ will be determined on the basis of the salary drawn during the period of ten months immediately preceding the date of his retirement whether on superannuation or otherwise.
+•Exemption under section 10(10AA) would be available to an assessee irrespective of the regime under which he pays tax.
+
+(7)Provident fund
+Provident fund scheme is a scheme intended to give substantial benefits to an employee at the time of his retirement. Under this scheme, a specified sum is deducted from the salary of the employee each month or at regular intervals as his contribution towards the fund. The employer also generally contributes the same amount out of his pocket, to the fund. The contributions of the employer and the employee are invested in approved securities. Interest earned thereon is also credited to the account of the employee. Thus, the credit balance in a provident fund account of an employee consists of the following:
+(i)employee’s contribution
+(ii)interest on employee’s contribution
+(iii)employer’s contribution
+(iv)interest on employer’s contribution.
+The accumulated balance is paid to the employee at the time of his retirement or resignation. In the case of death of the employee, the same is paid to his legal heirs.
+The provident fund represents an important source of small savings available to the Government. Hence, the Income-tax Act, 1961 gives certain deductions on savings in a provident fund account.
+
+Types of Provident Funds- 
+(i)Recognised Provident Fund (RPF): Recognised provident fund means a provident fund recognised by the Commissioner of Income-tax for the purposes of income-tax. It is governed by Part A of Schedule IV to the Income- tax Act, 1961. This schedule contains various rules regarding the following:
+(a)Recognition of the fund
+(b)Employee’s and employer’s contribution to the fund
+(c)Treatment of accumulated balance etc.
+A fund constituted under the Employees’ Provident Fund and Miscellaneous Provisions Act, 1952 will also be a Recognised Provident Fund.
+Taxability of RPF - In case of Employer’s Contribution, Contribution in excess of 12% of salary is taxable as “salary” u/s 17(1). In case of Employee’s Contribution, Eligible	for
+deduction u/s 80C, where an employee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A). Interest Credited on Employer’s Contribution is Amount in excess of 9.5% p.a. is taxable as “salary” u/s 17(1). interest Credited on Employee’s Contribution is Amount in excess of 9.5% p.a. is taxable as “salary” u/s 17(1).Amount withdrawn on retirement/ termination is Exempt u/s 10(12) subject to certain conditions detailed in explained further.
+
+Exemption of Accumulated balance of RPF, payable to an employee - if the employee rendered continuous service of at least 5 years with the employer, then it is exempt. if not rendered for at leat 5 years, we need to check that services terminated due to (i) his ill-health (ii) contraction or discontinuance of employer’s business or(iii) any other cause beyond the control of the employee, if yes due to reason, then it is exempt. if the employee has not rendered continuous service of at least 5 years with the employer and services are not terminated due to (i) his ill-health (ii) contraction or discontinuance of employer’s business or(iii) any other cause beyond the control of the employee, if the entire balance standing to the credit of the employee transferred to his individual account in any RPF maintained with his new employer or the entire balance standing to the credit of the employee transferred to his NPS account referred to in section 80CCD and notified by the Central Government, then it is exempt. otherwise in all cases it is taxable.
+
+Where the accumulated balance in RPF becomes taxable, the tax payable in each of the years would be computed as if the fund had been an URPF and the difference in tax would be payable by the employee.
+Note:
+If, after termination of his employment with one employer, the employee obtains employment under another employer, then, only so much of the accumulated balance in his provident fund account will be exempt which is transferred to his individual account in a recognised provident fund maintained by the new employer. In such a case, for exemption of payment of accumulated balance by the new employer, the period of service with the former employer shall also be taken into account for computing the period of five years’ continuous service.
+
+(ii)Unrecognised Provident Fund (URPF): A fund not recognised by the Commissioner of Income-tax is Unrecognised Provident Fund. 
+Taxability of URPF - In case of Employer’s Contribution, Not taxable at the time of contribution. In case of Employee’s Contribution,Not eligible for deduction. Interest Credited on Employer’s Contribution is Not taxable at the time of credit of interest. interest Credited on Employee’s Contribution is Not taxable at the time of credit of interest. Amount withdrawn on retirement/ termination on Employee’s contribution is not taxable and Interest on Employee’s contribution is taxable under ‘Income from Other Sources’ and Employer’s contribution and interest thereon is salary.
+
+(iii)Statutory Provident Fund (SPF): The SPF is governed by Provident Funds Act, 1925. It applies to employees of government, railways, semi-government institutions, local bodies, universities and all recognised educational institutions.
+Taxability of SPF - In case of Employer’s Contribution is Fully exempt. in case of Employee’s Contribution is Eligible for deduction u/s 80C, where an employee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).Interest Credited on Employer’s Contribution is Fully exempt.interest Credited on Employee’s Contribution is Exempt upto certain limit of contribution which is discussed later. Amount withdrawn on retirement/ termination on Employee’s contribution is exempt under section 10(11).
+
+(iv)Public Provident Fund (PPF): Public provident fund is operated under the Public Provident Fund Act, 1968. A membership of the fund is open to every individual though it is ideally suited to self-employed people. A salaried employee may also contribute to PPF in addition to the fund operated by his employer. An individual may contribute to the fund on his own behalf as also on behalf of a minor of whom he is the guardian.
+For getting a deduction under section 80C, a member is required to contribute to the PPF a minimum of Rs 500 in a year. The maximum amount that may qualify for deduction on this account is Rs 1,50,000 as per PPF rules.
+ 
+A member of PPF may deposit his contribution in as many installments in multiples of Rs 500 as is convenient to him. The amount of contribution may be paid at any of the offices or branch offices of the State Bank of India or its subsidiaries and specified branches of banks or any Post Office.
+Taxability of PPF - Employee's contribution is Eligible	for deduction  u/s 80C, where an employee exercises the option of shifting out of the default tax regime provided under section
+115BAC(1A).Interest Credited on Employee’s Contribution is fully exempt. Amount withdrawn on retirement/ termination is Fully exempt u/s 10(11).
+
+Salary for this purpose means basic salary and dearness allowance, if provided in the terms of employment for retirement benefits and commission as a percentage of turnover.Note - Interest credited on contribution by such person/employee
+As per section 10(11), any payment from a Provident Fund (PF) to which Provident Fund Act, 1925, applies or from Public Provident Fund would be exempt.
+Accumulated balance due and becoming payable to an employee participating in a Recognized Provident Fund (RPF) would be exempt under section 10(12).
+However, the exemption under section 10(11) or 10(12) would not be available in respect of income by way of interest accrued during the previous year to the extent it relates to the amount or the aggregate of amounts of contribution made by that person/employee exceeding ` 2,50,000 in any previous year in that fund, on or after 1st April, 2021.
+If the contribution by such person/employee is in a fund in which there is no employer’s contribution, then, a higher limit of ` 5,00,000 would be applicable for such contribution, and interest accrued in any previous year in that fund, on or after 1st April, 2021 would be exempt upto that limit.
+ 
+It may be noted that interest accrued on contribution to such funds upto 31st March, 2021 would be exempt without any limit, even if the accrual of income is after that date.
+Exemption under section 10(11) and 10(12) would be available to an assessee irrespective of the regime under which he pays tax.
+The CBDT has, vide Rule 9D, notified the manner to calculate taxable interest relating to contribution in a provident fund or recognized provident fund, exceeding threshold limit.
+Interest income accrued during the previous year which is not exempt from inclusion in the total income of a person (taxable interest) shall be computed as the interest accrued during the previous year in the taxable contribution account.
+For this purpose, separate accounts within the provident fund account shall be maintained during the previous year 2021-22 and all subsequent previous years for taxable contribution and non-taxable contribution made by a person.
+(a)Non-taxable contribution account – Aggregate of
+(i)closing balance in the account as on 31.03.2021;
+(ii)any contribution made by the person in the account during the previous year 2021-22 and subsequent previous years, which is not included in the taxable contribution account; and
+(iii)interest accrued on (i) and (ii),
+as reduced by the withdrawal, if any, from such account.
+(b)Taxable contribution account – Aggregate of
+(i)contribution made by the person in the account during the previous year 2021-22 and subsequent previous years, which is in excess of the yearly threshold limit; and
+(ii)interest accrued on (i)
+as reduced by the withdrawal, if any, from such account.
+
+Yearly threshold limit is ` 5,00,000, if the contribution by such person/employee is in a fund in which there is no employer’s contribution and ` 2,50,000 in other cases.
+
+
+
+(8)The contribution made by the Central Government or any other employer in the previous year to the account of an employee under a pension scheme referred to in section 80CCD- National Pension scheme is a scheme approved by the Government for Indian citizen aged between 18-70 years. Subscriber of the NPS account contributes some amount in their account. In case of any employee, being a subscriber of the NPS account, employer may also contribute into the employee’s account.
+
+Employer’s contribution to NPS account would form part of salary of employees under section 17(1) - However, while computing total income of the employee-assessee, a deduction under section 80CCD is allowed to the assessee in respect of the employer’s as well as employee’s contribution under a pension scheme referred therein. (Deduction under section 80CCD  – “Deductions from Gross Total Income”)
+
+Deduction under section 80CCD(2) in respect of employer’s contribution would be available to an assessee irrespective of the regime under which he pays tax. However, deduction under section
+80CCD(1)/(1B) in respect of employee’s contribution would be available to an assessee only if he exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).
+
+
+(9)The contribution made by the Central Government in the previous year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 80CCH -
+Agnipath Scheme is a Central Government Scheme launched in 2022 for enrolment of Indian youth in the Indian Armed Forces as Agniveers for four years to serve the country. In pursuance of the Government's decision to implement the Agnipath Scheme, 2022, the Competent Authority has decided to create a non-lapsable dedicated Agniveer Corpus Fund in the interest-bearing section of the Public Account head. In this account, fixed percentage of monthly emoluments would be contributed by the Agniveer and matching amount would be contributed by the Central Government.The Agniveer Corpus Fund is defined as a Fund in which consolidated contributions of all the Agniveers and matching contributions of the Government along with interest on these contributions would be held in their respective accounts.
+Central Government’s contribution to Agniveer Corpus Fund account would form part of salary of employees under section 17(1) - However, while computing total income of an individual enrolled in the Agnipath Scheme, being the assessee, a deduction under section 80CCH is allowed to the assessee in respect of his contribution as well as Central Government’s contribution under Agniveer Corpus Fund referred therein. (Deduction under section 80CCH will be discussed in detail in Chapter 6 – “Deductions from Gross Total Income”)
+
+Deduction under section 80CCH(2) in respect of Central Government’s contribution would be available to an assessee irrespective of the regime under which he pays tax. However, deduction under section 80CCH(1) in respect of employee’s contribution would be available to an assessee only if he exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).
+
+Section 17(3) -Profits in lieu of salary 
+It includes the following:
+(i) Compensation on account of termination of his employment-The amount of any compensation due to or received by an assessee from his employer or former employer at or in connection with the termination of his employment.
+(ii) Compensation on account of modification of the terms and conditions of employment- The amount of any compensation due to or received by an assessee from his employer or former employer at or in connection with the modification of the terms and conditions of employment. Usually, such compensation is treated as a capital receipt. However, by virtue of this provision, the same is treated as a revenue receipt and is chargeable as salary.
+Note: It is to be noted that merely because a payment is made by an employer to a person who is his employee does not automatically fall within the scope of the above provisions. The payment must be arising due to master-servant relationship between the payer and the payee. If it is not on that account, but due to considerations totally unconnected with employment, such payment is not profit in lieu of salary.
+(iii) Payment from provident fund or other fund- Any payment due to or received by an assessee from his employer or former employer from a provident or other fund other than
+-Gratuity [Section 10(10)]
+-Pension [Section 10(10A)]
+-Compensation received by a workman under Industrial Disputes Act, 1947 [Section 10(10B)]
+-from provident fund or public provident fund [Section 10(11)]
+-from recognized provident fund [Section 10(12)]
+-from approved superannuation fund [Section 10(13)]
+-any House Rent Allowance [Section 10(13A)],
+to the extent to which it does not consist of employee’s contributions or interest on such contributions.
+Note: If any sum is paid to an employee at the time of maturity from an unrecognised provident fund it is to be dealt with as follows:
+(a)that part of the sum which represents the employer’s contribution to the fund and interest thereon is taxable under the head “Salaries”.
+(b)that part of the sum which represents employee’s contribution is not chargeable to tax as no deduction or exemption was available at the time of contribution.
+(c)that part of the sum which represents the interest on employee’s contribution is chargeable to tax as ‘Income from other sources’.
+(iv)Keyman Insurance policy
+Any sum received by an assessee under a Key man Insurance policy including the sum allocated by way of bonus on such policy.
+(v)Lump sum Payment or otherwise
+Any amount, whether in lump sum or otherwise, due to the assessee or received by him, from any person -
+(a)before joining employment with that person, or
+(b)after cessation of his employment with that person.
+
+
+(1)Retrenchment compensation [Section 10(10B)]-The retrenchment compensation means the compensation paid under Industrial Disputes Act, 1947 or under any Act, Rule, Order or Notification issued under any law. It also includes compensation paid on transfer of employment under section 25F or closing down of an undertaking under section 25FF of the Industrial Disputes Act, 1947.
+It may be noted that compensation on account of termination and due to modification in terms and conditions of employment would be taxable as “profits in lieu of salary”. However, the retrenchment compensation would be exempt under section 10(10B), subject to following limits (a)Amount calculated in accordance with the provisions of section 25F of the Industrial Disputes Act, 1947 i.e., 15 days average pay x completed years of service and part thereof in excess of 6 months or (b)An amount, not less than ` 5,00,000 as may be notified by the Central Government in this behalf,whichever is lower.
+
+Notes:
+1.The above limits will not be applicable to cases where the compensation is paid under any scheme approved by the Central Government for giving special protection to workmen under certain circumstances.
+2.Average pay means average of the wages payable to a workman
+-in the case of monthly paid workman, in the three complete calendar months,
+-in the case of weekly paid workman, in the four calendar weeks,
+-in the case of daily paid workman, in the twelve full working weeks,
+preceding the date on which the average pay becomes payable if the workman had worked for three complete calendar months or four complete weeks or twelve full working days, as the case may be,and where such calculation cannot be made, the average pay shall be calculated as the average of the wages payable to a workman during the period he actually worked.
+3.Wages for this purpose means all remuneration capable of being expressed in terms of money, which would, if the terms of employment, expressed or implied, were fulfilled, be payable to a workman in respect of his employment or of work done in such employment, and includes
+-such allowances including DA as the workman is for the time being entitled to;
+-the value of any house accommodation, or of supply of light, water, medical attendance or other amenity or of any other service or of any concessional supply of food grains or other articles;
+-any travel concession; and
+-any commission payable on the promotion of sales or business or both 
+However, it does not include
+-any bonus;
+-contribution to a retirement benefit scheme;
+-any gratuity payable on the termination of his service.
+4.Exemption under section 10(10B) would be available to an assessee irrespective of the regime under which he pays tax.
+
+(2)Voluntary Retirement Receipts [Section 10(10C)]-Lump sum payment or otherwise received by an employee at the time of voluntary retirement would be taxable as “profits in lieu of salary”. However, it would be exempt under section 10(10C), subject to the following conditions:
+
+Eligible Undertakings - The employees of the following undertakings are eligible for exemption under this clause:
+(i)Public sector company
+(ii)Any other company
+(iii)An authority established under a Central/State or Provincial Act
+(iv)A local authority
+(v)A co-operative society
+(vi)An University established or incorporated under a Central/State or Provincial Act and an Institution declared to be an University by the University Grants Commission
+(vii)An Indian Institute of Technology
+(viii)Such Institute of Management as the Central Government may, by notification in the Official Gazette, specify in this behalf
+(ix)Any State Government
+(x)The Central Government
+(xi)An institution, having importance throughout India or in any State or States, as the Central Government may specify by notification in the Official Gazette.
+Limit: The maximum limit of exemption should not exceed rs. 5 lakh.
+Such compensation should be at the time of his voluntary retirement or termination of his service, in accordance with any scheme or schemes of voluntary retirement or, in the case of public sector company, a scheme of voluntary separation. The exemption will be available even if such compensation is received in installments.
+ 
+Guidelines:
+The schemes should be framed in accordance with such guidelines, as may be prescribed and should include the criteria of economic viability. Rule 2BA prescribes that the exemption under this section would be available to an employee who has completed 10 years of service or completed 40 years of age. However, this requirement is not applicable in case of an employee of a public sector company under the scheme of voluntary separation framed by the company.The amount receivable on account of voluntary retirement or separation of the employee must not exceed -
+-the amount equivalent to three months’ salary for each completed year of service or
+-salary at the time of retirement multiplied by the balance months of service left before the date of his retirement or superannuation.
+
+Note:
+•Where any relief has been allowed to any assessee u/s 89 for any
+A.Y. in respect of any amount received or receivable on his voluntary retirement or termination of service or voluntary separation, no exemption u/s 10(10C) shall be allowed to him in relation to that A.Y. or any
+other A.Y.
+•Where exemption for voluntary retirement compensation under section 10(10C) has been allowed in any A.Y., then no exemption thereunder shall be allowed to him in any other A.Y.
+•“Salary” for this purpose means basic salary and dearness allowance, if provided in the terms of employment for retirement benefits, forming part of salary and commission which is expressed as a fixed percentage of turnover.
+•Exemption under section 10(10C) would be available to an assessee irrespective of the regime under which he pays tax.
+
+
+Perquisites
+The term ‘perquisite’ indicates some extra benefit in addition to the amount that may be legally due by way of contract for services rendered. In modern times, the salary package of an employee normally includes monetary salary and perquisites like housing, car etc.Perquisite may be provided in cash or in kind.Reimbursement of expenses incurred in the official discharge of duties is not a perquisite.Perquisite may arise in the course of employment or in the course of profession. If it arises from a relationship of employer-employee, then the value of the perquisite is taxable as salary. However, if it arises during the course of profession, the value of such perquisite is chargeable as profits and gains of business or profession.Perquisite will become taxable only if it has a legal origin. An unauthorised advantage taken by an employee without his employer’s sanction cannot be considered as a perquisite under the Act.Example: Mr. A, an employee, is given a house by his employer. On 31.3.2024, he is terminated from service, but he continues to occupy the house without the permission of the employer for six more months after which he is evicted by the employer. The question arises whether the value of the benefit enjoyed by him during the six months period can be considered as a perquisite and be charged to salary. It cannot be done since the relationship of employer-employee ceased to exist after 31.3.2024. However, the definition of income is wide enough to bring the value of the benefit enjoyed by Mr. A to tax as “Income from other sources”.
+
+Defination of perquisites- The term “perquisite” is defined under section 17(2). The definition of perquisite is an inclusive one. Based on the definition, perquisites can be classified in following three ways:Perquisites taxable in the case of all employees, Tax free perquisites in case of all employees, Perquisites taxable only in the hands of specified employees.
+
+(A)Perquisites taxable in the case of all employees- The following perquisites are chargeable to tax in case of all employees- 
+Rent Free Accommodation- Value of rent-free accommodation provided to the assessee by his employer computed in prescribed manner [Section 17(2)(i)]. [Refer discussion on valuation of perquisite]
+Exception: Rent-free official residence provided to a Judge of a High Court or to a Judge of the Supreme Court is not taxable if they exercise the option of shifting out of the default tax regime provided under section 115BAC(1A).
+
+a.Concession in rent - Value of any accommodation provided to the assessee by his employer at a concessional rate. Accommodation would be deemed to have been provided at a concessional rate, if the value of accommodation computed in the prescribed manner exceeds the rent recoverable from, or payable by, the assessee [Section 17(2)(ii)].
+
+b.Payment by the employer in respect of an obligation of employee -Amount paid by an employer in respect of any obligation which otherwise would have been payable by the employee [Section 17(2)(iv)].
+Example: If a domestic servant is engaged by an employee and the employer reimburses the salary paid to the servant, it becomes an obligation which the employee would have discharged even if the employer did not reimburse the same. This perquisite will be covered by section 17(2)(iv) and will be taxable in the hands of all employees.
+
+c.Amount payable by an employer directly or indirectly to effect an assurance on the life of the assessee - Amount payable by an employer directly or indirectly to effect an assurance on the life of the assessee or to effect a contract for an annuity, other than payment made to RPF or approved superannuation fund or deposit-linked insurance fund established under the Coal Mines Provident Fund and Miscellaneous Provisions Act, 1948 or Employees’ Provident Fund and Miscellaneous Provisions Act, 1952 [Section 17(2)(v)]. However, there are schemes like group annuity scheme, employees state insurance scheme and fidelity insurance scheme, under which insurance premium is paid by employer on behalf of the employees. Such payments are not regarded as perquisite in view of the fact that the employees have only an expectancy of the benefit in such schemes.
+
+d.Specified security or sweat equity shares allotted or transferred, by the employer-The value of any specified security or sweat equity shares allotted or transferred, directly or indirectly, by the employer or former employer, free of cost or at concessional rate to the assessee [Section 17(2)(vi)] [Refer discussion on valuation of perquisite].
+
+Amount or the aggregate of amounts of any contribution made to the account of the assessee by employer in a recognised provident fund in NPS,in an approved superannuation fund- The amount or aggregate of amounts of any contribution made in a recognised provident fund,in NPS referred to in section 80CCD(1),in an approved superannuation fund by the employer to the account of the assessee, to the extent it exceeds rs 7,50,000 [Section 17(2)(vii)].
+
+e.Any other fringe benefit or amenity - The value of any other fringe benefit or amenity as may be prescribed by the CBDT [Section 17(2)(viii)]. Rule 3(7) prescribed the following other benefits or amenity taxable in case of all employees such as Interest free or concessional loan,Travelling, touring and accommodation,Free or concessional food and non-alcoholic beverages, Gift, voucher or token in lieu of such gift, Credit card expense, Club expenditure, Use of movable assets,Transfer of movable assets Other benefit or amenity [For valuation, refer discussion on valuation of perquisite]
+
+f.Annual accretion to the balance at the credit of the recognised provident fund/NPS/approved superannuation fund which relates to the employer’s contribution and included in total income (on account of the same having exceeded ` 7,50,000)- Any annual accretion by way of interest, dividend or any other amount of similar nature during the previous year to the balance at the credit of the recognized provident fund or NPS or approved superannuation fund to the extent it relates to the employer’s contribution which is included in total income in any previous year under section 17(2)(vii) computed in prescribed manner [Section 17(2)(viia)].
+
+In other words, interest, dividend or any other amount of similar nature on the amount which is included in total income under section 17(2)(vii) would also be treated as a perquisite.
+The CBDT has, vide Rule 3B, notified the following manner to compute the annual accretion by way of interest, dividend or any other amount of similar nature during the previous year-
+TP = (PC/2)*R + (PC1 + TP1)*R
+Where,
+TP-Taxable perquisite under section 17(2)(viia) for the current P.Y.
+PC-Amount or aggregate of amounts of employer’s contribution in excess of rs 7.5 lakh to recognized provident fund, national pension scheme u/s 80CCD and approved superannuation fund during the P.Y.
+PC1-Amount or aggregate of amounts of employer’s contribution in excess of rs 7.5 lakh to recognized provident fund, national pension scheme u/s 80CCD and approved superannuation fund for the previous year or years commencing on or after 1stApril, 2020 other than the current P.Y.
+TP1-Aggregate of taxable perquisite under section 17(2)(viia) for the previous year or years commencing on or after 1stApril, 2020 other than the current P.Y.
+R-I/ Favg
+I-Amount or aggregate of amounts of income accrued during the current P.Y. in recognized provident fund, national pension scheme u/s 80CCD and approved superannuation fund
+Favg-(Amount or aggregate of amounts of balance to the credit of recognized provident fund, national pension scheme u/s 80CCD and approved superannuation fund on first day of the current P.Y. + Amount or aggregate of amounts of balance to the credit of recognized provident fund, national pension scheme u/s 80CCD and approved superannuation fund on last day of the current P.Y.)/2
+
+Where the amount or aggregate of amounts of TP1 and PC1 exceeds the amount or aggregate of amounts of balance to the credit of the specified fund or scheme on the first day of the current previous year, then, the amount in excess of the amount or aggregate of amounts of the said balance shall be ignored for the purpose of computing the amount or aggregate of amounts of TP1 and PC1.
+
+Exemption in respect of payment from superannuation funds [Section 10(13)]-Any payment received by any employee from an approved superannuation fund shall be entirely excluded from his total income if the payment is made
+(a)on the death of a beneficiary;
+(b)to an employee in lieu or in commutation of an annuity on his retirement at or after a specified age or on his becoming incapacitated prior to such retirement; or
+(c)by way of refund of contribution on the death of a beneficiary; or
+(d)by way of contribution to an employee on his leaving the service in connection with which the fund is established otherwise than by retirement at or after a specified age or his becoming incapacitated prior to such retirement, to the extent the payment made does not exceed the contribution made prior to 1-4-1962 and the interest thereon.
+(e)by way of transfer to the account of the employee under a pension scheme referred to in section 80CCD, which is notified by the Central Government.
+
+
+(B)Tax free perquisites in all cases
+The following perquisites are exempt from tax in the hands of all employees.
+
+a.Telephone-Telephone provided by an employer to an employee at his residence
+b.Transport Facility-Transport facility provided by an employer engaged in the business of carrying of passengers or goods to his employees either free of charge or at concessional rate;
+c.Privilege passes and privilege ticket-Privilege passes and privileget ticket orders granted by Indian Railways to its employees;
+d.Perquisites allowed outside India by the Government-Perquisites allowed outside India by the Government to a citizen of India for rendering services outside India;
+e.Employer’s contribution to staff group insurance scheme-Employer’s contribution to staff group insurance scheme;
+f.Annual premium by employer on personal accident policy - Payment of annual premium by employer on personal accident policy effected by him on the life of the employee;
+g.Refreshment- Refreshment provided to all employees during working hours in office premises;
+h.Subsidized lunch-Subsidized lunch provided to an employee during working hours at office or business premises provided the value of such meal is upto ` 50; This exemption is available only if the employee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).
+i.Recreational facilities-Recreational facilities, including club facilities, extended to employees in general i.e., not restricted to a few select employees;
+g.Amountspenton training of employees-Amount spent by the employer on training of employees or amount paid for refresher management course including expenses on boarding and lodging;
+h.Sum payable by employer to a RPF or an approved superannuation fund-Sum payable by an employer to a RPF or an approved superannuation fund or deposit-linked insurance fund established under the Coal Mines Provident Fund and Miscellaneous provisions Act, 1948 or the Employees’ Provident Fund and Miscellaneous Provisions Act, 1952 upto the limit prescribed;
+i.Leave travel concession-Leave travel concession if the assessee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A), subject to the conditions specified under section 10 (discussed below)
+Note: Value of Leave travel concession provided to the High Court judge or the Supreme Court Judge and members of his family are completely exempt without any conditions if they exercise the option of shifting out of the default tax regime provided under section 115BAC(1A).
+j.Medical facilities	Medical facilities subject to certain prescribed limits [Refer proviso to section 17(2)];
+k.Rent-free official residence - Rent-free official residence provided to a Judge of a High Court or the Supreme Court if they exercise the option of shifting out of the default tax regime provided under section 115BAC(1A);
+l.Conveyance facility-Conveyance facility provided to High Court Judges under section 22B of the High Court Judges (Conditions of Service) Act, 1954 and Supreme Court Judges under section 23A of the Supreme Court Judges (Conditions of Service) Act, 1958 if they exercise the option of shifting out of the default tax regime provided under section 115BAC(1A).
+
+Exemption in respect of Leave travel concession [Section 10(5)]
+(i)This clause exempts the leave travel concession (LTC) received by employees from their employers for proceeding to any place in India,
+(a)either on leave or
+(b)after retirement from service or
+(c)after termination of his service.
+Exemption under this section would be available only to employees exercising the option of shifting out of the default tax regime provided under section 115BAC(1A). It is not available under the default tax regime under section 115BAC.
+ 
+(ii)The benefit is available to individuals - citizens as well as non-citizens - in respect of travel concession or assistance for himself or herself and for his/her family- i.e., spouse and children of the individual and parents, brothers and sisters of the individual or any of them wholly or mainly dependent on the individual.
+(iii)Limit of exemption- The exemption in all cases will be limited to the amount actually spent subject to such conditions as specified in Rule 2B regarding the ceiling on the number of journeys for the place of destination.
+Under Rule 2B, exemption will be available in respect of 2 journeys performed in a block of 4 calendar years commencing from the calendar year 1986. Where such travel concession or assistance is not availed by the individual during any block of 4 calendar years, one such unavailed LTC will be carried forward to the immediately succeeding block of 4 calendar years and will be eligible for exemption. Example-An employee does not avail any LTC for the block 2018-21. He is allowed to carry forward maximum one unavailed LTC to be used in the succeeding block of 2022-25. Accordingly, if he avails LTC in April, 2023, the same will be treated as having availed in respect of the block 2018-2021. Therefore, he will be eligible for exemption in respect of that journey and two more journeys can be further availed in respect of the block of 2022-25.
+(iv)Monetary limits - Where the journey is performed on or after the 1.10.1997, the amount exempted under section 10(5) in respect of the value of LTC shall be the amount actually incurred on such travel subject to the following conditions:
+Journey performed by Air-Amount not exceeding the air economy fare of the National Carrier by the shortest route to the place of destination.
+Any other mode:Where rail service is available-Amount not exceeding the	air-conditioned first class rail fare by the shortest route to the place of destination, Where rail service is not available (a) a recognised public transport system exists-amount not exceeding the 1st class or deluxe class fare, as the case may be, on such transport by the shortest route to the place of destination(b) no recognised public	transport system exists-amount equivalent to the air- conditioned first class rail fare, for the distance of the journey by the shortest route, as if the journey had been performed by rail.Note: The exemption referred to shall not be available to more than two surviving children of an individual after 1.10.1998. This restrictive sub-rule shall not apply in respect of children born before 1.10.1998 and also in case of multiple births after one child.
+Exemption in respect of leave travel concession under section 10(5) would be available to an assessee only if he exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).
+
+
+Medical facilities [Proviso to section 17(2)]
+The following medical facilities are exempt from tax:
+(i)Value of medical treatment in any hospital maintained by the employer: The value of any medical treatment provided to an employee or any member of his family in any hospital maintained by the employer;
+(ii)Reimbursement of expenditure actually incurred on medical treatment: Any sum paid by the employer in respect of any expenditure actually incurred by the employee on his medical treatment or treatment of any member of his family
+•in any hospital maintained by the Government/local authority/any other hospital approved by the Government for the purpose of medical treatment of its employees;
+•in respect of the prescribed disease or ailments in any hospital approved by the Principal Chief Commissioner or Chief Commissioner having regard to the prescribed guidelines.
+•in respect of any illness relating to COVID-19 subject to conditions notified by the Central Government
+Accordingly, the Central Government has, vide Notification No. 90/2022 dated 5.8.2022, specified that for claiming benefit of such exemption, the employee has to submit the following documents to the employer, –
+(a)the COVID-19 positive report of the employee or family member, or medical report if clinically determined to be COVID-19 positive through investigations, in a hospital or an in-patient facility by a treating physician of a person so admitted;
+(b)all necessary documents of medical diagnosis or treatment of the employee or his family member for COVID-19 or illness related to COVID-19 suffered within 6 months from the date of being determined as COVID-19 positive; and
+(c)a certification in respect of all expenditure incurred on the treatment of COVID-19 or illness related to COVID-19 of the employee or of any member of his family.
+(iii)Premium paid to effect an insurance on the health of employee: Any premium paid by an employer in relation to an employee to effect an insurance on the health of such employee. However, any such scheme should be approved by the Central Government or the Insurance Regulatory Development Authority (IRDA) for the purposes of section 36(1)(ib).
+(iv)Reimbursement of premium paid to effect an insurance on the health of employee or for the family of an employee: Any sum paid by the employer in respect of any premium paid by the employee to effect an insurance on his health or the health of any member of his family under any scheme approved by the Central Government or the Insurance Regulatory Development Authority (IRDA)for the purposes of section 80D.
+(v)Amount paid towards expenditure incurred outside India on medical treatment: Any expenditure incurred by the employer or any sum paid by the employer on any expenditure actually incurred by the employee on the following:
+(a)medical treatment of the employee or any member of the family of such employee outside India;
+(b)travel and stay abroad of the employee or any member of the family of such employee for medical treatment;
+(c)travel and stay abroad of one attendant who accompanies the patient in connection with such treatment.
+
+Conditions:
+1.The perquisite element in respect of expenditure on medical treatment and stay abroad will be exempt only to the extent permitted by the RBI.
+ 
+2.The expenses in respect of traveling of the patient and the attendant will be exempt if the employee’s gross total income as computed before including the said expenditure does not exceed rs 2 lakh.
+Note: For this purpose, family means spouse and children of the individual. Children may be dependent or independent, married or unmarried. It also includes parents, brothers and sisters of the individual if they are wholly or mainly dependent upon him. Hospital includes a dispensary or a clinic or a nursing home
+
+Payment of premium on personal accident insurance policies-If an employer takes personal accident insurance policies on the life of employees and pays the insurance premium, no immediate benefit would become payable and benefit will accrue at a future date only if certain events take place.
+Moreover, the employers would be taking such policy in their business interest only, so as to indemnify themselves from payment of any compensation. Therefore, the premium so paid will not constitute a taxable perquisite in the employees’ hands.(CIT vs. Lala Shri Dhar [1972] 84 ITR 19 (Del.))
+
+(C)Perquisites taxable only in the hands of specified employees [Section 17(2)(iii)]-Any monetary obligation of the employee which is discharged by the employer is perquisite in the hands of all employees as per section 17(2)(iv). However, sometimes instead of discharging employee’s obligation, employer provides perquisites in the form of facility to the employee. Such perquisites are taxable in the hands of specified employees only.
+The value of any benefit or amenity granted or provided free of cost or at concessional rate which have not been included in (A) & (B) above will be taxable in the hands of specified employees. Followings are the example of such services:
+(i)Provision of sweeper, gardener, watchman or personal attendant
+(ii)Facility of use of gas, electricity or water supplied by employer
+(iii)Free or concessional tickets
+(iv)Use of motor car
+(v)Free or concessional educational facilities
+
+For valuation of such perquisites, refer discussion on valuation of perquisite.
+
+Meaning of specified employees:
+(i)Director employee: An employee of a company who is also a director is a specified employee. It is immaterial whether he is a full-time director or part- time director. It also does not matter whether he is a nominee of the management, workers, financial institutions or the Government. It is also not material whether or not he is a director throughout the previous year.
+(ii)An employee who has substantial interest in the company: An employee of a company who has substantial interest in that company is a specified employee. A person has a substantial interest in a company if he is a beneficial owner of equity shares carrying 20% or more of the voting power in the company.
+Beneficial and legal ownership: In order to determine whether a person has a substantial interest in a company, it is the beneficial ownership of equity shares carrying 20% or more of the voting power that is relevant rather than the legal ownership.
+Example- A, Karta of a HUF, is a registered shareholder of Bright Ltd. The amount for purchasing the shares is financed by the HUF. The dividend is also received by the HUF. Supposing further that A is an employee in Bright Ltd., the question arises whether he is a specified employee.In this case, he cannot be called a specified person since he has no beneficial interest in the shares registered in his name. It is only for the purpose of satisfying the statutory requirements that the shares are registered in the name of A. All the benefits arising from the shareholding goes to the HUF. Conversely, it may be noted that an employee who is not a registered shareholder will be considered as a specified employee if he has beneficial interest in 20% or more of the equity shares in the company.
+
+(iii)Employee drawing in excess of rs 50,000: An employee other than an employee described in (i) & (ii) above, whose income chargeable under the head ‘salaries’ exceeds rs 50,000 is a specified employee. The above salary is to be considered exclusive of the value of all benefits or amenities not provided by way of monetary payments.
+In other words, for computing the limit of rs 50,000, the following items have to be excluded or deducted:all non-monetary benefits; monetary benefits which are exempt under section 10. This is because the exemptions provided under section 10 are excluded completely from salaries,Standard deduction upto rs 50,000 [under section 16(ia)] is to be excluded irrespective of the regime,Deduction for entertainment allowance [under section 16(ii)] and deduction toward professional tax [under section 16(iii)] are also to be excluded if the assessee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).
+
+If an employee is employed with more than one employer, the aggregate of the salary received from all employers is to be taken into account in determining the above ceiling limit of ` 50,000, i.e., Salary for this purpose = Basic Salary + Dearness Allowance + Commission, whether payable monthly or turnover based +Bonus + Fees + Any other taxable payment + Any taxable allowances + Any other monetary benefits – Deductions under section 16]
+
+
+
+Valuation of Perquisites - The Income-tax Rules, 1962 contain the provisions for valuation of perquisites. It is important to note that only those perquisites which the employee actually enjoys have to be valued and taxed in his hand. Example- Suppose a company offers a housing accommodation rent-free to an employee but the latter declines to accept it, then the value of such accommodation obviously cannot be evaluated and taxed in the hands of the employees.For the purpose of computing the income chargeable under the head “Salaries”, the value of perquisites provided by the employer directly or indirectly to the employee or to any member of his household by reason of his employment shall be determined in accordance with Rule 3.
+(A)Value of rent free accommodation/ Value of accommodation provided to employee at a concessional rate [Sub-rule (1) of Rule 3]§
+Accommodation would be deemed to have been provided at a concessional rate, if the value of accommodation computed in the prescribed manner exceeds the rent recoverable from, or payable by, the assessee [Explanation to section 17(2)(ii)].The value of residential accommodation provided by the employer during the previous year shall be determined in the following manner –
+1.When accommodation is provided by the Central Government or any State Government to employees either holding an office or a post in connection with the affairs of the Union or such State, the valuation of this perquisite is based on the license fee determined by the respective government in accordance with the rules formulated by them. This amount is then reduced by the rent actually paid by the employee. If the accommodation is furnished and the furniture is owned by the employer, the value of the perquisite is increased by 10% per annum of the cost of the furniture, which includes items such as television sets, radio sets, refrigerators, other household appliances, air-conditioning plants, or other equipment. If the furniture is hired from a third party, then the actual hire charges payable are considered, with a reduction for any charges that the employee has paid or is payable for the furniture during the previous year.
+2.For accommodations provided by other employers, if the accommodation is owned by the employer, the valuation is 15% of the salary for cities with a population greater than 25 lakhs as per the 2001 census, 10% of the salary for cities with a population between 10 and 25 lakhs, and 7.5% of the salary in other areas. This valuation applies to the period during which the accommodation was occupied by the employee in the previous year, and is reduced by the rent actually paid by the employee. If the accommodation includes employer-owned furniture, the value of the perquisite increases by 10% per annum of the cost of the furniture and television sets, refrigerators,	other household appliances, air-conditioning plant or equipment or other similar appliances or gadgets. If the furniture is rented, then the increase is based on the actual hire charges, reduced by any payments made by the employee towards these charges.
+If the accommodation is leased or rented by the employer, the value is either the actual amount of lease rental paid or payable by the employer or 15% of the salary, whichever is lower. This value is reduced by any rent actually paid by the employee. The value of the perquisite is increased 10% per annum of the cost of furniture (including television sets, radio sets, refrigerators, other	household appliances, air- conditioning plant orequipment or other similar appliances or gadgets and If such furniture is hired from a third party,the actual hire charges payable for the same as reduced by any charges paid or payable for the same by the employee during the previous year.
+3.Lastly, if the accommodation is provided by any employer in a hotel, it amounts to 24% of the salary paid or payable for the previous year or the actual charges paid or payable to such hotel, whichever is lower. This applies for the period during which such accommodation is provided, and is reduced by the rent, if any, paid or payable by the employee. However, no perquisite is considered if such accommodation in a hotel is provided for a period not exceeding in aggregate fifteen days on the employee's transfer from one place to another.
+
+Notes:(1)If an employee is provided with accommodation, on account of his transfer from one place to another, at the new place of posting while retaining the accommodation at the other place, the value of perquisite shall be determined with reference to only one such accommodation which has the lower perquisite value, as calculated above, for a period not exceeding 90 days and thereafter, the value of perquisite shall be charged for both such accommodations.
+(2)Where the accommodation is provided by the Central Government or any State Government to an employee who is serving on deputation with any body or undertaking under the control of such Government,-
+(i)the employer of such an employee shall be deemed to be that body or undertaking where the employee is serving on deputation; and
+(ii)the value of perquisite of such an accommodation shall be the amount calculated in accordance with Sl. No.2.(a) of the above table, as if the accommodation is owned by the employer.
+(3)“Accommodation” includes a house, flat, farm house or part thereof, or accommodation in a hotel, motel, service apartment, guest house, caravan, mobile home, ship or other floating structure.
+(4)“Hotel” includes licensed accommodation in the nature of motel, service apartment or guest house.
+
+Meaning of Salary for Valuation Rules-
+“Salary” includes pay, allowances, bonus or commission payable monthly or otherwise or any monetary payment, by whatever name called, from one or more employers, as the case may be. However, it does not include the following, namely–
+(1)dearness allowance or dearness pay unless it enters into the computation of superannuation or retirement benefits of the employee concerned;
+(2)employer’s contribution to the provident fund account of the employee;
+(3)allowances which are exempted from the payment of tax;
+(4)value of the perquisites specified in section 17(2);
+(5)any payment or expenditure specifically excluded under proviso to section 17(2);
+(6)lump-sum payments received at the time of termination of service or superannuation or voluntary retirement, like gratuity, severance pay, leave encashment, voluntary retrenchment benefits, commutation of pension and similar payments;
+
+(B)Motor Car [Sub-rule (2) of Rule 3]-If motor car is provided by the employer to the employee, it will be perquisite in the hands of specified employees only. However, the use of any vehicle provided by a company or an employer for journey by the assessee from his residence to his office or other place of work, or from such office or place to his residence shall not be regarded as a benefit given or provided to him free of cost or at concessional rate. [Explanation below section 17(2)(iii)].But if the motor car is owned by the employee and used by him or members of his family wholly for personal purpose and for which employer reimburses the running and maintenance expenses of the car, it will be perquisite in the hands of all employees.
+The value of perquisite by way of use of motor car to an employee by an employer shall be determined in the following manner –
+(1)Where the motor car is owned or hired by the employer and is used wholly and exclusively in the  performance	of his official duties-Not a perquisite, provided the documents specified, discussed same in note 2 below.
+(2)Where the motor car is owned or hired by the employer and is used exclusively for the private or personal purposes of the employee or any member of his household and the running and maintenance expenses are met or reimbursed by the employer - Where cubic capacity of engine does not exceed 1.6 litres, the Actual amount of expenditure incurred by the employer on the running	and maintenance of motor car during the relevant previous year including remuneration, if any, paid by the employer to the chauffeur as increased by the amount representing normal wear and tear of the motor car and as reduced by any amount charged from the employee for such use.where Where cubic capacity of engine exceeds 1.6 litres, the Actual amount of expenditure incurred by the employer on the running and maintenance of motor car during the relevant previous year including remuneration, if any, paid by the employer to the chauffeur as increased by the amount representing normal wear and tear of the motor car and as reduced by any amount charged from the employee for such use.
+(3)Where the motor car is owned or hired by the employer and is used partly in the performance of duties and partly for private or personal purposes of his own or any member of his household and the expenses on maintenance and running are met or reimbursed by the employer and Where cubic capacity of engine does not exceed 1.6 litres, the value of perquisite will be rs 1,800 (plus rs 900, if chauffeur is also provided to run the motor car). If the Where cubic capacity of engine exceeds 1.6 litres, the value of perquisite will be rs 2,400 (plus rs 900, if chauffeur is also provided to run the motor car)
+(4)Where the motor car is owned or hired by the employer and is used partly in the performance of duties and partly for private or personal purposes of his own or any member of his household and the expenses on running and maintenance for private or personal use are fully met by the assessee - Where cubic capacity of engine does not exceed 1.6 litres, the value of perquisite will be Rs 600 (plus rs 900, if chauffeur is also provided by the employer to run the motor car). If the Where cubic capacity of engine exceeds 1.6 litres, the value of perquisite will be Rs 900(plus rs900,if chauffeur is also provided by the employer to run the motor car)
+(5)Where the employee owns a motor car but the actual running and maintenance charges (including remuneration of the chauffeur, if any) are met or reimbursed to  him  by  the employer and such reimbursement is for the use of the vehicle wholly and exclusively for official purposes, if the cubic capacity of engine does not exceed 1.6 litres, it is Not a perquisite, provided the documents specified in Note 2 below the table are maintained by the employer. if the cubic capacity of engine exceed 1.6 litres then it is not a perquisite, provided the documents specified in Note (2) below the table are maintained by the employer.
+(6)Where the employee owns a motor car but the actual running and maintenance charges (including remuneration of the chauffeur, if any) are met or reimbursed to  him  by  the employer and such reimbursement is for the use of the vehicle partly for official purposes and partly for personal or private purposes of the employee or any member of his household, The actual amount of expenditure incurred by the employer as reduced by the amount rs 1,800 (plus rs 900, if chauffeur is also provided to run the motor car) (Also see note 2 below)
+(7)Where the employee owns any other automotive conveyance but the actual running and maintenance charges are met or reimbursed to him by the employer and such reimbursement is for the use of the vehicle wholly and exclusively for official purposes and cubic capacity of engine does not exceed 1.6 litres, it is Not a perquisite, provided the documents specified in the note 2 below the table are maintained by the employer.
+(8)Where the employee owns any other automotive conveyance but the actual running and maintenance charges are met or reimbursed to him by the employer and such reimbursement is for the use of the vehicle wholly and exclusively for official purposes and partly for personal or private purposes of the employee and cubic capacity of engine does not exceed 1.6 litres, the value of perquisite will be The actual amount of expenditure incurred by the employer as reduced by the amount of rs 900. (Also see note 2 below the table).
+(9)Where Cubic capacity of engine does exceed 1.6 litres and Where the employee owns any other automotive conveyance but the actual running and maintenance charges are met or reimbursed to him by the employer and such reimbursement is for the use of the vehicle wholly and exclusively for official purposes or for such reimbursement is for the use of vehicle partly for official purposes and partly for personal or private purposes of the employee. the rule is not applicable.
+
+Notes:
+(1)Where more than one motor car is provided - Where one or more motor- cars are owned or hired by the employer and the employee or any member of his household are allowed the use of such motor-car or all of any of such motor-cars (otherwise than wholly and exclusively in the performance of his duties), the value of perquisite shall be the amount calculated in respect of one car as if the employee had been provided one motor-car for use partly in the performance of his duties and partly for his private or personal purposes and the amount calculated in respect of the other car or cars as if he had been provided with such car or cars exclusively for his private or personal purposes.
+
+Note 2 - Documents to be maintained in certain cases - Where the employer or the employee claims that the motor-car is used wholly and exclusively in the performance of official duty or that the actual expenses on the running and maintenance of the motor-car owned by the employee for official purposes is more than the amounts deductible in Sl. No. 2(b) or 3(b) of the above table, he may claim a higher amount attributable to such official use and the value of perquisite in such a case shall be the actual amount of charges met or reimbursed by the employer as reduced by such higher amount attributable to official use of the vehicle provided that the following conditions are fulfilled :-
+(a)the employer has maintained complete details of journey undertaken for official purpose which may include date of journey, destination, mileage, and the amount of expenditure incurred thereon;
+(b)the employer gives a certificate to the effect that the expenditure was incurred wholly and exclusively for the performance of official duties.
+
+
+(3)Meaning of Normal wear and tear of a motor-car - For computing the perquisite value of motor car, the normal wear and tear of a motor-car shall be taken at 10% per annum of the actual cost of the motor-car or cars.
+
+(C)Valuation  of  benefit  of  provision  of  domestic  servants [Sub-rule (3) of Rule 3]-If servants are engaged by the employee and employer paid or reimbursed the employee for the wages of such servants, it will be perquisite in the hands of all employees. But if the domestic servants are engaged by the employer and facility of such servants is provided to the employee, it will be perquisite in the hands of specified employees only.
+(i)The value of benefit to the employee or any member of his household resulting from the provision by the employer of the services of a sweeper, a gardener, a watchman or a personal attendant, shall be the actual cost to the employer.
+(ii)The actual cost in such a case shall be the total amount of salary paid or payable by the employer or any other person on his behalf for such services as reduced by any amount paid by the employee for such services.
+
+(D)Valuation  of  gas,  electricity  or  water  supplied  by  employer [Sub-rule (4) of Rule 3]-If gas, electricity or water connections are taken by the employee and employer paid or reimbursed the employee for such expenses, it will be perquisite in the hands of all employees. But if the gas, electricity or water connections are taken in the name of employer and facility of such supplies are provided to the employee, it will be perquisite in the hands of specified employees only. The value of benefit to the employee resulting from the provision of gas, electricity or water supplied by the employer shall be determined as follow:
+1.If payment is made to agency supplying of gas, electricity etc., the value of benefit is sum equal to the amount paid on that account by the employer to the agency supplying the gas, electric energy or water.
+2.If supply is made from resources owned by the employer- the value of benefit is manufacturing cost per unit incurred by the employer.
+Where the employee is paying any amount in respect of such services, the amount so paid shall be deducted from the value so arrived at.
+
+(E)Valuation of free or concessional educational facilities [Sub-rule (5) of Rule 3]- If school fees of children of employee or any member of employee’s house hold is paid or reimbursed by the employer on employee’s behalf, it will be perquisite in the hands of all employees. But if the education facility is provided in the school maintained by the employer or in any school by reason of his being employment at free of cost or at concessional rate, it would be perquisite in the hands of specified employees only. The value of benefit to the employee resulting from the provision of free or concessional educational facility for any member of his household shall be determined as follow:If the educational institution is maintained and owned by the employer or If free educational facilities are allowed in any other educational institution by reason of his being in employment of that employer- cost of such education in a similar institution in or near the locality. However, there would be no perquisite if the cost of such education or the value of such benefit per child does not exceed Rs 1,000 p.m. In other cases, amount of expenditure incurred by the employer in that behalf.Where any amount is paid or recovered from the employee on that account, the value of benefit shall be reduced by the amount so paid or recovered.
+Note: The exemption of Rs 1,000 p.m is allowed only in case of education facility provided to the children of the employee and not in case of education facility provided to other household members.
+(F)Free or concessional tickets [Sub-rule (6) of Rule 3]: The value of any benefit or amenity resulting from the provision by an employer who is engaged in the carriage of passengers or goods,to any employee or to any member of his household for personal or private journey free of cost or at concessional fare,in any conveyance owned, leased or made available by any other arrangement by such employer for the purpose of transport of passengers or goods shall be taken to be the value at which such benefit or amenity is offered by such employer to the public as reduced by the amount, if any, paid by or recovered from the employee for such benefit or amenity.
+However, there would be no such perquisite to the employees of an airline or the railways.
+ 
+(G)Valuation of other fringe benefits and amenities [Sub-rule (7) of Rule 3]-Section 17(2)(viii) provides that the value of any other fringe benefit or amenity as may be prescribed would be included in the definition of perquisite and taxable in the hands of all employees. Accordingly, the following other fringe benefits or amenities are prescribed and the value thereof shall be determined in the manner provided hereunder:-
+(i)Interest-free or concessional loan [Sub-rule 7(i) of Rule 3]-
+(a)The value of the benefit to the assessee resulting from the provision of interest-free or concessional loan for any purpose made available to the employee or any member of his household
+during the relevant previous year by the employer or any person on his behalf shall be determined as the sum equal to the interest computed at the rate charged per annum by the State Bank of India, as on the 1st day of the relevant previous year in respect of loans for the same purpose advanced by it on the maximum outstanding monthly balance as reduced by the interest, if any, actually paid by him or any such member of his household.“Maximum outstanding monthly balance” means the aggregate outstanding balance for each loan as on the last day of each month.
+(b)However, no value would be charged if such loans are made available for medical treatment in respect of prescribed diseases (like cancer, tuberculosis, etc.) or where the amount of loans are not exceeding in the aggregate Rs 20,000.
+(c)Further, where the benefit relates to the loans made available for medical treatment referred to above, the exemption so provided shall not apply to so much of the loan as has been reimbursed to the employee under any medical insurance scheme.
+(ii)Travelling, touring and accommodation [Sub-rule 7(ii) of Rule 3]-
+(a)If Travelling, touring, accommodation etc. expenses are paid or reimbursed by employer - The value of travelling, touring, accommodation and any other expenses paid for or borne or reimbursed by the employer for any holiday availed of by the employee or any member of his household, other than leave travel concession or assistance, shall be determined as the sum equal to the amount of the expenditure incurred by such employer in that behalf.
+(b)If Travelling, touring, accommodation etc. facilities are maintained by employer to particular employees only - Where such facility is maintained by the employer, and is not available uniformly to all employees, the value of benefit shall be taken to be the value at which such facilities are offered by other agencies to the public.
+(c)Expenses on any member of household accompanying such employee on office tour - Where the employee is on official tour and the expenses are incurred in respect of any member of his household accompanying him, the amount of expenditure so incurred shall also be a fringe benefit or amenity.
+(d)If official tour is extended as vacation - However, where any official tour is extended as a vacation, the value of such fringe benefit shall be limited to the expenses incurred in relation to such extended period of stay or vacation. The amount so determined shall be reduced by the amount, if any, paid or recovered from the employee for such benefit or amenity.
+(iii)Free  or  concessional  food  and  non-alcoholic  beverages [Sub-rule 7(iii) of Rule 3]
+(a)The value of free food and non-alcoholic beverages provided by the employer to an employee shall be the amount of expenditure incurred by such employer. The amount so determined shall be reduced by the amount, if any, paid or recovered from the employee for such benefit or amenity.
+(b)However, the following would not be treated as a perquisite -
+(1)free food and non-alcoholic beverages provided by such employer during working hours at office or business premises or through paid vouchers which are not transferable and usable only at eating joints,to the extent the value thereof either case does not exceed fifty rupees per meal or
+(2)tea or snacks provided during working hours or
+(3)free food and non-alcoholic beverages during working hours provided in a remote area or an off-shore installation
+Note:Exemption in respect of free food and non-alcoholic beverage provided by such employer through paid voucher would not be available in case an employee pays tax under the default tax regime under section 115BAC.
+
+(iv)Value  of  gift,  voucher  or  token  in  lieu  of  such  gift [Sub-rule 7(iv) of Rule 3]-The value of any gift, or voucher, or token in lieu of which such gift may be received by the employee or by member of his household on ceremonial occasions or otherwise from the employer shall be determined as the sum equal to the amount of such gift.However, if the value of such gift, voucher or token, as the case may be, is below Rs 5,000 in the aggregate during the previous year, the value of perquisite shall be taken as ‘Nil’.
+(v)Credit card expenses [Sub-rule 7(v) of Rule 3]-The amount of expenses including membership fees and annual fees incurred by the employee or any member of his household, which is charged to a credit card (including any add-on-card) provided by the employer, or otherwise, paid for or reimbursed by such employer shall be taken to be the value of perquisite chargeable to tax as reduced by the amount, if any paid or recovered from the employee for such benefit or amenity.
+(b)However, such expenses incurred wholly and exclusively for official purposes would not be treated as a perquisite if the following conditions are fulfilled,complete details in respect of such expenditure are maintained by the employer which may, inter alia, include the date of expenditure and the nature of expenditure and the employer gives a certificate for such expenditure to the effect that the same was incurred wholly and exclusively for the performance of official duties.
+ 
+(vi)Club expenditure [Sub-rule 7(vi) of Rule 3]-The value of benefit to the employee resulting from the payment or reimbursement by the employer of any expenditure incurred (including the amount of annual or periodical fee) in a club by him or by a member of his household shall be determined to be the actual amount of expenditure incurred or reimbursed by such employer on that account. The amount so determined shall be reduced by the amount, if any, paid or recovered from the employee for such benefit or amenity.
+However, where the employer has obtained corporate membership of the club and the facility is enjoyed by the employee or any member of his household, the value of perquisite shall not include the initial fee paid for acquiring such corporate membership.Further, if such expenditure is incurred wholly and exclusively for business purposes, it would not be treated as a perquisite provided the following conditions are fulfilled,that is complete details in respect of such expenditure are maintained by the employer which may, inter alia, include the date of expenditure, the nature of expenditure and its business expediency;the employer gives a certificate for such expenditure to the effect that the same was incurred wholly and exclusively for the performance of official duties.
+There would be no perquisite for use of health club, sports and similar facilities provided uniformly to all employees by the employer.
+
+(vii)Use of moveable assets [Sub-rule 7(vii) of Rule 3]- Value of perquisite is determined as under, Use of laptops and computers-it is nil. In case of Movable assets, other than laptops and computers; and assets already specified, it will be 10% p.a. of the actual cost of such asset, or the amount of rent or charge paid, or payable by the employer, as the case may be.
+Note: Where the employee is paying any amount in respect of such asset, the amount so paid shall be deducted from the value of perquisite determined above.
+
+(viii)Transfer of moveable assets [Sub-rule 7(viii) of Rule 3]- Value of perquisite is determined as under:
+In case of Computers and electronic items, the value of perquisites will be Depreciated value of asset [depreciation is computed @50% on WDV for each completed year of usage]. In case of Motor cars, the value of perquisites will be Depreciated value of asset [depreciation is computed @20% on WDV for each completed year of usage]. In case of Any other asset, the value of perquisites will be Depreciated value of asset [depreciation is computed @10% on SLM for each completed year of usage].
+
+Note:Where the employee is paying any amount in respect of such asset, the amount so paid shall be deducted from the value of perquisite determined above.
+
+(ix)Other benefit or amenity [Sub-rule 7(ix) of Rule 3]-The value of any other benefit or amenity, service, right or privilege provided by the employer shall be determined on the basis of cost to the employer under an arms' length transaction as reduced by the employee's contribution, if any.Note: However, there will be no taxable perquisite in respect of expenses on telephones including mobile phone actually incurred on behalf of the employee by the employer i.e., if an employer pays or reimburses telephone bills or mobile phone charges of employee, there will be no taxable perquisite.
+
+(H)Valuation of specified security or sweat equity share for the purpose of section 17(2)(vi) [Sub-rule (8)]-The fair market value of any specified security or sweat equity share, being an equity share in a company, on the date on which the option is exercised by the employee, shall be determined in the following manner -
+(1)If shares are listed on recognized stock exchange - In a case where, on the date of the exercising of the option, the share in the company is listed on a recognized stock exchange, the fair market value shall be the average of the opening price and closing price of the share on that date on the said stock exchange.
+If shares are listed on more than one recognized stock exchange -Where, on the date of exercising of the option, the share is listed on more than one recognized stock exchanges, the fair market value shall be the average of opening price and closing price of the share on the recognised stock exchange which records the highest volume of trading in the share.
+If no trading in share on recognized stock exchange - Where on the date of exercising of the option, there is no trading in the share on any recognized stock exchange, the fair market value shall be -
+(a)the closing price of the share on any recognised stock exchange on a date closest to the date of exercising of the option and immediately preceding such date; or
+(b)the closing price of the share on a recognised stock exchange, which records the highest volume of trading in such share, if the closing price, as on the date closest to the date of exercising of the option and immediately preceding such date, is recorded on more than one recognized stock exchange.
+“Closing price” of a share on a recognised stock exchange on a date shall be the price of the last settlement on such date on such stock exchange.However, where the stock exchange quotes both “buy” and “sell” prices, the closing price shall be the “sell” price of the last settlement.“Opening price” of a share on a recognised stock exchange on a date shall be the price of the first settlement on such date on such stock exchange.However, where the stock exchange quotes both “buy” and “sell” prices, the opening price shall be the “sell” price of the first settlement.
+(2)If shares are not listed on recognized stock exchange -In a case where, on the date of exercising of the option, the share in the company is not listed on a recognised stock exchange, the fair market value shall be such value of the share in the company as determined by a merchant banker on the specified date.For this purpose, “specified date” means,—
+(i)the date of exercising of the option; or
+(ii)any date earlier than the date of the exercising of the option, not being a date which is more than 180 days earlier than the date of the exercising. Note: Where any amount has been recovered from the employee, the same shall be deducted to arrive at the value of perquisites.
+
+(I)Valuation of specified security, not being an equity share in a company for the purpose of section 17(2)(vi) [Sub-rule (9)]- The fair market value of any specified security, not being an equity share in a company, on the date on which the option is exercised by the employee, shall be such value as determined by a merchant banker on the specified date.For this purpose, “specified date” means,—
+(i)the date of exercising of the option; or
+(ii)any date earlier than the date of the exercising of the option, not being a date which is more than 180 days earlier than the date of the exercising.
+Tax on perquisite of specified securities and sweat equity shares is required to be paid in the year of exercising of option. However, where such shares or securities are allotted by the current employer, being an eligible start-up**, the perquisite is taxable in the year after the expiry of 48 months from the end of the relevant assessment year or in which sale of such security or share are made by the assessee or in which the assessee ceases to be the employee of the employer, whichever is earlier.
+
+Definitions for the purpose of perquisite rules -
+The following definitions are relevant for applying the perquisite valuation rules -
+Member of household- shall include spouse(s), children and their spouses, parents, and servants and dependants.
+Salary- includes the pay, allowances, bonus or commission payable monthly or otherwise or any monetary payment, by whatever name called from one or more employers, as the case may be, but does not include the following, namely:-
+(a)dearness allowance or dearness pay unless it enters into the computation of superannuation or retirement benefits of the employee concerned;
+(b)employer’s contribution to the provident fund account of the employee;
+(c)allowances which are exempted from payment of tax;
+(d)the value of perquisites specified in clause (2) of section 17 of the Income-tax Act;
+(e)any payment or expenditure specifically excluded under proviso to clause (2) of section 17;
+(f)lump-sum payments received at the time of termination of service or superannuation or voluntary retirement, like gratuity, severance pay, leave encashment, voluntary retrenchment
+benefits, commutation of pension and similar payments;
+
+
+Meaning of specified employees:
+(i)Director employee: An employee of a company who is also a director is a specified employee. It is immaterial whether he is a full-time director or part- time director. It also does not matter whether he is a nominee of the management, workers, financial institutions or the Government. It is also not material whether or not he is a director throughout the previous year.
+(ii)An employee who has substantial interest in the company: An employee of a company who has substantial interest in that company is a specified employee. A person has a substantial interest in a company if he is a beneficial owner of equity shares carrying 20% or more of the voting power in the company.
+Beneficial and legal ownership: In order to determine whether a person has a substantial interest in a company, it is the beneficial ownership of equity shares carrying 20% or more of the voting power that is relevant rather than the legal ownership.
+
+DEDUCTION FROM SALARY:
+The income chargeable under the head ‘Salaries’ is computed after making the following deductions:
+(1)Standard deduction [Section 16(ia)]
+(2)Entertainment allowance [Section 16(ii)]
+(3)Professional tax [Section 16(iii)]
+
+It is computed as- 
+Salary/Bonus/Commission etc + Taxable Allowance + Value of Taxable Perquisites = Gross Salary
+Gross Salary - Deductions under Section 16-Standard deduction of upto Rs 50,000-Entertainment Allowance to Government employee,if the assessee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A) - Professional Tax paid, if the assessee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A) = Net taxable income from Salary 
+
+Standard deduction- A standard deduction of Rs 50,000 or the amount of salary, whichever is lower, is to be provided to the employees.Standard deduction of upto ` 50,000 is available to an assessee irrespective of the regime under which he pays tax.
+
+Entertainment allowance- Entertainment allowance received is fully taxable and is first to be included in the salary and thereafter the following deduction is to be made from gross salary:
+However, deduction in respect of entertainment allowance is available in case of Government employees only. The amount of deduction will be lower of:
+(i)One-fifth of his basic salary or
+(ii)Rs 5,000 or
+(iii)Entertainment allowance received.
+Amount actually spent by the employee towards entertainment out of the entertainment allowance received by him is not a relevant consideration at all.
+Deduction in respect of entertainment allowance would be available to an assessee only if he exercises the option of shifting out of the default tax regime provided under section 115BAC(1A). The deduction would not be available under the default tax regime i.e., under section 115BAC.
+
+Professional tax on employment-Professional tax or taxes on employment levied by a State under Article 276 of the Constitution is allowed as deduction only when it is actually paid by the employee during the previous year. The total amount by way of professional tax payable in respect of any one person shall not exceed Rs 2,500 per annum. However, the amount paid during the previous year can be more than Rs 2,500 as the employee may have paid the professional tax of an earlier year during the previous year. Note-If professional tax is reimbursed or directly paid by the employer on behalf of the employee, the amount so paid is first included as salary income and then allowed as a deduction u/s 16.Deduction in respect of professional tax would be available to an assessee only if he exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).The deduction would not be available under the default tax regime i.e., under section 115BAC.
+
+RELIEF UNDER SECTION 89:
+(1)On account of arrears of salary or advance salary: Where by reason of any portion of an assessee’s salary being paid in arrears or in advance or by reason of his having received in any one financial year, salary for more than twelve months or a payment of profit in lieu of salary under section 17(3), his income is assessed at a rate higher than that at which it would otherwise have been assessed, the Assessing Officer shall, on an application made to him in this behalf, grant such relief as prescribed. The procedure for computing the relief is given in Rule 21A.
+(2)On account of family pension: Similar tax relief is extended to assessees who receive arrears of family pension as defined in the Explanation to clause (iia) of section 57.
+“Family pension” means a regular monthly amount payable by the employer to a person belonging to the family of an employee in the event of his death.
+(3)No relief at the time of Voluntary retirement or termination of service: No relief shall be granted in respect of any amount received or receivable by an assessee on his voluntary retirement or termination of his service, in accordance with any scheme or schemes of voluntary retirement or a scheme of voluntary separation (in the case of a public sector company), if exemption under section 10(10C) in respect of such compensation received on voluntary retirement or termination of his service or voluntary separation has been claimed by the assessee in respect of the same assessment year or any other assessment year.
+
+Proforma for computation of income under the head “Salaries” as per default tax regime under section 115BAC:
+
+Particulars 
+Amt(`) 
+(i)
+Basic Salary 
+xxx 
+(ii) 
+Fees/Commission 
+xxx 
+(iii) 
+Bonus 
+xxx 
+(iv) 
+Allowances: 
+ 
+ 
+(a)  Dearness Allowance [Fully taxable] 
+ 
+xxx 
+ 
+(b)  House Rent Allowance (HRA) [Fully taxable] 
+xxx 
+(c) 
+Children Education Allowance [Fully taxable]
+xxx
+ 
+(d)  Children Hostel Allowance [Fully taxable] 
+xxx 
+ 
+(e)  Transport allowance  
+xxx 
+ 
+ 
+ 
+Less: Rs3,200 per month only in case of blind/ deaf 
+and dumb/orthopedically handicapped employee  
+ 
+ 
+xxx 
+ 
+ 
+xxx 
+ 
+(f) 
+Entertainment Allowance [Fully taxable] 
+ 
+xxx 
+ 
+(g) 
+Travelling 
+Allowance/Daily 
+Allowance/ 
+Conveyance Allowance 
+xxx 
+ 
+ 
+ 
+Less: Exempt if the amount is fully utilised for the 
+ 
+purpose 
+ 
+xxx 
+ 
+xxx 
+ 
+(h)  Other Allowances including overtime allowance, city 
+compensatory allowance etc. [Fully taxable] 
+xxx 
+(v) 
+Taxable Perquisites 
+ 
+ 
+(a) 
+Value of rent-free accommodation provided to the 
+employee* 
+xxx 
+ 
+(b) 
+Value of any accommodation provided to the 
+employee at a concessional rate* 
+xxx 
+ 
+ 
+I) Where the accommodation is provided by the Govt. 
+to its employees 
+ 
+ 
+ 
+License fee determined by the Govt. 
+xxx 
+ 
+ 
+ 
+Less: Rent actually paid by the employer 
+xxx 
+ 
+*In case of furnished accommodation, the value will be increased by 10% p.a. of the cost of furniture or 
+hire charges, as the case may be, less amount recovered from the employees. 
+
+ 
+
+ 
+ 
+II) Where the accommodation is provided by any 
+other employer 
+ 
+If accommodation is owned by the employer 
+ 
+(i)  Cities having population > 25 lakh as per 
+2001 census 
+15% of salary in respect of the period of 
+occupation (–) rent recovered from employee 
+ 
+ 
+xxx 
+ 
+ 
+(ii) Cities having population > 10 lakh ≤ 25 
+lakh as per 2001 census 
+10% of salary in respect of the period of 
+occupation (–) rent recovered from employee 
+ 
+ 
+xxx 
+ 
+(iii) In other cities
+7.5% of salary in respect of the period of 
+occupation (–) rent recovered from employee 
+ 
+xxx 
+ 
+ 
+If accommodation is taken on lease/rent by the employer 
+ 
+ 
+ 
+Lower of lease rental paid or payable by the 
+employer (or) 15% of salary 
+xxx 
+ 
+ 
+ 
+Less: Rent recovered from the employee 
+xxx 
+ 
+ 
+(c) 
+Obligation of employee discharged by employer: For 
+e.g., Professional tax paid by the employer 
+xxx 
+ 
+(d) 
+Any sum payable by the employer to effect an 
+assurance on the life of the employee or to effect a 
+contract for annuity: Actual expenditure incurred by the 
+employer
+xxx 
+ 
+(e) 
+Amount or aggregate of amounts of any contribution made  
+- in a recognised provident fund,  
+- in NPS referred to in section 80CCD(1) 
+- in an approved superannuation fund  
+by the employer to the account of the assessee, to the 
+extent it exceeds ` 7,50,000 in a P.Y. 
+xxx 
+ 
+(f) 
+Annual accretion by way of interest, dividend or any 
+other amount of similar nature during the P.Y. to the 
+balance at the credit of the recognized provident fund or 
+NPS or approved superannuation fund to the extent it 
+relates to the employer’s contribution which is included 
+in total income in any P.Y. under section 17(2)(vii) 
+xxx 
+
+
+ 
+(g) 
+Value of use of motor car [Refer Table below] 
+xxx 
+ 
+(h) 
+Any other perquisite: For example, 
+xxx 
+ 
+ 
+(1) Provision of services of a sweeper, gardener, 
+watchman or personal attendant: Actual cost to 
+employer by way of salary paid or payable for such 
+services (-) amount paid by the employee 
+ 
+ 
+ 
+(2) Gas, electricity, or water supplied by employer for 
+household consumption of the employee: Amount 
+paid on that account by the employer to the agency 
+supplying gas etc. (-) amount paid by the employee 
+ 
+ 
+ 
+(3) Provision of free or concessional education facilities 
+for any member of employee’s household: Sum equal 
+to the expenditure incurred by the employer (-) amount 
+paid or recovered from the employee 
+Where educational institution is maintained and 
+owned by employer: Cost of such education in 
+similar institution in or near the locality (-) amount 
+paid or recovered from employee [However, there 
+would be no perquisite if the value of benefit per 
+child does not exceed ` 1,000 p.m.] 
+ 
+ 
+ 
+Note: Above perquisites in (g) and (h) are taxable only in 
+case of specified employees. 
+ 
+ 
+ 
+(4) Interest-free 
+or 
+concessional 
+loan 
+exceeding  
+` 20,000: Interest computed at the rate charged by SBI 
+as on 1st day of relevant P.Y.  in respect of loans for similar 
+purposes on the maximum outstanding monthly balance 
+(-) interest actually paid by employee 
+ 
+ 
+ 
+(5) Free food and non-alcoholic beverages through 
+paid vouchers 
+ 
+ 
+ 
+(6) Value of gift, voucher: Sum equal to the amount of 
+such gift [If value of gift, voucher is below  
+` 5,000, there would be no perquisite] 
+ 
+ 
+ 
+(7) Use of moveable assets [Refer table at page 3.88] 
+ 
+ 
+ 
+(7) Transfer of moveable assets: Actual cost of asset to 
+employer – cost of normal wear and tear – Amount paid or 
+recovered from employee [Refer table at page 3.89] 
+ 
+(vi) 
+Leave travel concession [Fully taxable] 
+xxx 
+
+ 
+ 
+ 
+(vii) 
+Gratuity 
+ 
+ 
+(a) Received during the tenure of employment (fully taxable) 
+xxx 
+ 
+ 
+(b) Received at the time of retirement or otherwise 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10) [Refer fig at Page 3.32] 
+xxx 
+xxx 
+(viii)
+Uncommuted pension (fully taxable)
+xxx
+(ix) 
+Commuted pension 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10A) [Refer fig at Page 3.29] 
+xxx 
+xxx 
+(x) 
+Leave encashment 
+ 
+ 
+(a) Received during the employment (fully taxable) 
+xxx 
+ 
+ 
+(b)  Received at the time of retirement or otherwise 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10AA) [Refer fig at Page 3.36] 
+xxx 
+xxx 
+(xi) 
+Voluntary retirement compensation 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10C) - Least of the following: 
+xxx 
+xxx 
+ 
+(a) Compensation 
+received/receivable 
+on 
+voluntary retirement 
+xxx 
+ 
+ 
+ 
+(b) ` 5,00,000 
+xxx 
+ 
+ 
+ 
+(c) 3 months’ salary x completed years of 
+service 
+xxx 
+ 
+ 
+ 
+(d) Last drawn salary x remaining months of 
+service left 
+ 
+xxx 
+ 
+ 
+(xii) 
+Retrenchment compensation etc. 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10B)] – Least of the following: 
+xxx 
+xxx 
+ 
+(a) Compensation actually received 
+xxx 
+ 
+ 
+ 
+(b)  ` 5,00,000 
+xxx 
+ 
+ 
+ 
+(c) 15 days average pay x completed years of 
+service and part thereof in excess of 6 
+months 
+ 
+xxx 
+ 
+ 
+Gross Salary 
+xxx 
+Less: Deduction under section 16 
+ 
+ 
+Standard deduction u/s 16(ia) -amount of salary or  
+` 50,000, whichever is less 
+xxx 
+Income under the head “Salaries”
+
+Proforma for computation of income under the head “Salaries” under the 
+optional tax regime (i.e., the normal provisions of the Act) 
+ 
+Particulars 
+Amt(`) 
+(i)
+Basic Salary 
+xxx 
+(ii) 
+Fees/Commission 
+xxx 
+(iii) 
+Bonus 
+xxx 
+(iv) 
+Allowances: 
+ 
+ 
+(a)  Dearness Allowance [Fully taxable] 
+ 
+xxx 
+ 
+(b)  House Rent Allowance (HRA) 
+xxx 
+ 
+ 
+ 
+Less: Least of the following is exempt [Section 
+10(13A)] 
+ 
+xxx 
+ 
+xxx 
+ 
+ 
+       (i) HRA actually received 
+xxx 
+ 
+ 
+ 
+ 
+(ii) Rent paid (-)10% of salary for the 
+relevant period 
+xxx 
+ 
+ 
+ 
+ 
+(iii) 50% of salary, if accommodation is 
+located in Mumbai, Kolkata, Delhi or 
+Chennai or 40% of salary in any other 
+city for the relevant period 
+xxx 
+ 
+ 
+ 
+(c)  Children Education Allowance  
+xxx 
+ 
+ 
+ 
+Less: Exempt upto ` 100 per month per child upto 
+maximum of two children 
+ 
+xxx 
+ 
+xxx 
+ 
+(d)  Children Hostel Allowance  
+xxx 
+ 
+ 
+ 
+Less: Exempt upto ` 300 per month per child upto 
+maximum of two children 
+ 
+xxx 
+ 
+xxx 
+ 
+(e)  Transport allowance  
+xxx 
+ 
+ 
+ 
+Less: ` 3,200 per month only in case of blind/ deaf 
+and dumb/ orthopedically handicapped 
+employee  
+ 
+ 
+xxx 
+ 
+ 
+xxx 
+ 
+(f) 
+Entertainment Allowance 
+xxx 
+ 
+(g) 
+Travelling 
+Allowance/ 
+Daily 
+Allowance/ 
+Conveyance Allowance 
+xxx 
+ 
+ 
+ 
+Less: Exempt if the amount is fully utilised for the 
+ 
+purpose 
+ 
+xxx 
+ 
+xxx 
+ 
+(h) 
+Other Allowances including overtime allowance, city 
+compensatory allowance etc. 
+xxx 
+© The Institute of Chartered Accountants of India
+
+ 
+ 
+SALARIES  
+ 
+ 
+3.7 
+(v) 
+Taxable Perquisites 
+ 
+ 
+(a) 
+Value of rent free accommodation† provided to the 
+employee 
+xxx 
+ 
+(b) 
+Value of any accommodation provided to the 
+employee at a concessional rate
+xxx 
+ 
+ 
+I) Where the accommodation is provided by the Govt. 
+to its employees 
+ 
+ 
+ 
+License fee determined by the Govt. 
+xxx 
+ 
+ 
+ 
+Less: Rent actually paid by the employer 
+xxx 
+ 
+ 
+ 
+II) Where the accommodation is provided by any 
+other employer 
+ 
+ 
+ 
+If accommodation is owned by the employer 
+ 
+ 
+ 
+(i) Cities having population > 25 lakh as per 
+2001 census 
+15% of salary in respect of the period of 
+occupation (–) rent recovered from employee 
+ 
+ 
+ 
+xxx 
+ 
+ 
+ 
+(ii) Cities having population >10 lakh < 25 lakh 
+as per 2001 census 
+10% of salary in respect of the period of 
+occupation (–) rent recovered from employee 
+ 
+ 
+ 
+xxx 
+ 
+ 
+ 
+(iii)  In other cities 
+7.5% of salary in respect of the period of 
+occupation (–) rent recovered from employee 
+ 
+ 
+xxx 
+ 
+ 
+ 
+If accommodation is taken on lease/rent by the employer 
+ 
+ 
+ 
+Lower of lease rental paid or payable by the 
+employer (or) 15% of salary 
+xxx 
+ 
+Less: Rent recovered from the employee
+xxx
+ 
+(c) 
+Obligation of employee discharged by employer: For
+e.g., Professional tax paid by the employer 
+xxx 
+ 
+(d) 
+Any sum payable by the employer to effect an assurance 
+on the life of the employee or to effect a contract for 
+annuity: Actual expenditure incurred by the employer 
+xxx 
+ 
+(e) 
+Amount or aggregate of amounts of any contribution 
+made – 
+xxx 
+†In case of furnished accommodation, the value will be increased by 10% p.a. of the cost of furniture or 
+hire charges, as the case may be, less amount recovered from the employees. 
+© The Institute of Chartered Accountants of India
+
+INCOME TAX LAW 
+INCOME TAX LAW
+ 
+ 
+3.8
+- in a recognised provident fund, 
+- in NPS referred to in section 80CCD(1) 
+- in an approved superannuation fund  
+by the employer to the account of the assessee, to the 
+extent it exceeds ` 7,50,000
+ 
+(f) 
+Annual accretion by way of interest, dividend or any 
+other amount of similar nature during the P.Y. to the 
+balance at the credit of the recognized provident fund or 
+NPS or approved superannuation fund to the extent it 
+relates to the employer’s contribution which is included 
+in total income in any P.Y. under section 17(2)(vii) 
+xxx 
+ 
+(g) 
+Value of use of motor car [Refer Table below] 
+xxx 
+ 
+(h) 
+Any other perquisite: For example, 
+xxx 
+ 
+ 
+(1) Provision of services of a sweeper, gardener, 
+watchman or personal attendant: Actual cost to 
+employer by way of salary paid or payable for such 
+services (-) amount paid by the employee 
+ 
+ 
+ 
+(2) Gas, electricity, or water supplied by employer for 
+household consumption of the employee: Amount 
+paid on that account by the employer to the agency 
+supplying gas etc. (-) amount paid by the employee 
+ 
+ 
+ 
+(3) Provision of free or concessional education facilities 
+for any member of employee’s household: Sum equal 
+to the expenditure incurred by the employer (-) amount 
+paid or recovered from the employee 
+Where educational institution is maintained and 
+owned by employer: Cost of such education in 
+similar institution in or near the locality (-) amount 
+paid or recovered from employee [However, there 
+would be no perquisite if the value of benefit per 
+child does not exceed ` 1,000 p.m.] 
+ 
+ 
+ 
+Note: Above perquisites in (g) and (h) are taxable only in 
+case of specified employees. 
+ 
+ 
+ 
+(4) Interest-free 
+or 
+concessional 
+loan 
+exceeding  
+` 20,000: Interest computed at the rate charged by SBI 
+as on 1st day of relevant P.Y.  in respect of loans for similar 
+purposes on the maximum outstanding monthly balance 
+(-) interest actually paid by employee 
+ 
+© The Institute of Chartered Accountants of India
+
+ 
+ 
+SALARIES  
+ 
+ 
+3.9 
+ 
+ 
+(5) Free food and non-alcoholic beverages: Expenses 
+incurred by employer (-) amount recovered from 
+employee [Free food and non-alcoholic beverages 
+provided during office hours or paid vouchers upto 
+` 50 per meal is exempt]
+ 
+ 
+ 
+(6) Value of gift, voucher: Sum equal to the amount of 
+such gift [If value of gift, voucher is below  
+` 5,000, there would be no perquisite] 
+ 
+ 
+ 
+(7) Use of moveable assets [Refer table at page 3.88] 
+ 
+ 
+ 
+(8) Transfer of moveable assets: Actual cost of asset to 
+employer – cost of normal wear and tear – Amount paid or 
+recovered from employee [Refer table at page 3.89] 
+ 
+(vi) 
+Leave travel concession 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(5) [Refer table at Page 3.63] 
+xxx 
+xxx 
+(vii) 
+Gratuity 
+ 
+ 
+(a) Received during the tenure of employment (fully taxable) 
+xxx 
+ 
+ 
+(b) Received at the time of retirement or otherwise 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10) [Refer fig at Page 3.32] 
+xxx 
+xxx 
+(viii) 
+Uncommuted pension (fully taxable) 
+xxx 
+(ix) 
+Commuted pension 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10A) [Refer fig at Page 3.29] 
+xxx 
+xxx 
+(x) 
+Leave encashment 
+ 
+ 
+(a) Received during the employment (fully taxable) 
+xxx 
+ 
+ 
+(b)  Received at the time of retirement or otherwise 
+xxx 
+ 
+ 
+Less: Exempt u/s 10(10AA) [Refer fig at Page 3.36] 
+xxx 
+xxx 
+(xi) 
+Voluntary retirement compensation 
+xxx 
+ 
+Less: Exempt u/s 10(10C) - Least of the following:
+xxx
+xxx
+ 
+(a)
+Compensation 
+received/receivable 
+on 
+voluntary retirement 
+xxx 
+ 
+ 
+ 
+(b) ` 5,00,000 
+xxx 
+ 
+ 
+ 
+(c) 3 months’ salary x completed years of service 
+xxx 
+ 
+ 
+ 
+(d) Last drawn salary x remaining months of 
+service left 
+ 
+xxx 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(vi)	(g)
+(h)	Value of use of motor car [Refer Table below]
+Any other perquisite: For example,
+(1)	Provision of services of a sweeper, gardener, watchman or personal attendant: Actual cost to employer by way of salary paid or payable for such services (-) amount paid by the employee
+(2)	Gas, electricity, or water supplied by employer for household consumption of the employee: Amount paid on that account by the employer to the agency supplying gas etc. (-) amount paid by the employee
+(3)	Provision of free or concessional education facilities for any member of employee’s household: Sum equal to the expenditure incurred by the employer (-) amount paid or recovered from the employee
+Where educational institution is maintained and owned by employer: Cost of such education in similar institution in or near the locality (-) amount paid or recovered from employee [However, there would be no perquisite if the value of benefit per child does not exceed Rs 1,000 p.m.]
+Note: Above perquisites in (g) and (h) are taxable only in case of specified employees.
+(4)	Interest-free  or  concessional  loan  exceeding
+Rs 20,000: Interest computed at the rate charged by SBI as on 1st day of relevant P.Y. in respect of loans for similar purposes on the maximum outstanding monthly balance (-) interest actually paid by employee
+(5)	Free food and non-alcoholic beverages through paid vouchers
+(6)	Value of gift, voucher: Sum equal to the amount of such gift [If value of gift, voucher is below
+Rs 5,000, there would be no perquisite]
+(7)	Use of moveable assets [Refer table at page 3.88]
+(7) Transfer of moveable assets: Actual cost of asset to employer – cost of normal wear and tear – Amount paid or recovered from employee [Refer table at page 3.89]	xxx xxx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xxx
+	Leave travel concession [Fully taxable]	
+ 
+(vii)
+
+
+
+
+(viii)
+(ix)
+
+(x)
+ 
+Gratuity
+(a)	Received during the tenure of employment (fully taxable)	xxx
+(b)	Received at the time of retirement or otherwise	xxx
+Less: Exempt u/s 10(10) [Refer fig at Page 3.32]	xxx
+Uncommuted pension (fully taxable)
+Commuted pension	xxx
+Less: Exempt u/s 10(10A) [Refer fig at Page 3.29]	xxx
+Leave encashment
+ 
+
+
+
+
+xxx xxx
+
+xxx
+ 
+
+
+
+
+(xi)
+ 
+(a)	Received during the employment (fully taxable)
+(b)	Received at the time of retirement or otherwise Less: Exempt u/s 10(10AA) [Refer fig at Page 3.36] Voluntary retirement compensation
+Less: Exempt u/s 10(10C) - Least of the following:
+ 
+xxx xxx xxx xxx xxx
+ 
+
+xxx xxx
+ 
+(a)	Compensation	received/receivable	on voluntary retirement
+ 
+xxx
+ 
+(b)	Rs 5,00,000	xxx
+ 
+(c)	3 months’ salary x completed years of service
+(d)	Last drawn salary x remaining months of
+ 
+xxx
+ 
+(xii)
+ 
+service left	xxx
+Retrenchment compensation etc.
+Less: Exempt u/s 10(10B)] – Least of the following:
+(a)	Compensation actually received	xxx
+(b)	Rs 5,00,000	xxx
+(c)	15 days average pay x completed years of
+ 
+xxx xxx
+ 
+xxx
+ 
+service and part thereof in excess of 6 months
+Gross Salary
+Less:	Deduction under section 16
+ 
+xxx
+ 
+
+
+xxx
+ 
+Standard deduction u/s 16(ia) -amount of salary or
+Rs 50,000, whichever is less Income under the head “Salaries”
+ 
+xxx
+
+xxx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The provisions pertaining to Income under the head “Salaries” are contained in section 15, 16 and 17 in the following manner.
+
+Section 16- 
+Deduction for Entertainment allowance for Government employees and Professional tax are allowable only under the optional tax regime i.e., if the employee exercises the option of shifting out of the default tax regime provided under section 115BAC(1A). The same are not allowable under the default tax regime under section 115BAC.

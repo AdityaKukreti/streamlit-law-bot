@@ -1,0 +1,73 @@
+
+18. Taxability of allowances received by persons having income under the head ‘Salaries’
+
+As per sub-clauses (iiia) and (iiib) of section 2(24), read with section 17, of the Income-tax Act, 1961, any allowance, by what­ever name called, given by the employer to the employee, is taxable as income in the hands of the employee. All allowances including Dearness Allowance, Additional Dearness Allowance, City Compensatory Allowance, House Rent Allowance, Meal Allowance, Servant Allowance, Telephone Allowance, Education Allowance, Refreshment Allowance, Dinner Allowance, Health Allowance, Holi­day Allowance, Special Qualification Allowance, etc., are ‘in­come’ in the hands of the employee, unless specifically exempted under the Income-tax Act, 1961 or any other statute.
+
+2. The major exemptions in respect of allowances given by the Income-tax Act, 1961, are as under :—
+
+    (i)    House Rent Allowance :
+
+           Under section  10(13A) of the Income-tax Act, any special allow­ance specifi-cally granted to an assessee by his employer to meet expenditure incurred on payment of rent (by whatever name called) in respect of residential accommodation occupied by the assessee is exempt from income-tax to the extent, as may be prescribed, having regard to the area or place in which such accommodation is situated and other relevant considerations. According to rule 2A of the Income-tax Rules, 1962, the quantum of exemption allowable in respect of special allowance to meet expenditure on payment of rent will be :—
+
+   (a)   the actual amount of such allowance received by an employee in respect of the relevant period; or
+
+   (b)   the actual expenditure incurred in payment of rent in excess of one-tenth of the salary due for the relevant period; or
+
+   (c)   where such accommodation is situated in Bombay, Calcut­ta, Delhi or Madras, 50 per cent of the salary (40 per cent of the salary where the accommodation is situated at other places) due to the employee for the relevant period;
+
+           whichever is the least.
+
+           For this purpose, ‘Salary’ includes dearness allowance if the terms of employment so provide, but excludes all other allowances and perquisites.
+
+   (ii)    Allowances notified for exemption by the Central Gov­ernment under section 10(14) of the Income-tax Act, 1961.
+
+           Clause (14) of section 10 provides for exemption of the following allowances :—
+
+   (a)   any special allowance or benefit granted to an employee to meet the expenses incurred in the performance of his duties, which the Central Government may specify by notification in the Official Gazette to the extent to which such expenses are actual­ly incurred for that purpose;
+
+   (b)   any allowance granted to an assessee either to meet his personal expenses at the place of his posting or at the place he ordinarily resides or to compensate him for the increased cost of living, which the Central Government may specify by notification in the Official Gazette.
+
+           However, the allowance, referred to in (b) above, should not be in the nature of a personal allowance granted to the assessee to remunerate or compensate him for performing duties of a special nature relating to his office or employment, unless such allow­ance is related to his place of posting or residence.
+
+           By Notification Nos. S.O. 143(E) dated 21-2-1989, S.O. 144(E) dated 21-2-1989 [as amended by Notification Nos. S.O. 259(E) dated
+27-3-1990, S.O. 487(E) dated 1-7-1992 and S.O. 59(E) dated 27-1-1995], S.O. 606(E) dated 9-6-1989 and S.O. 267(E) dated 29-3-1990 the Central Government have specified the following allowances as exempt to the extent and subject to the conditions indicated therein :
+
+   (a)   any allowance granted to meet cost of travel on tour or on transfer, including any allowance granted to meet the ordinary daily charges incurred by an employee on account of absence from his normal place of duty;
+
+   (b)   any special compensatory allowance in the nature of border area allowance or remote area allowance or difficult area allowance or disturbed area allowance;
+
+   (c)   tribal area allowance;
+
+   (d)   any special compensatory allowance in the nature of Composite Hill Compensatory Allowance or High Altitude Allowance or uncongenial allowance, climate allowance or Snowbound Area Allowance or Avalanche Allowance;
+
+   (e)   compensatory field area allowance;
+
+    (f)   compensatory modified field area allowance;
+
+   (g)   any special allowance in the nature of insurgency allowance granted to the members of armed forces operating in areas away from their permanent location for a period of more than 30 days;
+
+   (h)   any allowance granted to meet the expenditure incurred on conveyance in the performance of duties of an office or em­ployment of profit;
+
+    (i)   any allowance granted to meet the expenditure incurred on a helper where such a helper is engaged for the performance of duties of an office or employment of profit;
+
+    (j)   any allowance granted for encouraging academic research and any other professional pursuit;
+
+   (k)   any allowance granted to meet the expenses incurred on the purchase or maintenance of uniform for wear during the per­formance of the duties of an office or employment of profit;
+
+    (l)   children education allowance;
+
+  (m)   any allowance granted to any employee to meet the hostel expenditure of his child;
+
+   (n)   allowance granted to an employee working in a transport system to meet his personal expenses during his duty performed in the course of running of such transport from one place to anoth­er.
+
+           In the notifications issued under section 10(14) of the Act, only the nature of the allowances which are exempt from tax have been mentioned. The nomenclature may vary from institution to institu­tion. It is further clarified that even though the words ‘in the nature of’ have not been used in the notifications exempting Tribal Area Allowance, Children Education Allowance, Compensatory Field Area Allowance and Compensatory Modified Field Area Allow­ance, allowances which are in the nature of the aforesaid allow­ances will be exempt under section 10(14)( ii) of the Act to the extent and subject to the conditions specified in the notifica­tion.
+
+  (iii)    Entertainment Allowance :
+
+           A deduction is also allowed under clause (ii) of section 16 in respect of any allowance in the nature of an entertainment allowance specifically granted to the assessee by his employer subject to the certain limits. In the case of a Government em­ployee, a sum equal to one-fifth of his salary (exclusive of any allowance benefit or other perquisite) or five thousand rupees or the actual amount of entertainment allowance, whichever is the least, is allowable as deduction. In the case of a non-Government employee, deduction for entertainment allowance to the extent specified in sub-clause (b) of clause (ii ) of section 16 will be given only if the allowance is regularly received by him from his present employer from a date prior to 1st April, 1955.
+
+  (iv)    Allowances paid or allowed outside India by the Govern­ment :
+
+           Section 10(7) provides for exemption of any allowance or perquisite paid or allowed as such outside India by the Govern­ment to a citizen of India for rendering service outside India.
+
+3. It is clarified that consequent to the amendment of section 10(14) by the Direct Tax Laws (Amendment) Act, 1987 (w.e.f. 1-4-1989), all circulars, instructions and clarifications issued by the Board regarding section 10(14) up to 31-3-1989 ceased to have effect from assessment year 1989-90 and onwards.

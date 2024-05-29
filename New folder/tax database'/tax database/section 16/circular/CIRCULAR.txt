@@ -1,0 +1,606 @@
+
+
+1.       INTRODUCTION
+     
+The Finance Act, 2005 (hereafter referred to as the Act) as passed by the Parliament, received the assent of the President on the 13th May, 2005 and has been enacted as Act No. 18 of 2005.  The Act, in the field of Direct Taxes, has, -
+  
+specified the rates of income-tax for the assessment year 2005-06 and the rates of income-tax on the basis of which tax has to be deducted and advance tax has to be paid during Financial Year 2005-06;
+amended sections 2, 10, 10A, 16, 17, 32, 33AC, 35, 35DDA, 36, 40, 43, 47, 49, 54EC, 54ED, 73, 80CCC, 80CCD, 80-IA, 80-IB, 88, 112, 115A, 115JAA, 115VD, 119, 124, 139, 139A, 140, 140A, 142, 153, 153B, 153C, 194A, 194C, 199, 203, 206C, 238, 239, 244A, 246A, 271, 272A, 273B, 276CC, 278 and 295 of the Income-tax Act, 1961;
+inserted new sections 72AA, 80C, 80CCE, 206A, 271FB and Chapter XII-H in the Income-tax Act, 1961;
+omitted sections 80L, 88B, 88C and 88D of the Income-tax Act, 1961;
+substituted new section for section 80E of the Income-tax Act;
+amended section 98 of the Finance (No.2) Act, 2004; and
+introduced a new levy namely, Banking Cash Transaction Tax
+Provisions relating to Banking Cash Transaction Tax introduced through Chapter VII of the Act along with consequential amendments in the Income-tax Act, 1961 have been explained separately through Circular No. 03/2005 dated 3rd June, 2005. Similarly, the provisions relating to Fringe Benefit Tax introduced through Chapters XII-H of the Income-tax Act, 1961 have been explained separately through Circular No.8/2005 dated 29th August, 2005. This circular explains the substance of other provisions of the Act relating to Direct Taxes.
+
+2.         RATE STRUCTURE
+
+2.1       Rates of income-tax in respect of incomes liable to tax for the assessment year 2005-2006.
+
+In respect of incomes of all categories of tax payers (corporate as well as non-corporate) liable to tax for the assessment year 2005-2006, the rates of income-tax have been specified in Part I of the First Schedule to the Act.
+
+The rates specified in Part I of the First Schedule to the Act are the same as those laid down in Part III of the First Schedule to the Finance (No. 2) Act, 2004 for the purposes of computation of "advance tax", deduction of tax at source from "Salaries" and charging of tax payable in certain cases during the financial year 2004-2005.
+
+Surcharge –
+(i)    In the case of individuals, Hindu undivided families, association of persons and body of individuals having total income exceeding Rs. 8,50,000/-, the tax so computed after rebate under Chapter VIII-A, shall be enhanced by a surcharge of ten per cent. for purposes of the Union.
+In case of a firm, a local authority and a co-operative society, the tax computed shall be enhanced by a surcharge of two and one-half per cent.
+In the case of every artificial juridical person other than cooperative society, firm, local authority and company, the tax computed shall be enhanced by a surcharge of ten per cent.
+In case of a domestic company, the tax computed shall be enhanced by a surcharge of two and one-half per cent.
+In case of a foreign company, the tax computed shall be enhanced by a surcharge of two and one-half per cent.
+
+Education Cess - An additional surcharge called the Education Cess is to be levied at the rate of two per cent. on the amount of tax computed, inclusive of surcharge if any. For instance, if the income-tax computed is Rs. 1,00,000/- and the surcharge is Rs. 10,000/-, then the education cess of two per cent. is to be computed on Rs. 1,10,000/- which works out to be Rs. 2,200/-.
+
+2.2       Rates for deduction of income-tax at source during the financial year 2005-2006 from income other than "Salaries".
+
+The rates for deduction of income-tax at source during the financial year 2005-2006 from incomes other than "Salaries" have been specified in Part II of the First Schedule to the Act. Rates for deduction of income-tax at source from income other than salaries will continue to be the same as those specified in Part II of the First Schedule to the Finance (No.2) Act, 2004 except that the rate for deduction of tax at source on payment of royalty or fees for technical services to a foreign company in pursuance of an agreement made by such company with the Government or an Indian concern on or after the 1st day of June, 2005 has been reduced from twenty per cent. to ten per cent.
+
+The tax deducted at source in each case shall be increased by a surcharge for purposes of the Union as follows:
+  
+in the case of every individual, Hindu undivided family, association of persons and body of individuals, at the rate of ten per cent. of such tax where the income or the aggregate of such incomes paid or likely to be paid and subject to deduction exceeds Rs.10,00,000/-;
+in the case of every firm, at the rate of ten per cent. of such tax;
+in the case of every artificial juridical person, at the rate of ten per cent. of such tax;
+in the case of every domestic company, at the rate of ten per cent. of such tax;  and
+in the case of every foreign company, at the rate of two and one-half per cent. of such tax.
+
+No surcharge is to be levied on the amount of income tax deducted in the case of every co-operative society and local authority.
+
+Education Cess - An additional surcharge called the Education Cess is to be levied at the rate of two per cent. on the amount of tax deducted, inclusive of surcharge if any. For instance, if the income-tax computed is Rs. 1,00,000/- and the surcharge is Rs. 10,000/-, then the education cess of two per cent. is to be computed on Rs. 1,10,000/- which works out to be Rs. 2,200/-.
+
+2.3       Rates for deduction of income-tax at source from "Salaries", computation of "advance tax" and charging of Income-tax in special cases during the financial year 2005-2006.
+
+2.3.1    The rates for deduction of income-tax at source from "Salaries" during the financial year 2005-2006 and also for computation of "advance tax" payable during that year in the case of all categories of tax payers have been specified in Part III of the First Schedule to the Act. These rates are also applicable for charging income-tax during the financial year 2005-2006 on current incomes in cases where accelerated assessments have to be made, e.g., provisional assessment of shipping profits arising in India to non-residents, assessment of persons leaving India for good during that financial year, assessment of persons who are likely to transfer property to avoid tax, or assessment of bodies formed for short duration, etc.
+
+2.3.2    The salient features of the rates specified in the said Part III are indicated in the following paragraphs:-
+
+2.3.3     Individuals, Hindu undivided families, etc.           
+
+            Paragraph A of Part III of the First Schedule specifies the rates of income-tax in the case of individuals, Hindu undivided families, association of persons, body of individuals or artificial juridical persons other than a co-operative society, firm, local authority and company and are given as under :-
+            
+Income chargeable to tax
+Rate
+individual (other than women and senior citizens), HUF, association of persons, body of individuals and artificial juridical person
+woman, resident in India and below the age of sixty-five years
+senior citizen, resident in India, who is of the age of 65 years or more
+Upto Rs. 1,00,000
+Nil
+Nil
+Nil
+Rs. 1,00,001 – Rs. 1,35,000
+10%
+Rs. 1,35,001 – Rs. 1,50,000
+10%
+Rs. 1,50,001 – Rs. 1,85,000
+20%
+20%
+Rs. 1,85,001 – Rs. 2,50,000
+20%
+Exceeding Rs. 2,50,000
+30%
+30%
+30%
+The tax payable would be enhanced by a surcharge for the purposes of the Union at the rate of ten per cent. of the  tax payable (after allowing rebate under Chapter VIII-A) in cases of individuals, Hindu undivided families, association of persons, body of individuals having total income exceeding Rs.10,00,000/-. No surcharge would be payable by persons having incomes of Rs.10,00,000/- or below. Marginal relief would be provided to ensure that the additional amount of income-tax payable, including surcharge, on the excess of income over Rs.10,00,000/- is limited to the amount by which the income is more than Rs.10,00,000/-. For instance, the amount of tax and surcharge on a total income of Rs. 10,20,000 calculated at the rates specified would have been Rs. 2,56,000 and Rs. 25,600 totaling to Rs. 2,81,600. The additional tax liability, as per this computation, incurred as compared to a person having a total income of Rs. 10,00,000 is Rs. 31,600. However, additional income as compared to a person having a total income of Rs. 10,00,000 is only Rs. 20,000. Therefore, a marginal relief is given to the extent of Rs. 11,600 in this case thereby providing that the additional tax liability cannot be more than the additional income. The total tax liability in this case will, therefore, be Rs. 2,76,000.
+
+In the case of every artificial juridical person (other than a co-operative society, firm, local authority and company), surcharge would be levied at ten per cent. of the income-tax payable on all levels of income.
+
+2.3.6    Education Cess - An additional surcharge called the Education Cess, is to be levied at the rate of two per cent. on the amount of tax deducted or advance tax paid, inclusive of surcharge if any.  Computation of Education Cess is to be done as per the numerical illustration given in para 2.2.4. No marginal relief shall, however, be available in respect of the Education Cess. 
+
+2.3.7     Co-operative societies - In the case of co-operative societies, the rates of income-tax have been specified in Paragraph B of Part III of the First Schedule to the Act. The rates are the same as that specified in the corresponding Paragraph of Part I of the First Schedule to the Act.  No surcharge is to be levied on the income tax and only an additional surcharge called Education Cess is to be levied at 2% on the tax.
+
+2.3.8    Firms - In the case of firms, the rate of income-tax has been specified in Paragraph C of Part III of the First Schedule to the Act. The rate has been reduced to 30 per cent. Surcharge is to be levied at the rate of 10 per cent. on the income-tax and an additional surcharge called Education Cess is to be levied at 2% on such tax and surcharge.
+
+2.3.9    Local authorities - In the case of local authorities, the rate of income-tax has been specified in Paragraph D of Part III of the First Schedule to the Act. This rate is 30 % and is the same as that specified in the corresponding Paragraph of Part I of the First Schedule to the Act. No surcharge is to be levied on the income-tax and only an additional surcharge called Education Cess is to be levied at 2% on tax.
+
+2.3.10  Companies - In the case of companies, the rate of income-tax has been specified in Paragraph E of Part III of the First Schedule to the Act.
+The rate in the case of domestic companies has been reduced to 30 per cent. In the case of foreign companies the rate of tax on royalties received from Government or an Indian concern in pursuance of an agreement made by it with the Government or Indian concerned after 31.03.1961 but before 01.04.1976 will continue to be 50 per cent. The rate of tax for foreign companies on fees for rendering technical services received from Government or an Indian concerned in pursuance of an agreement made by it with the Government or the Indian concerned after 29.02.1964 but before 01.04.1976 will also continue to be 50 per cent.  There is also no change in the existing rate of forty per cent on all other income for foreign companies. The tax payable by domestic companies would be enhanced by a surcharge at the rate of ten per cent. of the  tax payable and in the case of foreign companies tax payable would be enhanced by a surcharge at the rate of two and one-half per cent. of the tax payable.  The additional surcharge called Education Cess is to be levied at 2% on tax and surcharge in case of all companies.
+
+[Section 2 and First Schedule]
+
+3. AMENDMENTS TO SECTIONS OF THE INCOME TAX ACT
+
+3.1       Revival of exemption of interest in Non-Resident (External) Account - Section 10(4) (ii) of the I. T. Act deals with exemption of any income by way of interest on moneys standing to the credit of an individual in a Non-Resident (External) Account in any bank in India. Finance (No. 2) Act, 2004 had amended the said section so as to provide that such interest income paid or credited on or after 01-04-2005 shall not qualify for exemption. Section 4 of the Finance Act, 2005 has amended the said section so as to revive the exemption of such interest income for the period on or after 1st April, 2005.
+
+                        Applicability: From A.Y. 2006-07 onwards.                          
+ [Section 4]
+
+3.2       Revival of exemption of interest on Foreign Currency Deposits - Section 10(15)(iv)(fa) of the I. T. Act deals with exemption of any income payable by way of interest to a non-resident or to a person who is not ordinarily resident on deposits in foreign currency where the acceptance of such deposits by the bank is approved by the Reserve Bank of India. Finance (No. 2) Act, 2004 had amended the said section so as to provide that such interest income payable on or after 01-04-2005 shall not be exempt.  Section 4 of the Finance Act, 2005 has amended the said section so as to revive the exemption of such interest income for the period on or after 1st April, 2005.
+
+Applicability: From A.Y. 2006-07 onwards.           
+         [Section 4]
+
+3.3       Revival of exemption on lease rentals paid while acquiring an aircraft or an aircraft engine -         Section 10(15A) of the I. T. Act provides for an exemption from income-tax for lease payments received by the government of a foreign state or a foreign enterprise from an Indian company engaged in the business of operation of aircraft in respect of a lease of an aircraft or an aircraft engine by the said company.  This exemption is available subject to the condition that the agreement for such lease is entered into prior to 1 st April, 2005.  In other words, the tax exemption is not available in respect of lease rent payments received under an agreement entered into on or after 1st April, 2005.  Further, clause (6BB) of section 10 provides for exemption from tax on any tax paid by the Indian company on behalf of the government of a foreign state or a foreign enterprise in respect of such lease rent payments under an agreement entered into on or after 1st April, 2005.
+
+            The said clause (15A) was amended to provide that the exemption for lease payments shall continue with regard to agreements entered into on or before 30th September, 2005.  The benefit of exemption from tax under clause (6BB) of section 10 will be available in respect of lease payments made in pursuance of agreements entered on or after 1st October 2005.
+
+The Taxation Laws (Amendment) Act, 2005 has further amended clause (15A) of section 10 so as to provide the above-said exemption in respect of lease payments made in pursuance of agreements entered before the 1st day of April, 2006.
+
+Applicability: From A.Y. 2006-07 onwards.  
+             [Section 4]
+3.4       Filing of return mandatory for units in Special Economic Zones
+
+Under the existing provisions of sub-section (1A) of section 10A, an undertaking set up in a Special Economic Zone, which begins to manufacture or produce articles or things or computer software after 31.3.2002, is allowed a hundred per cent. deduction of export profits for a period of five years followed by fifty per cent. deduction of such profits  for the next two years, and thereafter a fifty percent deduction of export profits credited to a special reserve account, for the next three years.
+
+In order to ensure timely submission of returns claiming deduction under section 10A, a proviso has been inserted to provide that no deduction shall be allowed with regard to profits of an undertaking set up in any Special Economic Zone and claiming deduction under sub-section (1A) of section 10A if the return of income is not furnished by the due date specified under sub-section (1) of section 139 of the Income-tax Act. 
+
+            Applicability: From A.Y. 2006-07 onwards.  
+[Section 5]
+
+3.5       Elimination of Standard deduction for salaried tax payers.
+
+Under the existing provisions of section 16, in computing the income under the head ‘Salaries’, an assessee whose income from salary does not exceed rupees five lakhs, is allowed a deduction of forty per cent. of salary or thirty thousand rupees, whichever is less. In the case of an assessee whose salary income exceeds rupees five lakhs, a deduction of rupees twenty thousand is allowed.
+
+In view of the increase in the general exemption limit to rupees one lakh and the substantial broadening of the income slabs, clause (i) of the said section has been omitted, so as to withdraw the above benefits.
+
+            Applicability: From A.Y. 2006-07 onwards.  
+[Section 6]
+
+3.6       Enhancement of the rate of additional depreciation on new machinery and plant and withdrawal of certain conditions –
+
+Under the existing provisions of clause (iia) of sub-section (1) of section 32, additional depreciation is allowed at the rate of fifteen per cent of the actual cost of the new machinery and plant (other than ships and aircraft) acquired and installed after the 31st day of March, 2002. Additional depreciation is allowed in the case of a new industrial undertaking during any previous year in which it begins to manufacture or produce any article or thing on or after the 1st day of April, 2002 or to any industrial undertaking existing before that date if it achieves substantial expansion during the previous year by way of increase in its installed capacity by not less than ten per cent.
+
+            In order to encourage investment, the Finance Act, 2005 has amended section 32 to increase the rate of additional depreciation to twenty per cent on new machinery and plant other than ships and aircraft, acquired and installed after the 31st day of March, 2005, and dispensed with the condition of additional depreciation to be allowed to a new industrial undertaking and the condition of expansion in installed capacity.
+
+            Depreciation rates have been modified through a Notification dated 28th February, 2005. The modified depreciation rates are effective from Assessment Year 2006-07. Among other things, the rate of depreciation on plant and machinery has been reduced from 25 % to 15 %.
+
+            Applicability: From A.Y. 2006-07 onwards.              
+
+[Section 8]
+
+3.7       Reserves to be added to profits and not the sale proceeds on sale of a ship
+
+The existing sub-section (4) of section 33AC contains provisions dealing with the sale or transfer of a ship after the expiry of three years’ lock-in period. Where a company sells or transfers the ship after three years’ lock-in period and the sale proceeds are not utilised for the purpose of acquiring a new ship within a period of one year from the end of the previous year in which such sale or transfer took place, the sale proceeds are deemed to be the profits of the assessment year immediately following the previous year in which the ship was sold or transferred.
+
+            A new ship is acquired by a shipping company not only by utilising the reserves but also by resorting to loans and other finances. When a ship so acquired is sold or transferred, taxation of the whole of the sale proceeds would imply taxation of loans and other finances which has never been the intention. The legislative intention, in essence, has always been to tax only reserves utilised for acquiring the ship. The Finance Act, 2005 has amended the said sub-section (4) so as to provide that only so much of the sale proceeds which represent the amount credited to the reserve account and utilised for acquisition of the ship would be deemed as profits.
+
+            Applicability: With retrospective effect from A.Y. 2004-05 and subsequent assessment years.        
+
+[Section 9]
+
+3.8       Extension of weighted deduction for expenditure incurred on in-house R&D 
+
+Under the existing provisions contained in sub-section (2AB) of section 35, a company engaged in the business of bio-technology or in the business of manufacture or production of any drugs, pharmaceuticals, electronic equipment, computers, chemicals, or any other article or thing notified by the Board incurring any expenditure on scientific research (excluding cost of land or building) on in-house research and development facility, is allowed a weighted deduction of a sum equal to one and one half times, i.e., hundred and fifty per cent. of the expenditure so incurred. However, no deduction with regard to such expenditure incurred after 31st March, 2005 shall be allowed.
+
+With a view to encourage indigenous in-house scientific research and development, the time limit for availing the weighted deduction under the said sub-section has been extended by two more years i.e. from 31.3.2005 to 31.3.2007.
+
+            Applicability: From A.Y. 2006-07 onwards.  
+[Section 10]
+
+3.9       Employer to be allowed entire expenses incurred on implementing VRS
+
+            Under the existing provisions contained in sub-section (1) of section 35DDA, if any expenditure is incurred by an assessee in any previous year by way of payment of any sum to an employee at the time of his voluntary retirement, under any scheme of voluntary retirement framed in accordance with the guidelines prescribed under clause (10C) of section 10, then one-fifth of the amount so paid is deducted in computing the profits and gains of the business for that previous year and the balance is deducted in equal instalments in each of the four immediately succeeding previous years.
+
+            The existing provisions of section 35DDA do not provide for deduction of the entire amount paid in more than one instalment. The Finance Act, 2005 has, therefore, amended the aforesaid sub-section (1) so as to allow the whole expenditure incurred by the assessee employer in making payment to the employee in connection with his voluntary retirement either in the year of retirement or in any subsequent year, as deduction. The amendment would facilitate deduction of each part payment in five equal instalments beginning from the year in which such part payment is made to the employee.
+
+The following numerical illustration depicts admissibility of deduction under section 35DDA (In this example, Rs. 30 lakhs is paid on voluntary retirement in three annual instalments starting from Financial Year 2004-05)
+  
+Financial Year
+Deduction available to employer when he pays Rs. 10 lakhs in first year, Rs. 15 lakhs in the second and
+balance Rs. 5 lakhs in the third year
+(in Rs. lakhs)
+2004-05
+2
+ 
+ 
+2005-06
+2
+3
+ 
+2006-07
+2
+3
+1
+2007-08
+2
+3
+1
+2008-09
+2
+3
+1
+2009-10
+ 
+3
+1
+2010-11
+ 
+ 
+1
+
+            Applicability: With retrospective effect from A.Y. 2004-05 and subsequent assessment years.        
+            
+[Section 11]
+
+3.10     Excluding ‘trading in derivatives’ on recognised stock exchanges from the ambit of ‘speculative transactions’
+
+            Existing provisions of clause (5) of section 43 define ‘speculative transaction’ to mean a transaction in which a contract for the purchase or sale of any commodity including stocks and shares is settled otherwise than by the actual delivery or transfer of the commodity or scrips.  The proviso to section 43(5) lists out certain transactions which are not deemed to be speculative transactions.
+
+            Systemic and technological changes introduced by SEBI have resulted in sufficient transparency in the stock markets and have to a large extent curbed the scope for generating fictitious losses through artificial transactions or shifting of incidence of loss from one person to another.  The screen based computerized trading provides for audit trail. In the wake of these developments, the present distinction between speculative and non-speculative transactions, in respect of trading in derivatives of securities is losing relevance.
+
+The Finance Act, 2005 has, accordingly, amended section 43(5) to provide that an eligible transaction in respect of trading in derivatives of securities carried out on a recognised stock exchange shall not be deemed as speculative transaction.  The notification prescribing the rules and the conditions to be fulfilled by a stock exchange to be recognized by the Central Government for the purposes of section 43(5) [i.e., Rules 6DDA and 6DDB of the Income-tax Rules, 1962] has been published in the Official Gazette on 1st July, 2005 vide S. O. No. 932(E).
+
+            Applicability: From A.Y. 2006-07 onwards.              
+[Section 14]
+
+3.11     Providing for set off of losses of a banking company against the profits of a banking institution under a scheme of amalgamation
+
+            The newly inserted section 72AA provides that where a banking company has been amalgamated with a banking institution under a scheme sanctioned and brought into force by the Central Government under sub-section (7) of section 45 of the Banking Regulation Act, 1949, the accumulated loss and unabsorbed depreciation of the amalgamating banking company shall be deemed to be the loss or allowance for depreciation of the amalgamated banking institution for the previous year in which the scheme of amalgamation is brought into force.  It has also been provided that all the provisions relating to set off and carry forward of loss and unabsorbed depreciation shall apply to the above. 
+
+            The terms "accumulated loss", "banking company", "banking institution" and "unabsorbed depreciation" have been defined in the section.
+
+            A new clause (viaa) has been inserted in section 47 providing that any transfer of a capital asset by such a banking company to such a banking institution in such a scheme of amalgamation, shall not be regarded as a transfer for the purposes of capital gains. Sub-section (1) of section 49 has also been amended so as to provide that, where the capital asset became the property of the assessee (banking institution) under aforesaid scheme of amalgamation, the cost of acquisition of the asset shall be deemed to be the cost for which previous owner (amalgamating banking company) of the asset acquired it, as increased by the cost of any improvement of the asset incurred or borne by the previous owner or the assessee, as the case may be.
+
+            Applicability: With retrospective effect from A.Y. 2005-06 and subsequent years.                                                                                                
+[Sections 8, 15, 16 & 19]
+
+3.12     Speculation losses allowed to be carried forward for four years
+
+            Under the existing provisions contained in sub-section (4) of section 73 no loss computed in respect of a speculation business is allowed to be carried forward for more than eight assessment years immediately succeeding the assessment year for which such loss was first computed.
+
+            Finance Act, 2005 has amended the said sub-section (4) so as to reduce the period of loss to be carried forward from eight assessment years to four assessment years.
+
+            Applicability: From A.Y. 2006-07 onwards.  
+[Section 20]
+
+3.13     Rationalisation of the tax treatment of savings.
+
+            The existing method of taxing financial savings is distortionary resulting in economic inefficiency and inequity.  With a view to removing such distortionary effects, there is a move towards shifting to the EET(Exempt Exempt Tax) method of taxation of such financial savings.  However, the shift from the existing EEE method to EET method is likely to impose transitional administrative problems. The design of some existing saving schemes in operation, particularly mandatory plans and insurance products, may not allow for sufficient flexibility in the short run to switch to an EET method of taxation.  Accordingly a committee of experts has been set up to work out the roadmap for moving towards an EET system. 
+
+            Pending the report of the committee of experts and with a view to rationalise the tax treatment of financial savings and to adopt a more uniform approach, a new section 80C has been inserted wherein it is provided that an individual or a Hindu undivided family shall be allowed a deduction from income of an amount not exceeding one lakh rupees with respect to sums paid or deposited in the previous year, in certain specified schemes. The investments eligible for deduction under the proposed section are the same as those entitled for rebate from income-tax under section 88. These include   life insurance premia, contributions to provident fund or   schemes for deferred annuities, purchase of infrastructure bonds, payment of tuition fees, repayment of principal amount of housing loans, etc. However, in order to minimise distortions, there are no sectoral caps provided in the section and the assessee is free to invest in any one or more of the eligible instruments within the overall ceiling specified.
+
+Further, a new section 80CCE has also been inserted to provide that the aggregate amount of deductions under section 80C, section 80CCC and section 80CCD shall not exceed one lakh rupees.
+
+In view of insertion of new section 80C, section 88 has been amended to provide that no deduction from income-tax under the said section shall be allowed to any assessee for assessment year 2006-07 and subsequent assessment years.
+
+In view of the move towards EET method of taxation of financial saving schemes, section 80L has been omitted from assessment year 2006-07.
+
+Consequential amendments have also been carried out in section 10, section 54EC, section 54ED, section 80CCC, section 80CCD, and section 295.
+
+            Applicability: From A.Y. 2006-07 onwards.  
+
+[Section 21 , 4, 17, 18, 22, 23, 24, 28, 29 & 64 ]
+
+3.14     Deduction for entire amount of interest paid on a loan taken for pursuing higher education.
+
+Under the existing provisions of section 80E, a deduction upto forty thousand rupees is allowed to an individual on account of any amount paid by him in the previous year by way of repayment of loan, or interest on such loan, taken from any financial institution or any approved charitable institution for the purpose of pursuing higher education.  The deduction is available for eight assessment years beginning from the assessment year relevant to the previous year in which the repayment of loan or interest thereon begins.
+In order to encourage the pursuit of higher studies, section 80E has been substituted so as to provide that the entire amount of interest paid by an individual during the previous year on the loan taken from any financial institution or any approved charitable institution for the purposes of pursuing higher education, shall be allowed as a deduction from the total income. However, no deduction shall be allowed for repayment of the principal loan amount. The deduction shall be allowed for eight assessment years beginning from the assessment year relevant to the previous year in which the payment of interest on the loan begins.
+
+Applicability: From A.Y. 2006-07 onwards.  
+[Section 25]
+
+3.15     Extension of tax benefits for developing, operating, maintaining an infrastructure facility to authorities constituted under a Central or State Act. 
+            
+Under the existing provisions of clause (i) of sub-section (4) of section 80-IA, an enterprise carrying on the business of developing or operating and maintaining or developing, operating and maintaining any infrastructure facility is eligible for a hundred per cent. deduction of profits for a period of ten years, if it fulfils all the following conditions:-
+  
+it is owned by a company registered in India or by a consortium of such companies;
+it has entered into an agreement with the Central Government or a State Government or a local authority or any other statutory body for (i) developing or (ii) operating and maintaining or (iii) developing, operating and maintaining a new infrastructure facility;
+it has started or starts operating and maintaining the infrastructure facility on or after the 1st day of April, 1995.
+
+With a view to rationalise the provisions of section 80-IA to enable the statutory bodies carrying on the business of developing, operating or maintaining infrastructure facility to avail tax benefit under the said section, sub-clause (a) of clause (iv) of sub-section (4) of section 80-IA has been amended.  As a result, an authority or a board or a corporation or any other body established or constituted under a Central or State Act, may take advantage of the benefits provided under the said section.
+
+Applicability: From A.Y. 2006-07 onwards.                           [Section 26]
+3.16     Extension of time limit for setting up of industries in the State of Jammu and Kashmir for the purpose of tax holiday under section 80-IB
+
+Under the existing provisions contained in sub-section (4) of section 80-IB, industrial undertakings engaged in manufacture or production of an article or thing or in operation of a cold storage plant and set up during the period 1.4.1993 to 31.3.2005 in the State of Jammu and Kashmir, are eligible for a hundred per cent. deduction of profits for a period of five years, followed by twenty-five per cent. (thirty per cent. in the case of companies) for the next five years. However, such industrial undertakings engaged in manufacture or production of articles or things mentioned in part ‘C’ of the Thirteenth Schedule are not eligible for the said deduction. The deduction is not available to industries in the State set up after 31.3.2005.
+
+With a view to promote industrial development of the State of Jammu and Kashmir, the terminal date for setting up of industrial undertakings and commencement of eligible business in the State has been extended by two more years, from 31.3.2005 to 31.3.2007.
+
+Applicability: From A.Y. 2006-07 onwards.
+            
+[Section 27]
+
+
+3.17     Extension of the time limit for the purpose of tax holiday under section 80-IB to any company carrying on scientific research and development.
+
+Under the existing provisions of sub-section (8A) of section 80-IB, a company carrying on scientific research and development is allowed a hundred per cent deduction of the profits and gains of such business for a period of ten assessment years, if such company-
+  
+is registered in India
+has the main object of scientific & industrial research and development
+is approved by the Secretary, Department of Scientific and Industrial Research, Ministry of Science and Technology, before 1st April, 2005 and fulfils the conditions prescribed by the Board.
+
+With a view to promote scientific research and development in the country, the time period for approval of the companies carrying on scientific research and development, by the prescribed authority has been extended from 31.3.2005 to 31.3.2007.
+
+Applicability: From A.Y. 2006-07 onwards.  
+
+[Section 27]
+
+3.18     Elimination of tax rebate for senior citizens under section 88B and for women under section 88C
+
+The provisions contained in section 88B provide for a deduction from income-tax payable on the total income of an individual who is resident in India and of the age of sixty-five years or above at any time during the previous year.  The deduction is allowed of the whole amount of such income-tax or rupees twenty thousand, whichever is less.
+
+The provisions of section 88C provide for a deduction from income-tax payable on the total income of a woman who is resident in India and below the age of sixty-five years at any time during the previous year. The deduction is allowed of the whole amount of such income-tax or rupees five thousand, whichever is less.
+
+In view of the increase in the exemption limit for senior citizens to rupees one lakh eighty five thousand and for women to rupees one lakh thirty five thousand, the rebate from income-tax under the said sections has been withdrawn.
+
+Applicability: From A.Y. 2006-07 onwards.  
+[Section 30 & 31]
+
+3.19     Elimination of tax rebate under section 88D for persons with income below rupees one lakh.
+
+The provisions of section 88D provide for a rebate of the entire amount of income-tax payable in case of an individual resident in India, having total income up to rupees one lakh. It also provides marginal relief to ensure that the post tax income of any individual does not fall below rupees one lakh.
+
+In view of the increase in the general exemption limit to rupees one lakh, section 88D, having become infructuous, has been omitted.
+
+Applicability: From A.Y. 2006-07 onwards.  
+[Section 32]
+
+3.20      Rationalisation of taxation of income arising from zero coupon bonds
+
+The Finance Act, 2005 has inserted a new clause (48) in section 2, defining ‘zero coupon bond’ to mean a bond –
+  
+which is issued on or after 1.6.2005 by an infrastructure capital company or infrastructure capital fund or public sector company;
+in relation to which no benefit is received or receivable before maturity or redemption from the company or the fund; and
+which is specified by the Central Government in the Official Gazette in this behalf.
+
+            Explanation to the newly inserted clause (48) provides that the expressions ‘infrastructure capital company’ and ‘infrastructure capital fund’ shall have the same meanings respectively assigned to them in clauses (a) and (b) of Explanation (1) to clause (23G) of section 10.    
+ Clause (47) of section 2 has been amended so as to include "maturity or redemption of a zero coupon bond"  in the definition of the term "transfer".
+
+            Clause (42A) of section 2 has also been amended providing that where a zero coupon bond  is held as a capital asset for a period of not more than twelve months, it shall be treated as a short term capital asset. 
+
+            Section 112 has been amended so as to bring parity with the other securities for the purposes of calculating tax on long term capital gains arising from transfer of zero coupon bonds. Thus, where the tax payable in respect of long-term capital gain arising from transfer of a zero coupon bond exceeds ten per cent. of the amount of capital gains without indexing i.e., before giving effect to the provisions of second proviso to section 48, then such excess shall be ignored.
+
+            A new clause (iiia) has been inserted in section 36 providing that the infrastructure capital company or infrastructure capital fund or public sector company which issues the zero coupon bond shall be allowed a deduction for the pro-rata amount of discount on the zero coupon bond in the manner as may be prescribed. Explanation to the said sub-clause provides the meanings of the expressions ‘discount’, ‘period of life of the bond’, ‘infrastructure capital company’, and ‘infrastructure capital fund’
+
+            A new clause (x) has been inserted in sub-section (3) of section 194A providing that no tax shall be deducted in respect of the income which is payable by an infrastructure capital company or infrastructure capital fund or a public sector company in relation to a zero coupon bond issued by it. 
+            
+In view of above, income arising from zero coupon bond as defined in clause (48) of section 2 shall be taxed only in the year in which same is transferred or redeemed or matured.  If such bond is held as capital asset, income therefrom shall be taxed under the head ‘income from capital gains’ whereas if it is held as stock-in-trade, income therefrom shall be taxed under the head ‘Profits and gains from business or profession’.  Thus, no income from a zero coupon bond shall be taxed on accrual basis during the period of its holding by a person. It is further clarified that Circular No. 2/2002 dated 15th February, 2002 explaining the tax treatment in respect of Deep Discount Bonds shall not be applicable in respect of zero coupon bonds as defined in clause (48) of section 2.
+
+Applicability: From A.Y. 2006-07 onwards.                                                                             
+
+ [Sections 3, 12, 33 & 48]
+
+3.21     Reduction in rate of tax on royalty and fees for technical services in the case of a non-resident from 20% to 10%
+
+            The existing provisions of clause (b) of sub-section (1) of section 115A provide for the rate at which income-tax shall be payable where the total income of a non-resident (not being a company) or a foreign company includes any income by way of royalty or fees for technical services other than income referred to in sub-section (1) of section 44DA received from Government or an Indian concern in pursuance of an agreement made by the foreign company with Government or the Indian concern after 31st March, 1976, and where such agreement is with an Indian concern, the agreement is approved by the Central Government or where it relates to a matter included in the industrial policy, for the time being in force, of the Government of India, the agreement is in accordance with that policy.
+
+            Under the existing provisions contained in the said clause (b), the royalty or fees for technical services received in pursuance of an agreement made on or before 31st May, 1997 is taxable at the rate of thirty per cent. and where such royalty or fees for technical services is received in pursuance of an agreement made after 31st May, 1997, the same is taxable at twenty per cent.
+
+            The said clause (b) of sub-section (1) has been amended so as to reduce the said tax rate from twenty per cent. to ten per cent. on royalty or fees for technical services received in pursuance of an agreement made on or after 1st June, 2005.  The rate of tax now applicable will be as follows:
+  
+Agreement entered into during
+Rate of tax
+01-04-1976 to 31-05-1997
+30 %
+01-06-1997 to 31-05-2005
+20 %
+On or after 01-06-2005
+10 %
+
+            Consequential amendments in Part II of the First Schedule to the Finance Act, 2005 were also made reducing the rates for deduction of tax at source in the case of royalty or fees for technical services from twenty per cent. to ten per cent.
+
+            Applicability: From A.Y. 2006-07 onwards.  
+
+[Section 34 and First Schedule]
+
+3.23     Allowing tax credit for MAT paid under section 115JB against tax liability in subsequent years under other provisions.
+
+Under the existing provisions of section 115JB, where the income-tax payable by a company in the previous year is less than seven and one-half per cent. of its  book profit such book profit is deemed to be  the total income of the company and it is liable to pay income-tax at the rate of seven and one-half per cent. of such book profit. No credit of such tax paid by the company under this section is allowed against the tax liability which arises in subsequent years under the other provisions of the Act.
+
+With a view to provide credit for such payment, section 115JAA has been amended to provide that where any amount of tax is paid under sub-section (1) of section 115JB by a company for any assessment year beginning on or after the 1st day of April,2006, credit in respect of the taxes so paid for such assessment year shall be allowed on the difference of the tax paid under section 115JB and the amount of tax payable by the company on its total income computed in accordance with the other provisions of the Act. The amount of tax credit so determined shall be allowed to be carried forward and set off in a year when the tax becomes payable on the total income computed under the regular provisions. However, no carry forward shall be allowed beyond the fifth assessment year immediately succeeding the assessment year in which the tax credit becomes allowable. The set off in respect of the brought forward tax credit shall be allowed for any assessment year to the extent of the difference between the tax on the total income and the tax which would have been payable under section 115JB for that assessment year.
+
+            A numerical illustration:-
+            
+A.Y.
+Normal tax liability
+Tax liability u/s. 115JB
+Tax payable by the assessee [Higher of (2) and (3)]
+Additional tax liability
+(4) – (2)
+Credit u/s. 115JAA utilised
+Credit available for carry forward
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+2006-07
+100
+300
+300
+200
+-
+200
+2007-08
+120
+90
+120
+NIL
+30#
+170
+2008-09
+150
+110
+150
+NIL
+40
+130
+2009-10
+180
+200
+200
+20
+-
+150
+2010-11
+200
+150
+200
+NIL
+50
+100
+2011-12
+225
+175
+225
+NIL
+50
+50*
+
+#          Even though credit of 200 is available, only 30 can be utilised so that the tax payable by the assessee does not go below the amount computed u/s. 115JB.
+
+*          out of the credit of 50, 30 is belonging to A.Y. 2006-07 and 20 belongs to A.Y. 2009-10. In view of provisions of sub-section (3) of section 115JAA the credit of 30 will not be allowable after A.Y. 2011-12 and would accordingly lapse. However, credit of 20 pertaining to A.Y. 2009-10 would be allowed to be carried forward till A.Y. 2014-15.
+
+Applicability: From A.Y. 2006-07 onwards.  
+
+[Section 35]
+
+3.24     Dredgers to be treated as qualifying ship for the purpose of Tonnage Tax Scheme
+
+            Chapter XII-G provides for special provisions for taxation of the income of shipping companies from qualifying ships. Section 115VD in that Chapter lists out the conditions fulfillment of which renders a ship as a qualifying ship. The section further excludes ‘dredgers’ from the category of qualifying ships. Representations were received pointing out that inland dredging companies also face international competition and need a level playing field. On an appreciation of such representations, clause (vii), excluding "dredgers" from the list of qualifying ship has been omitted through the Finance Act, 2005. The amendment has the effect of rendering dredgers as qualifying ships for the purposes of tonnage tax scheme.
+            
+            Applicability: From A.Y. 2006-07 onwards.  
+
+[Section 36]
+
+3.25     Measures to provide for filing of return in certain cases
+
+            Section 139 of the Income-tax Act, 1961, relates to furnishing of return of income.
+
+            The existing provisions of the said section provide for compulsory filing of return by every company. It has now been provided that every firm shall also compulsorily file a return of income in respect of its income or loss in every previous year.
+
+            The existing provisions of the said section also provide that persons other than a company shall be required to file their return of income if their total income exceeds the maximum amount which is not chargeable to tax.  With a view to widen the tax base, this section has been amended so as to provide for compulsory filing of return by the persons other than companies and firms whose total income before giving effect to the provisions of Chapter VI-A and sections 10A, 10B or 10BA exceeds the maximum amount not chargeable to tax.
+
+            The existing provisions of the said section also provide that every person other than a company whose total income does not exceed the maximum amount which is not chargeable to tax shall also furnish return of his income if he fulfils any of six expenditure criteria (this scheme is popularly known as one-by-six scheme). The scope of this scheme has been modified. Subscriber-ship to a cellular phone has been excluded from the ambit of the scheme. However, it has been provided that a person incurring an expenditure of more than Rs.50,000/- on electricity consumption during the previous year shall also be required to file his return of income under the said scheme.
+
+            Applicability: From A.Y. 2006-07 onwards.  
+
+ [Section 40]
+
+3.26     Rationalisation of the provisions relating to assessment of income in search and seizure cases
+
+            Under the existing provisions of clause (a) of sub-section (1) of section 153B, an Assessing Officer is required to make an order of assessment or re-assessment of total income of the six assessment years preceding the assessment year relevant to the previous year in which search under section 132 is conducted or requisition under section 132A is made, within a period of two years from the end of the financial year in which the last of the authorizations for search, or for requisition was executed.
+
+            Clause (b) of the said sub-section provides that an Assessing Officer shall make an order of assessment or re-assessment of total income of the assessment year relevant to the previous year in which search is conducted or requisition under section 132A is made, within a period of two years from the end of the financial year in which the last of the authorizations for search under section 132 or requisition under section 132A was executed.
+            The time limit provided in the aforesaid clauses (a) and (b) is also applicable for making assessment or re-assessment in the case of other person referred to in section 153C. 
+
+            With a view to rationalize the above provisions in respect of the other person referred to in section 153C, a proviso has been inserted in sub-section (1) of the said section 153B providing that in the case of such other person the time limit for making assessment or re-assessment of total income of the assessment years referred to in clauses (a) and (b) of the said sub-section shall be two years from the end of the financial year in which the last of the authorizations for search under section 132 or for requisition under section 132A was executed or one year from the end of the financial year in which books of account or documents or assets seized or requisitioned are handed over to the Assessing Officer having jurisdiction over such other person, whichever is later.
+
+            The existing provisions of section 153C provide that where the Assessing Officer is satisfied that books of account or documents or assets seized under section 132 or requisitioned under section 132A belong to a person other than a person in whose case search under section 132 or requisition under section 132A was made, he shall hand over the same to the Assessing Officer having jurisdiction over such other person and that Assessing Officer shall proceed against such other person under section 153A.  Second proviso to section 153A provides that any assessment or re-assessment, relating to any assessment year falling within the period of six assessment years referred to in the said section, pending on the date of initiation of search under section 132 or on the date of making of requisition under section 132A, shall abate.
+
+            The existing section 153C has been renumbered as sub-section (1) of the said section. Further, a new proviso to sub-section (1) of section 153C has been inserted providing that in the case of such other person, the reference to the date of initiation of search under section 132 or making of requisition under section 132A in the second proviso to section 153A, shall be construed as reference to the date of receiving the books of account or documents or assets seized or requisitioned by the Assessing Officer having the jurisdiction over such other person.
+
+            A new sub-section (2) has been inserted in section 153C providing that in case of such other person for the assessment year relevant to the previous year in which search is conducted under section 132 or requisition is made under section 132A, where (a) no return of income has been furnished by such person and no notice under sub-section (1) of section 142 has been issued to him, or (b) a return of income has been furnished by such person but no notice under sub-section (2) of section 143 has been served and the limitation of serving the notice under sub-section (2) of section 143 has expired, or (c) assessment or re-assessment, if any, has been made, before the date of receiving of books of account or documents or assets seized or requisitioned by the Assessing Officer having jurisdiction over such other person, such assessing officer shall issue the notice and assess or re-assess total income of such other person for such assessment year in the manner provided in 153A.  The provisions of the newly inserted sub-section (2) would apply where books of account or documents or assets seized or requisitioned referred to in sub-section (1) of the said section 153C, have been received by the Assessing Officer having jurisdiction over such other person after the due date for furnishing the return of income under sub-section (1) of section 139 for the assessment year relevant to the previous year in which search is conducted u/s 132 or requisition is made under section 132A. 
+
+            In other words, the amendments brought in section 153B and section 153C shall have the following effects in relation to assessment or reassessment in case of other persons referred to in section 153C:-
+  
+A  period of one year from the end of financial year in which the books of account or documents or assets seized or requisitioned are handed over to the Assessing Officer having jurisdiction over such other person shall be available for the purposes of  making assessment or reassessment under section 153A;
+Any assessment or reassessment for any assessment year falling within a period of six assessment years immediately preceding the assessment year relevant to the previous year in which search is conducted or requisition is made pending on the date on which books of account or documents or assets seized or requisitioned are received by the assessing officer having jurisdiction over such other person, shall abate;
+For  assessment year relevant to the previous year in which search is conducted or requisition is made, the assessment or reassessment shall be made under section 153A if following conditions are satisfied:-
+  
+seized  or requisitioned books of account or documents or assets are received by the assessing officer having jurisdiction over such other person after the due date for furnishing return under sub- section (1) of section 139 in his case for such assessment year, and
+before the date of receipt of seized  or requisitioned books of account or documents or assets by the assessing officer having jurisdiction over such other person –
+  
+no return of income has been furnished by such other person under  sub-section (1) of section 139 and no notice under sub-section (1) of section 142 has been  issued to him  for such assessment year, or
+a return of income has been furnished by such other person but no notice under sub-section (2) of section 143 for such assessment year has been served and the limitation of serving such notice has expired, or
+assessment or reassessment, if any, for such assessment year has been made.
+
+            These amendments have been brought into effect retrospectively from 1st June, 2003.
+ 
+                                                                                          [Sections 46 & 47]
+
+3.27     Truck operators owning upto two trucks exempted from TDS
+
+Under the existing provisions contained in sub-section (3) of section 194C tax is required to be deducted where the amount of any sum credited or paid or likely to be credited or paid exceeds twenty thousand rupees or the aggregate of the payments made to one single contractor or sub-contractor exceeds fifty thousand rupees.
+
+            The existing provisions result in deduction of tax at source even in cases of truck owners owning upto two trucks even though under section 44AE they have the option of showing their income at Rs. 84,000/- which is now below the taxable limit. 
+
+Therefore, the Finance Act, 2005 has amended the said section to provide for non-deduction of tax at source from the amount paid / credited, during the course of business of plying, hiring or leasing goods carriages, to a sub-contractor being an individual and owning upto two goods carriages at any time during the previous year. The sub-contractor (transporter) needs to furnish a declaration in the prescribed Form to the person paying or crediting. The person making payment to the sub-contractor without deduction of tax at source is also required to furnish to the income-tax authority the prescribed particulars in the prescribed Form within the prescribed time. The notification prescribing the rules and the Forms to be furnished by the sub-contractor and the contractor [i.e., Rule 29D and Form Nos. 15-I and 15J of the Income-tax Rules, 1962] was published in the Official Gazette on 17th June, 2005 vide S. O. No. 855(E).
+            
+            This amendment is applicable from 1st June, 2005.
+
+[Section 49]
+
+
+
+
+3.28     Demat provisions of TDS / TCS - Tax deductor/collector not to issue TDS/TCS certificate and return of income not to be accompanied by TDS/TCS certificate for taxes deducted on or after 1st April, 2006
+
+            Existing provisions in respect of taxes deducted or collected on or after 1st April, 2005 provide for the following regarding issuance of TDS or TCS certificates :-
+  
+Section
+TDS
+TCS
+203(3) and the  First Proviso to 206C(5)
+Deductor is not required to issue a TDS certificate to deductee.
+Collector is not required to issue a TCS certificate to collectee.
+139(9)
+Deductee not required to enclose TDS certificate with the return – consequently return will not be treated defective.
+Collectee not required to enclose TCS certificate with the return.
+199(3) and the
+Proviso to 206C(4)
+Credit for TDS will be given on the basis of annual statement of taxes accessible to the Assessing Officer.
+Credit for TCS will be given on the basis of annual statement of taxes accessible to the Assessing Officer.
+
+                        Dematerialisation of TDS/TCS Certificates should exclusively operationalise only after the On-Line Tax Accounting System (OLTAS) becomes flawlessly functional. Since OLTAS is yet to stabilise, there is need for issuance of paper tax deduction and collection certificates in the transitional Financial Year 2005-06 during which paper certificates should be required to be issued to the deductee or collectee. The following relevant provisions have been amended in respect of taxes deducted or collected to provide for this arrangement:-
+  
+during the Financial Year 2005-06 (transitional year) and
+in respect of tax deducted or collected on or after 1st April, 2006
+  
+Section
+TDS
+TCS
+203(3) and the First Proviso to 206C(5)
+For the taxes deducted during the Financial Year 2005-06, the deductor is required to issue a TDS certificate to the deductee. However, for the taxes deducted on or after 1st April, 2006, the deductor is not required to issue TDS certificate to the deductee.
+For the taxes collected during the Financial Year 2005-06, the collector is required to issue a TCS certificate to the collectee. However, for the taxes collected on or after 1st April, 2006, the collector is not required to issue TCS certificate to the collectee.
+139(9)
+Deductee is required to enclose the TDS certificate with the return of income for the taxes deducted during the Financial Year 2005-06 (A.Y. 2006-07).  However, for the taxes deducted on or after 1st April, 2006, the deductee is not required to enclose the TDS certificate with the return of income (from A.Y. 2007-08 onwards) and such return will not be treated as defective.
+Collectee is required to enclose the TCS certificate with the return of income for the taxes collected during the Financial Year 2005-06 (A.Y. 2006-07).  However, for the taxes collected on or after 1st April, 2006, the collectee is not required to enclose the TCS certificate with the return of income (from A.Y. 2007-08 onwards).
+199(3) and the
+Proviso to 206C(4)
+For the taxes deducted during the Financial Year 2005-06, credit for TDS will be given on the basis of the TDS certificate accompanying the return. However, credit for the taxes deducted on or after 1st April, 2006 will be given on the basis of annual statement of taxes accessible to the Assessing Officer.
+For the taxes collected during the Financial Year 2005-06, credit for TCS will be given on the basis of the TCS certificate accompanying the return. However, credit for the taxes collected on or after 1st April, 2006 will be given on the basis of annual statement of taxes accessible to the Assessing Officer.
+
+  [Sections 40, 50, 51 and 53]
+
+3.29     Furnishing of quarterly return in respect of payment of interest to residents without deduction of tax
+
+Under the existing provisions of section 194A(3), no deduction of tax is required to be made on credit or payment of interest on time deposits with a Banking Company, time deposits with a Cooperative Society and deposits with a Public Company where such interest does not exceed five thousand rupees. The Finance Act, 2005 has inserted a new section 206A whereby such banking companies, co-operative societies and public companies are required to furnish quarterly returns in respect of such interest not exceeding five thousand rupees. The quarterly returns are required to be prepared for the quarters ending on the 30th June, the 30th September, the 31st December and the 31st March of the financial year, delivered or cause to be delivered to the prescribed income-tax authority or the person authorised by such authority and verified in such manner and within such time as may be prescribed. The quarterly returns are to be furnished on a floppy, diskette, magnetic cartridge tape, CD-ROM or any other computer readable media giving therein the details of payment of such interest. The Form for the quarterly return, the income-tax authority to whom such return is to be furnished and the time and manner in which the quarterly return is to be furnished have been notified [i.e., Rule 31AC and Form No. 26QA of the Income-tax Rules, 1962] vide S. O. No. 896 (E) dated 28th June, 2005.
+
+The new section further provides that the Central Government may notify any other person responsible for paying to a resident any income liable for deduction of tax at source under Chapter XVII, to prepare and deliver or cause to be delivered quarterly returns in the prescribed form and verified in such manner and within such time as may be prescribed, to the prescribed income-tax authority or the person authorised by such authority on a floppy, diskette, magnetic cartridge tape, CD-ROM or any other computer readable media.
+
+This amendment is applicable from 1st June, 2005.
+
+[Section 52]
+
+3.30     Penalty for not furnishing quarterly returns by banks, co-operative societies and public companies under section 206A.
+
+            The Finance Act, 2005 has inserted a new clause (l) in sub-section (2) in section 272A to provide for penalty in cases of failure to deliver or cause to be delivered the quarterly return within the time specified in the newly inserted sub-section (1) of section 206A.  A penalty of a sum of one hundred rupees for every day of default has been provided.
+
+This amendment is applicable from 1st June, 2005.
+
+[Section 60]
+
+3.31     Securities Transaction Tax
+
+The existing provisions of Chapter VII of the Finance (No.2) Act, 2004 provide for levy of a securities transaction tax on the value of transactions in respect of specified securities. 
+
+With a view to mobilize additional resources and plug revenue leakages, the Act has increased the rates for levy of the securities transaction tax with effect from 1st June, 2005.  The new rates are as follows:-
+  
+S. No.
+Taxable securities transaction
+Old rate
+(before
+01-06-2005)
+New rate
+(on or after
+01-06-2005)
+1
+purchase of an equity share in a company or a unit of an equity oriented fund, entered in a recognized stock exchange and settled by actual delivery or transfer of such share or unit
+0.075 %
+0.1%
+2
+sale of an equity share in a company or a unit of an equity oriented fund, entered in a recognized stock exchange and settled by actual delivery or transfer of such share or unit
+0.075 %
+0.1%
+3
+non-delivery based sale of an equity share in a company or a unit of an equity oriented fund, entered in a recognized stock exchange
+0.015 %
+0.02%
+4
+transactions of derivatives being option or future, entered in a recognized stock exchange
+0.01 %
+0.0133%
+5
+sale of units of an equity-oriented fund to the mutual fund.
+0.15 %
+0.2%

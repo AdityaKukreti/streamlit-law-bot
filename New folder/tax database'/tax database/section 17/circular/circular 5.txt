@@ -1,0 +1,14 @@
+
+202. Taxability of the perquisite on shares issued to employees at less than market price
+
+1. Chief Commissioners and corporate assessees have been seeking clarification regarding taxability of the perquisite on shares issued to the employees at less than market price.
+
+2. The matter has been considered by the Board. The benefit does amount to a perquisite within the meaning of clause (iii) of sub-section (2) of section 17 of the Income-tax Act, 1961. The various situations in this regard have to be dealt with as under :
+
+     (i )   where the shares held by the Government have been transferred to the employee, there will be no perquisite because the employer-employee relationship does not exist between Government and the employee (transferor and the transferee);
+
+    (ii )   where the company offers shares to the employees at the same price as have been offered to the other shareholders or the general public, there will be no perquisite;
+
+  (iii)   where the employer has offered the shares to its employees at a price lower than the one at which the shares have been offered to the other shareholders/public, the difference between the two prices will be taxed as perquisite;
+
+   (iv)   where the shares have been offered only to the employees, the value of perquisite will be the difference between the market  price of the shares on the date of acceptance of the offer by the employee and the price at which the shares have been offered.

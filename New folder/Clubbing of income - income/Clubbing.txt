@@ -1,0 +1,246 @@
+CLUBBING OF INCOME – Under the Income-tax Act, 1961, an assessee is generally taxed in respect of his own income. However, there are certain cases where an assessee has to pay tax in respect of income of another person. The provisions for the same are contained in sections 60 to 65 of the Act. These provisions have been enacted to counteract the tendency on the part of the tax-payers to dispose off their property or transfer their income in such a way that their tax liability can be avoided or reduced.
+These provisions can be categorized as follows:
+•	Income of other persons included in an assessee‘s total income [Sections 60-63]
+•	Income of other persons included in an Individual‘s total income [Section 64]
+
+Note - In the case of individuals, income-tax is levied on a slab system on the total income. The tax system is progressive i.e., as the income increases, the applicable rate of tax increases. Some taxpayers in the higher income bracket have a tendency to divert some portion of their income to their spouse, minor child etc. to minimize their tax burden. In order to prevent such tax avoidance, clubbing provisions have been incorporated in the Act, under which income arising to certain persons (like spouse, minor child etc.) have to be included in the income of the person who has diverted his income for the purpose of computing tax liability.
+
+INCOME OF OTHER	PERSONS	INCLUDIBLE IN ASSESSEE’S TOTAL INCOME:
+(1)Transfer of income without transfer of asset [Section 60]	
+(i)If any person transfers the income from any asset without transferring the asset itself, such income is to be included in the total income of the transferor.
+(ii)It is immaterial whether the transfer is revocable or irrevocable and whether it was made before the commencement of this Act or after its commencement.
+Example: Mr. A confers the right to receive rent in respect of his house property on his wife, Mrs. A, without transferring the house itself to her. In this case, the rent received by Mrs. A will be clubbed with the income of Mr. A.
+
+(2)Income arising from revocable transfer of assets [Section 61]:All income arising to any person by virtue of a revocable transfer of assets is to be included in the total income of the transferor.
+Meaning of revocable transfer [Section 63]
+Transfer is deemed to be revocable if—
+(i)	it contains any provision for the retransfer, directly or indirectly, of the whole or any part of the income or assets to the transferor, or
+(ii)	it gives, in any way to the transferor, a right to reassume power, directly or indirectly, over the whole or any part of the income or the assets.
+
+This clubbing provision will operate even if only part of income of the transferred asset had been applied for the benefit of the transferor. Once the transfer is revocable, the entire income from the transferred asset is includible in the total income of the transferor.
+
+Exception where clubbing provisions are not attracted even in case of revocable transfer [section 62]:Section 61 will not apply to any income arising to any person if there is -
+(i)	a transfer by way of trust which is not revocable during the life time of the beneficiary; and
+(ii)	any other transfer, which is not revocable during the life time of the transferee.
+In the above cases, the income from the transferred asset is not includible in the total income of the transferor, provided the transferor derives no direct or indirect benefit from such income.
+If the transferor receives direct or indirect benefit from such income, such income is to be included in his total income even though the transfer may not be revocable during the life time of the beneficiary or transferee, as the case may be.
+As and when the power to revoke the transfer arises, the income arising by virtue of such transfer will be included in the total income of the transferor.
+
+
+INCOME	OF OTHER PERSONS INCLUDIBLE IN AN INDIVIDUAL’S TOTAL INCOME:
+(1)Clubbing of income arising to spouse:
+(I)Income by way of remuneration from a concern in which the individual has substantial interest [Section 64(1)(ii)]
+(i)Remuneration in cash or kind to spouse from a concern in which the individual has a substantial interest is to be clubbed: In computing the total income of any individual, all such income which arises, directly or indirectly, to the spouse of such individual by way of salary, commission, fees or any other form of remuneration, whether in cash or in kind, from a concern in which such individual has a substantial interest shall be included.
+
+Circumstances when an individual is deemed to have substantial interest in a concern:
+-Where the concern is a company:If equity shares carrying 20% or more of voting power are beneficially owned by such person or partly by such person and partly by one or more of his relatives at any time during the P.Y.
+-In any other case: If such person is entitled, or such person and one or more of his relatives are entitled in the aggregate, to receive 20% or more profit of such concern at any time during the P.Y.
+
+The term ‘relative’ in relation to an individual means the husband, wife, brother or sister or any lineal ascendant or descendant of that individual [Section 2(41)].
+
+(ii)	Clubbing provisions will not apply where remuneration is received on account of technical or professional qualifications: Clubbing provisions, however, does not apply where the spouse of the said individual possesses technical or professional qualifications and the income to the spouse is solely attributable to the application of his/her technical or professional knowledge or experiences. In such an event, the income arising to such spouse is to be assessed in his/her hands.
+(iii)	Both husband and wife have substantial interest in a concern: Where both husband and wife have substantial interest in a concern and both are in receipt of income by way of salary etc. from the said concern, such income will be includible in the hands of that spouse, whose total income, excluding such income is higher.
+Where any such income is once included in the total income of either spouse, income arising in the succeeding year shall not be included in the total income of the other spouse unless the Assessing Officer is satisfied, after giving that spouse an opportunity of being heard, that it is necessary to do so.
+
+ILLUSTRATION:Mr. Arun holds shares carrying 55% voting power in MNO (P) Ltd. Mrs. Anamika, wife of Mr. Arun is working as a computer software programmer in MNO (P) Ltd. at a salary of ` 35,000 p.m. She is, however, not qualified for the job. The other income of Mr. Arun & Mrs. Anamika are ` 7,30,000 & ` 4,20,000, respectively. Compute the gross total income of Mr. Arun and Mrs. Anamika for the A.Y.2024-25.:Mr. Arun holds shares carrying 55% voting power in MNO (P) Ltd i.e., a substantial interest in the company. His wife is working in the same company without any professional qualifications for the same. Thus, by virtue of the clubbing provisions of the Act, the salary received by Mrs. Anamika from MNO (P) Ltd. will be clubbed in the hands of Mr. Arun. Salary received by Mrs. Anamika (Rs 35,000 × 12) is Rs 4,20,000 and less standard deduction is Rs 50,000.Salary income is Rs 3,70,000 [4,20,000 - 50,000]. therefore, salary will be Rs 3,70,000. other income is Rs 7,30,000. Hence, total income would be Rs 11,00,000 (3,70,000 + 7,30,000).
+
+Illustration: Will your answer be different if Mrs. Anamika was qualified for the job?:If Mrs. Anamika possesses professional qualifications for the job, then the clubbing provisions shall not be applicable. Gross total income of Mr. Arun = Rs 7,30,000 (other income).Gross total income of Mrs. Anamika = Salary received by Mrs. Anamika [Rs 35,000×12] less Rs 50,000, being the standard deduction under section 16(ia) plus other income [Rs4,20,000] = Rs7,90,000
+
+Illustration:Mr. Binu holds shares carrying 33% voting power in Yamma (P) Ltd. Mrs. Babita is working as an accountant in Yamma (P) Ltd. getting income under the head salary (computed) of Rs 3,60,000 without any qualification in accountancy. Mr. Binu also receives Rs 32,000 as interest on securities. Mrs. Babita owns a house property which she has let out. Rent received from tenants is Rs 6,500 p.m. Compute the gross total income of Mr. Binu and Mrs. Babita for the A.Y. 2024-25.
+Solution:Since Mrs. Babita is not professionally qualified for the job, the clubbing provisions shall be applicable. Income from salary of Mrs. Babita (Computed) will be Rs 3,60,000 and Income from other sources includes Interest on securities i.e. Rs 32,000. Hence, total income will be Rs 3,92,000.
+
+Computation of gross total income of Mrs. Babita:
+-Income from Salary [clubbed in the hands of Mr. Binu] will be Nil(0).
+-Income from house property: Gross Annual Value [Rs 6,500*12] is Rs 78,000. we will reduce municipal taxes, in current case, it is 0, therefore, Net Annual Value (NAV) is Rs 78,000. then we will Less: Deductions under section 24 i.e 30% of NAV i.e., 30% of Rs 78,000 is Rs 23,400. Hence, income from house property will be Rs 54,600 [78,000 - 23,400].
+
+
+(II)Income arising to the spouse from an asset transferred without adequate consideration [Section 64(1)(iv)]:
+(i)	Transfer of asset (other than house property): Where there is a transfer of an asset (other than house property), directly or indirectly, from one spouse to the other, otherwise than for adequate consideration or in connection with an agreement to live apart, any income arising to the transferee-spouse from the transferred asset, either directly or indirectly, shall be included in the total income of the transferor-spouse.
+(ii)	Transfer of house property: In the case of transfer of house property, the provisions are contained in section 27. If an individual transfers a house property to his spouse, without adequate consideration or otherwise than in connection with an agreement to live apart, the transferor shall be deemed to be the owner of the house property and its annual value will be taxed in his hands.
+
+(iii)	Income from accretion of the transferred asset: It may be noted that any income from the accretion of the transferred asset is not to be clubbed with the income of the transferor i.e., the income arising on transferred assets alone has to be clubbed. However, income earned by investing such income (arising from transferred asset) cannot be clubbed.
+(iv)	Meaning of adequate consideration: It is also to be noted that natural love and affection do not constitute adequate consideration. Therefore, where an asset is transferred without adequate consideration, the income from such asset will be clubbed in the hands of the transferor.
+(v)	Transferred asset invested in business: Where the assets transferred, directly or indirectly, by an individual to his spouse are invested by the transferee in the business, proportionate income arising to the transferee from such investment is to be included in the total income of the transferor. If the investment is in the nature of contribution of capital, proportionate interest receivable by the transferee from the firm will be clubbed with the income of the transferor.
+
+Such proportion has to be computed by taking into account the value of the aforesaid investment as on the first day of the previous year to the total investment in the business or by way of capital contribution in a firm as a partner, as the case may be, by the transferee as on that day.
+
+Illustration:Mr. Rahul started a proprietary business on 01.04.2022 with a capital of ` 6,00,000. He incurred a loss of ` 3,00,000 during the year 2022-23. To overcome the financial position, his wife Mrs. Radha, a software engineer, gave a gift of ` 7,00,000 on 01.04.2023, which was immediately invested in the business by Mr. Rahul. He earned a profit of ` 5,00,000 during the year 2023-24. Compute the amount to be clubbed in the hands of Mrs. Radha for the Assessment Year 2024-25. If Mrs. Radha gave the said amount as loan, what would be the amount to be clubbed?
+Solution:Section 64(1)(iv) of the Income-tax Act, 1961 provides for the clubbing of income in the hands of the individual, if the income earned is from the assets (other than house property) transferred directly or indirectly to the spouse of the individual, otherwise than for adequate consideration or in connection with an agreement to live apart.
+In this case, Mr. Rahul received a gift of Rs 7,00,000 on 1.4.2023 from his wife Mrs. Radha, which he invested in his business immediately. The income to be clubbed in the hands of Mrs. Radha for the A.Y. 2024-25 is computed as under:
+-Capital as on 1.04.2023  will be Rs 10,00,000. Mr. Rahul's capital contribution is Rs 3,00,000[6,00,000 - 3,00,000] and capital contribution out of gifts from Mrs. Radha is Rs 7,00,000.
+-Profit for P.Y.2023-24 to be apportioned on the basis of capital employed on the first day of the previous year i.e.as on 1.4.2023 based on ratio of (3:7)(Rahul:Radha). the profit of Rs 5,00,000 will be apportioned to Mr Rahul is Rs 1,50,000(5,00,000*3/10) and to Mr radha will be Rs 3,50,000(5,00,000*7/10).
+
+Therefore, the income to be clubbed in the hands of Mrs. Radha for the A.Y.2024-25 is Rs 3,50,000. In case, Mrs. Radha gave the said amount of ` 7,00,000 as a bona fide loan, then, clubbing provisions would not be attracted.
+Note: The provisions of section 56(2)(x) would not be attracted in the hands of Mr. Rahul, since he has received a sum of money exceeding ` 50,000 without consideration from a relative i.e., his wife.
+
+
+
+(III)Transfer of assets for the benefit of spouse [Section 64(1)(vii)]:All income arising directly or indirectly to any person or association of persons, from the assets transferred, directly or indirectly, to such person or association of persons by an individual without adequate consideration is includible in the income of the individual to the extent such income is used by the transferee for the immediate or deferred benefit of the transferor‘s spouse.
+
+
+(2)Clubbing of income arising to son’s wife:	
+(I)Income  arising  to  son’s  wife  from  the  assets  transferred  without  adequate consideration by the father-in-law or mother-in-law [Section 64(1)(vi)]:
+(i)Asset transferred without adequate consideration: Where an asset is transferred, directly or indirectly, by an individual to his or her son‘s wife without adequate consideration, the income from such asset is to be included in the total income of the transferor.
+
+(ii)Asset transferred invested in the business: For this purpose, where the assets transferred directly or indirectly by an individual to his or her son‘s wife are invested by the transferee in the business, proportionate income arising from such investment is to be included in the total income of the transferor. If the investment is in the nature of contribution of capital, the proportionate interest receivable from firm will be clubbed with the income of the transferor.
+Such proportion has to be computed by taking into account the value of the aforesaid investment as on the first day of the previous year to the total investment in the business or by way of capital contribution in a firm as a partner, as the case may be, by the transferee as on that day.
+
+(II)Transfer of assets for the benefit of son’s wife [Section 64(1)(viii)]:All income arising directly or indirectly, to any person or association of persons from the assets trans- ferred, directly or indirectly, without adequate consideration, to such person or association of persons by an individual will be included in the total income of the individual to the extent such income is used by the transferee for the immediate or deferred benefit of the transferor‘s son‘s wife.
+Note: Where any asset is transferred by a person to any other person without consideration or for inadequate consideration, the provisions of 56(2)(x) would get attracted in the hands of transferee, if conditions specified thereunder are satisfied
+
+Illustration:Mrs. Komal transferred her immovable property to TPS Co. Ltd. subject to a condition that out of the rental income, a sum of Rs 42,000 per annum shall be utilized for the benefit of her son’s wife. Mrs. Komal claims that the amount of Rs 42,000 (utilized by her son’s wife) should not be included in her total income as she no longer owned the property.
+Examine with reasons whether the contention of Mrs. Komal is valid in law.
+Solution:The clubbing provisions under section 64(1)(viii) are attracted in case of transfer of any asset, directly or indirectly, otherwise than for adequate consideration, to any person to the extent to which the income from such asset is for the immediate or deferred benefit of son‘s wife. Such income shall be included in computing the total income of the transferor-individual. Therefore, income of Rs 42,000 meant for the benefit of daughter-in-law is chargeable to tax in the hands of transferor i.e., Mrs. Komal in this case. Hence, the contention of Mrs. Komal is not valid in law.
+
+Note - In order to attract the clubbing provisions under section 64(1)(viii), the transfer should be otherwise than for adequate consideration. In this case, it is presumed that the transfer is otherwise than for adequate consideration and therefore, the clubbing provisions are attracted. Moreover, the provisions of section 56(2)(x) will also get attracted in the hands of TPS Co Ltd., if the conditions specified thereunder are satisfied.
+If it is presumed that the transfer was for adequate consideration, the provisions of section 64(1)(viii) and section 56(2)(x) would not be attracted.
+
+(3)Clubbing of minor’s income:
+(i)All income of a minor is to be included in the income of his parent.
+(ii)However, the income derived by the minor from manual work or from any activity involving his skill, talent or specialized knowledge or experience will not be included in the income of his parent.
+(iii)The income of the minor will be included in the income of that parent, whose total income is greater.
+(iv)Once clubbing of minor‘s income is done with that of one parent, i t will continue to be clubbed with that parent only, in subsequent years. The Assessing Officer, may, however, club the minor‘s income with that of the other parent, if, after giving the other parent an opportunity to be heard, he is satisfied that it is necessary to do so.
+(v)Where the marriage of the parents does not subsist, the income of the minor will be includible in the income of that parent who maintains the minor child in the relevant previous year.
+(vi)However, the income of a minor child suffering from any disability of the nature specified in section 80U shall not be included in the hands of the parent but shall be assessed in the hands of the child.
+(vii)It may be noted that the clubbing provisions are attracted even in respect of income of minor married daughter.
+
+Exemption in respect of clubbed income of minor [Section 10(32)]:In case the income of an individual (i.e., the parent) includes the income of his/her minor child in terms of section 64(1A), such parent shall be entitled to exemption of ` 1,500 in respect of each minor child. However, if income of any minor so includible is less than ` 1,500, then the entire Exemption under section 10(32) would be available to the parent only if he/she exercises the option of shifting out of the default tax regime provided under section 115BAC(1A). The same would not be available to him/her under the default tax regime where he/she computes his/he r total income as per section 115BAC and pays tax at the concessional rates provided thereunder.
+
+(viii)	In case the asset transferred to a minor child (not being a minor married daughter) without consideration or for inadequate consideration is a house property, then, by virtue of section 27(i), the transferor-parent will be the deemed owner of the house property. Therefore, the income from house property will be taxable in the hands of the transferor-parent, being the deemed owner and not in the hands of the minor child. Consequently, clubbing provisions under section 64(1A) would not be attracted in respect of such income, due to which the benefit of exemption u/s 10(32) (discussed above) cannot be availed against such income.
+However, if the house property is transferred by a parent to his or her minor married daughter, without consideration or for inadequate consideration, then, section 27(i) is not attracted. In such a case, the income from house property will be included u/s 64(1A) in the hands of that parent, whose total income before including minor child‘s income is higher; and benefit of exemption u/s 10(32) can be availed by that parent in respect of the income so included if he/she exercises the option of shifting out of the default tax regime provided under section 115BAC(1A).
+
+Child in relation to an individual includes a step-child and an adopted child of that individual. [Section 2(15B)]
+
+Illustration:Mr. Arvind has three minor children – two twin daughters, aged 12 years, and one son, aged 16 years. Income of the twin daughters is ` 2,500 p.a. each and that of the son is ` 1,200 p.a. Mrs. Avani (wife of Mr. Arvind) has transferred her flat to her minor son on 1.4.2023 out of natural love and affection. The flat was let out on the same date and the rental income from the flat is ` 10,000
+p.m. Compute the income, in respect of minor children, to be included in the hands of Mr. Arvind and Mrs. Avani under section 64(1A) assuming that Mr. Arvind’s total income is higher than Mrs. Avani’s total income, before including income of minor children and both Mr. Arvind and Mrs. Avani exercise the option of shifting out of the default tax regime provided under section 115BAC(1A).
+Solution:Taxable income, in respect of minor children, in the hands of Mr. Arvind is Twin minor daughters [Rs 2,500 × 2] that is Rs 5,000. then we will reduce exemption under section 10(32) of Rs 3,000 [ Rs 1,500*2]. Income which will included in Mr Arvind for his two daughters will be Rs 2,000 [ Rs 5,000 - Rs 3,000]. In case of Minor son, the income included in Arvind will be Rs 1,200 but we will reduce it by Exemption under section 10(32) would be lower of Rs 1200, being the income of minor son or ceiling limit of Rs 1500. thus, the income included in the hands of minor son will be NIL(0). 
+Note – As per section 27(i), Mrs. Avani is the deemed owner of house property transferred to her minor son. Natural love and affection do not constitute adequate consideration for this purpose. Accordingly, the income from house property of ` 84,000 [i.e., ` 1,20,000 (-) ` 36,000, being 30% of ` 1,20,000) would be taxable directly in her hands as the deemed owner of the said property. Consequently, clubbing provisions under section 64(1A) would not be attracted in respect of income from house property, owing to which exemption u/s 10(32) cannot be availed by her.
+
+
+
+CROSS TRANSFERS:In the case of cross transfers also (e.g., A making gift of ` 50,000 to the wife of his brother B for the purchase of a house by her and a simultaneous gift by B to A‘s minor son of shares in a foreign company worth ` 50,000 owned by him), the income from the assets transferred would be assessed in the hands of the deemed transferor if the transfers are so intimately connected that they form part of a single transaction, and each transfer constitutes consideration for the other by being mutual or otherwise. Thus, in the instant case, the transfers have been made by A and B to persons who are not their spouse or minor child so as to circumvent the provisions of this section, showing that such transfers constituted consideration for each other.
+The Supreme Court, in case of CIT v. Keshavji Morarji [1967] 66 ITR 142, observed that if two transactions are inter-connected and are parts of the same transaction in such a way that it can be said that the circuitous method was adopted as a device to evade tax, the implication of clubbing provisions would be attracted. Accordingly, the income arising to Mrs. B from the house property should be included in the total income of B and the dividend from shares transferred to A‘s minor son would be taxable in the hands of A, assuming that Mr. A‘s income is higher than that of Mrs. A. This is because A and B are the indirect transferors to their minor child and spouse, respectively, of income-yielding assets, so as to reduce their burden of taxation.
+
+Illustration:Mr. Madan gifted a sum of ` 6.5 lakhs to his brother's wife on 14-6-2023. On 12-7-2023, his brother gifted a sum of ` 5.2 lakhs to Mr. Madan's wife. The gifted amounts were invested as fixed deposits in banks by Mrs. Madan and wife of Mr. Madan's brother on 01-8-2023 at 9% interest. Examine the consequences of the above under the provisions of the Income-tax Act, 1961 in the hands of Mr. Madan and his brother.
+Answer:In the given case, Mr. Madan gifted a sum of ` 6.5 lakhs to his brother‘s wife on 14.06.2023 and simultaneously, his brother gifted a sum of ` 5.2 lakhs to Mr. Madan‘s wife on 12.07.2023. The gifted amounts were invested as fixed deposits in banks by Mrs. Madan and his brother‘s wife. These transfers are in the nature of cross transfers. Accordingly, the income from the assets transferred would be assessed in the hands of the deemed transferor because the transfers are so intimately connected to form part of a single transaction and each transfer constitutes consideration for the other by being mutual or otherwise.
+If two transactions are inter-connected and are part of the same transaction in such a way that it can be said that the circuitous method was adopted as a device to evade tax, the implication of clubbing provisions would be attracted. It was so held by the Apex Court in CIT vs. Keshavji Morarji (1967) 66 ITR 142.
+Accordingly, the interest income arising to Mrs. Madan in the form of interest on fixed deposits would be included in the total income of Mr. Madan and interest income arising in the hands of his brother‘s wife would be taxable in the hands of Mr. Madan‘s brother as per section 64(1), to the extent of amount of cross transfers i.e., ` 5.2 lakhs.
+This is because both Mr. Madan and his brother are the indirect transferors of the income to their respective spouses with an intention to reduce their burden of taxation.
+However, the interest income earned by his spouse on fixed deposit of ` 5.2 lakhs alone would be included in the hands of Mr. Madan‘s brother and not the interest income on the entire fixed deposit of ` 6.5 lakhs, since the cross transfer is only to the extent of ` 5.2 lakhs.
+
+
+CONVERSION OF SELF-ACQUIRED PROPERTY INTO THE PROPERTY OF A HINDU UNDIVIDED FAMILY [SECTION 64(2)]:Section 64(2) deals with the case of conversion of self-acquired property into property of a Hindu undivided family.
+(1)Where an individual, who is a member of the HUF, converts at any time after 31 -12-1969, his individual property into property of the HUF of which he is a member or throws such property into the common stock of the family or otherwise transfers such individual property, directly or indirectly, to the family otherwise than for adequate consideration, the income from such property shall continue to be included in the total income of the individual.
+(2)Where the converted property has been partitioned, either by way of total or partial partition, the income derived from such converted property as is received by the spouse on partition will be deemed to arise to the spouse from assets transferred indirectly by the individual to the spouse and consequently, such income shall also be included in the total income of the individual who effected the conversion of such property.
+(3)Where income from the converted property is included in the total income of an individual under section 64(2), it will be excluded from the total income of the family or, as the case may be, of the spouse of the individual.
+
+
+INCOME INCLUDES LOSS:It is significant to note that as per the Explanation 2 to section 64, income‘ would include loss‘. Accordingly, where the specified income to be included in the total income of the individual is a loss, such loss will be taken into account while computing the total income of the individual. It is significant to note that this Explanation applies to clubbing provisions under both sections 64(1) and 64(2).
+
+
+DISTINCTION BETWEEN SECTION 61 AND SECTION 64:It may be noted that the main distinction between the two sections is that section 61 applies only to a revocable transfer made by any person while section 64 applies to revocable as well as irrevocable transfers made only by individuals.
+Note - The clubbing provisions are attracted in respect of income arising from the assets transferred, however, income arising on accretion of income arising from transferred asset, would not be clubbed except in case of minor child.
+
+
+
+LIABILITY OF PERSON IN RESPECT OF INCOME INCLUDED IN THE INCOME OF ANOTHER PERSON [SECTION 65]:Sections 61 to 64 provide for clubbing of income of one person in the hands of the other in circumstances specified therein. However, service of notice of demand (in respect of tax on such income) may be made upon the person to whom such asset is transferred (i.e., the transferee). In such a case, the transferee is liable to pay that portion of tax levied on the transferor which is attributable to the income so clubbed.
+Similar provision will be applicable in case of deemed ownership of house property under section 27 i.e., transfer of house property otherwise than for adequate consideration to spouse , not being in connection with agreement to live apart or to minor child not being a minor married daughter.
+
+Illustration:Mr. Ravi has gifted his only house property to his wife, Mrs. Ravi, and his married daughter, Mrs. Divya. The Assessing Officer has served a notice of demand on Mr. Ravi for payment of tax for the income derived from the said house property. Examine the validity of the Assessing Officer’s action.
+Solution:As per section 27(i), an individual who transfers otherwise than for adequate consideration any house property to his spouse, not being a transfer in connection with an agreement to live apart, or to a minor child not being a married daughter shall be deemed to be the owner of the house property so transferred.
+Mr. Ravi, in this case, would be the deemed owner only in respect of the share of house property transferred to his wife Mrs. Ravi without consideration and not for the share of the house property transferred to his married daughter Mrs. Divya.
+Since Mr. Ravi is the deemed owner of the share of house property transferred to his wife without consideration, the income derived from the house property, to the extent attributable to the share of property transferred to his wife without consideration, would be taxable in his hands under the head ―Income from house property‖.
+However, as per section 65, the notice of demand can be served on Mrs. Ravi for payment of that portion of tax levied on Mr. Ravi attributable to the income derived [by virtue of section 27(i )], from the share of house property transferred to Mrs. Ravi, and standing in her name.
+However, the income derived from house property, attributable to the share of property transferred to his married daughter without consideration, would be taxable in the hands of his daughter. Such income would not be taxable in the hands of Mr. Ravi. Mr. Ravi will not be responsible for the payment of tax attributable to aforesaid share of income of daughter from house property.
+Thus, the action of the Assessing Officer in serving notice of demand on Mr. Ravi for payment of tax for the entire income derived from the said house property is not valid.
+
+
+
+Questions:1.Mrs. E, wife of Mr. F, is a partner in a firm. Her capital contribution to the firm as on 01-04-2023 was ` 5 lakhs, out of which ` 3 lakhs was contributed out of her own sources and ` 2 lakhs was contributed out of gift from her husband.
+As further capital was needed by the firm, she further invested ` 2 lakhs on 01.05.2023 out of the funds gifted by her husband. The firm paid interest on capital of ` 80,000 and share of profit of ` 60,000 for the financial year 2023-24.
+Advise Mr. F as to the applicability of the provisions of section 64(1)(iv) and the manner thereof in respect of the above referred transactions.
+Solution:1.	As per section 64(1)(iv), in computing the total income of any individual, there shall be included all such income as arises, directly or indirectly, subject to the provisions of section 27(i), to the spouse of such individual from assets transferred directly or indirectly to the spouse by such individual otherwise than for adequate consideration or in connection with an agreement to live apart.
+In this instant case, Mr. F has gifted money to his wife, Mrs. E. Mrs. E, in turn, invested such gifted money in the capital of a partnership firm, of which she is a partner. Mrs. E has also contributed a sum of ` 3 lakhs out of her own resources to the capital of the firm.
+As per Explanation 3 to section 64(1), for the purpose of clubbing under section 64(1)( iv), where the assets transferred, directly or indirectly, by an individual to his spouse are invested by the transferee in the nature of contribution of capital as a partner in a firm, proportionate interest on capital will be clubbed with the income of the transferor. Such proportion has to be computed by taking into account the value of the aforesaid investment as on the first day of the previous year to the total investment by way of capital contribution as a partner in the firm as on that day.
+In view of the above provision, interest received by Mrs. E from the firm shall be included in total income of Mr. F to the extent of ` 32,000 i.e., ` 80,000 x ` 2,00,000/ ` 5,00,000.
+Share of profit amounting to ` 60,000 is exempt from income-tax under the provisions of section 10(2A). The provisions of section 64 will not apply, if the income from the transferred asset itself is exempt from tax.
+Note: It is assumed that rate of interest on capital contributed by Mrs. E does not exceed 12% p.a.
+
+
+Question 2:Mr. A has gifted a house property valued at ` 50 lakhs to his wife, Mrs. B, who in turn has gifted the same to Mrs. C, their daughter-in-law. The house was let out at ` 25,000 per month throughout the year. Compute the total income of Mr. A and Mrs. C. Will your answer be different if the said property was gifted to his son, husband of Mrs. C?
+Solution:2.As per section 27(i), an individual who transfers otherwise than for adequate consideration any house property to his spouse, not being a transfer in connection with an agreement to live apart, shall be deemed to be the owner of the house property so transferred.
+Therefore, in this case, Mr. A would be the deemed owner of the house property transferred to his wife Mrs. B without consideration.
+As per section 64(1)(vi), income arising to the son‘s wife from assets transferred, directly or indirectly, to her by an individual otherwise than for adequate consideration would be included in the total income of such individual.
+Income from let-out property is ` 2,10,000 [i.e., ` 3,00,000, being the actual rent calculated at ` 25,000 per month less ` 90,000, being deduction under section 24 @30% of
+` 3,00,000]
+In this case, income of ` 2,10,000 from let-out property arising to Mrs. C, being Mr. A‘s son‘s wife, would be included in the income of Mr. A, applying the provisions of section 27(i) and section 64(1)(vi). Such income would, therefore, not be taxable in the hands of Mrs. C.
+In case the property was gifted to Mr. A‘s son, the clubbing provisions under section 64 would not apply, since the son is not a minor child. Therefore, the income of ` 2,10,000 from letting out of property gifted to the son would be taxable in the hands of the son.
+It may be noted that the provisions of section 56(2)(x) would not be attracted in the hands of the recipient of house property, since the receipt of property in each case was from a
+―relative‖ of such individual. Therefore, the stamp duty value of house property would not be chargeable to tax in the hands of the recipient of immovable property, even though the house property was received by her or him without consideration.
+Note - The first part of the question can also be answered by applying the provisions of section 64(1)(vi) directly to include the income of ` 2,10,000 arising to Mrs. C in the hands of Mr. A. [without first applying the provisions of section 27(i) to deem Mr. A as the owner of the house property transferred to his wife Mrs. B without consideration], since section 64(1)(vi) speaks of clubbing of income arising to son’s wife from indirect transfer of assets to her by her husband’s parent, without consideration. Gift of house property by Mr. A to Mrs. C, via Mrs. B, can be viewed as an indirect transfer by Mr. A to Mrs. C.
+
+
+Question3:Mr. Korani transferred 2,000 debentures of ` 100 each of Wild Fox Ltd. to his wife Mrs. Rekha Korani on 03.10.2022 without consideration. The company paid interest of
+` 30,000 in September, 2023 which was deposited by Mrs. Korani with Kartar Finance Co. in October, 2023. Kartar Finance Co. paid interest of ` 3,000 upto March, 2024. How would both the interest income be charged to tax in A.Y. 2024-25?
+Solution:As per section 64(1)(iv), income arising from assets transferred without adequate consideration by an individual to his spouse is liable to be clubbed in the hands of the individual. It may be noted that income on the asset transferred has to be clubbed but if there is accretion to the asset, any further income derived on such accretion should not be clubbed.
+Therefore, applying the provisions of section 64(1)(iv), ` 30,000, being the interest on debentures received by Mrs. Rekha Korani in September, 2023 will be clubbed with the income of Mr. Korani, since he had transferred the debentures of the company without consideration to her in October, 2022.
+However, the interest of ` 3,000 upto March, 2024 earned by Mrs. Rekha Korani on the interest on the debentures deposited by her with Kartar Finance Company shall be taxable in her individual capacity and will not be clubbed with the income of Mr. Korani.
+
+
+
+Question 4:Mr. Rose, out of his own funds, had taken an FDR for ` 10,00,000 bearing interest @10% p.a. payable half-yearly in the name of his wife Lilly. The interest earned during the financial year 2023-24 of ` 1,00,000 was invested by Mrs. Lilly in the business of packed spices which resulted in a net profit of ` 55,000 for the year ended 31.03.2024. How shall the interest on FDR and income from business be taxed for the Assessment Year 2024-25?
+Answer:4.Section 64(1)(iv) specifies that the income derived by the spouse of an assessee from the assets transferred directly or indirectly without adequate consideration or intention to live apart shall be clubbed with the income of the transferor. Therefore, the interest income of Rs 1 lakh on the FDR of  ` 10 lakhs for the F.Y.2023-24 shall be clubbed with the income of Mr. Rose.
+When Mrs. Lilly invested the interest income in a business and earned profits therefrom, such profits shall not be clubbed with the income of her husband but shall be taxable in her individual capacity. This is so because the income from the accretion of the transferred assets is not to be clubbed with the income of the transferor [CIT v. M. S. S. Rajan (2001) 252 ITR 126 (Mad)].
+
+Question 5:Naresh is a fashion designer having lucrative business. His wife is a model. Naresh pays her monthly salary of ` 10,000. The Assessing Officer while admitting that the salary is an admissible deduction, in computing the total income of Naresh had applied the provisions of section 64(1) and had clubbed the income (salary) of his wife in Naresh hands.
+Discuss the correctness of the action of the Assessing Officer.
+Answer:This question is based on the principles laid down by Madras High Court in the case of CIT v. Smt. R. Bharati (1999) 240 ITR 697 where the interpretation of the terms ―professional qualifications‖ and ―knowledge‖ came up for consideration as per proviso to section 64(1). These words do not necessarily connote a qualification conferred by a recognized university after examining the candidate who has undergone a course of study in a technical subject or course of study preparing him for a profession of law, accountancy etc. Accordingly, the term ―qualification‖ must be given a wide meaning as referring to the qualities which are required to be possessed by a person performing the work that he does, so long as that work is capable of being regarded as technical or professional.
+The word ―professional‖ is a term capable of very broad meaning and would encompass a variety of occupations. A large number of occupations are being practiced which form a source of livelihood and are capable of being regarded, as professions as long as they require certain degree of skill. A person having skill, experience and competence in a line of work can be regarded as professionally qualified for the purpose of section 64(1)(ii).
+Applying the rationale of the Madras High Court ruling, a model, having skill, competence and experience in her line can be considered as a professional. Hence, the action of the Assessing Officer is not correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

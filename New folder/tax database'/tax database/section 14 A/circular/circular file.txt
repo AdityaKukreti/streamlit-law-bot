@@ -1,0 +1,49 @@
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Direct Taxes
+
+North Block, New Delhi
+dated the 11th of February, 2021
+
+Subject: Clarification regarding disallowance of expenses under section 14A of the Income-tax Act in cases where corresponding exempt income has not been earned during the FY - regarding.
+
+Section 14A of the Income-tax Act, 1961 ("Act") provides for disallowance of expenses in relation to income not "includible" in total income.
+
+A controversy has arisen in certain cases as to whether disallowance can be made by invoking section 14A of the Act even in those cases where no income has been earned by the assessee which has been claimed as exempt during the financial year.
+
+The matter has been examined in the Board. It is pertinent to mention that section 14A of the Act was introduced by the Finance Act, 2001 with retrospective effect from 01.04.1962. The purpose for introduction of section 14A with retrospective effect from the inception of the Act was clarified vide circular No. 14 of 2001 as under:
+
+"Certain incomes are not includible while computing the total income, as these are exempt under the provisions of the Act. There have been cases where deductions have been claimed in respect of such exempt income. This in effect means that the tax incentive given by way of exemptions to certain categories of income is being used to reduce also the tax payable on the non-exempt income by debiting the expenses incurred to earn the exempt income against taxable income. This is against the basic principles of taxation whereby only the net income, i.e., gross income minus the expenditure, is taxed. On the same analogy, the exemption is also in respect of net income. Expenses incurred can be allowed only to the extent they are relatable to earning of taxable income."
+
+Thus, the legislative intent is to allow only that expenditure which is relatable to earning of income and it therefore follows that the expenses which are relatable to earning of exempt income have to be considered for disallowance, irrespective of the fact whether such income has been earned during the financial year or not.
+
+The above position is further clarified by the usage of term 'includible' in the Heading to section 14A of the Act and also the Heading to Rule 8D of the I-T Rules, 1962 which indicates that it is not necessary that exempt income should be included in the year's income, for disallowance to be triggered. Also, section 14A of the Act does not use the word "income of the year" but "income under the Act". This also indicates that for invoking disallowance under section 14A, it is not material that the assessee should have earned such exempt income during the financial year under consideration.
+
+The above position is further substantiated by the language used in Rule 8D(2)(iii) of I.T. Rules which are extracted below:
+
+"an amount equal to one-half percent of the average of the value of investment, income from which does not or shall not form part of total income, as appearing in the balance sheet of the assessee, on the first day and the last day of the previous year."
+
+This may be brought to the notice of all concerned. Hindi version to follow.
+
+Circular No. 05/2014
+
+(Ankita Pandey)
+Deputy Secretary to the Government of India
+(F.No: 225/182/2015-ITA.II)
+
+Copy to:
+
+Chairman and all Members of CBDT
+All Officers and Technical Sections of CBDT
+Director of Income Tax (Systems) with request for uploading on official website
+All Chief Commissioners/Directors General of Income-tax
+Director General of Income Tax (Inv.)/IT & Audit/Vigilance/Inv./RSP&P/PR/Recovery
+C&AG of India
+Joint Secretary (Revenue), Ministry of Finance
+Director of Income Tax (O&MS), New Delhi
+ITCC Division of CBDT (3 copies)
+NIC, M/o Finance for uploading on website
+Database Cell for uploading on IRS Officers website
+Guard File
+Deputy Secretary to the Government of India

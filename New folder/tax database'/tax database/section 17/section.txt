@@ -1,0 +1,182 @@
+
+section 17 -"Salary", "perquisite" and "profits in lieu of salary" defined.
+
+ For the purposes of sections 15 and 16 and of this section,—
+
+ (1) "salary" includes—
+
+   (i) wages;
+
+  (ii) any annuity or pension;
+
+ (iii) any gratuity;
+
+ (iv) any fees, commissions, perquisites or profits in lieu of or in addition to any salary or wages;
+
+  (v) any advance of salary;
+
+(va) any payment received by an employee in respect of any period of leave not availed of by him;
+
+ (vi) the annual accretion to the balance at the credit of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under rule 6 of Part A of the Fourth Schedule;
+
+(vii) the aggregate of all sums that are comprised in the transferred balance as referred to in sub-rule (2) of rule 11 of Part A of the Fourth Schedule of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-rule (4) thereof; *and
+
+(viii) the contribution made by the Central Government or any other employer in the previous year, to the account of an employee under a pension scheme referred to in section 80CCD;**
+
+ 80[(ix) the contribution made by the Central Government in the previous year, to the Agniveer Corpus Fund account of an individual enrolled in the Agnipath Scheme referred to in section 80CCH;]
+
+ 81(2) "perquisite" includes—
+
+   (i) the value of rent-free accommodation provided to the assessee by his employer 82[computed in such manner as may be prescribed];
+
+  (ii) the value of any concession in the matter of rent respecting any accommodation provided to the assessee by his employer.
+
+Explanation 1.—For the purposes of this sub-clause, concession in the matter of rent shall be deemed to have been provided if,—
+
+ (a) in a case where an unfurnished accommodation is provided by any employer other than the Central Government or any State Government and—
+
+  (i) the accommodation is owned by the employer, the value of the accommodation determined at the specified rate in respect of the period during which the said accommodation was occupied by the assessee during the previous year, exceeds the rent recoverable from, or payable by, the assessee;
+
+ (ii) the accommodation is taken on lease or rent by the employer, the value of the accommodation being the actual amount of lease rental paid or payable by the employer or fifteen per cent of salary, whichever is lower, in respect of the period during which the said accommodation was occupied by the assessee during the previous year, exceeds the rent recoverable from, or payable by, the assessee;
+
+ (b) in a case where a furnished accommodation is provided by the Central Government or any State Government, the licence fee determined by the Central Government or any State Government in respect of the accommodation in accordance with the rules framed by such Government as increased by the value of furniture and fixtures in respect of the period during which the said accommodation was occupied by the assessee during the previous year, exceeds the aggregate of the rent recoverable from, or payable by, the assessee and any charges paid or payable for the furniture and fixtures by the assessee;
+
+ (c) in a case where a furnished accommodation is provided by an employer other than the Central Government or any State Government and—
+
+  (i) the accommodation is owned by the employer, the value of the accommodation determined under sub-clause (i) of clause (a) as increased by the value of the furniture and fixtures in respect of the period during which the said accommodation was occupied by the assessee during the previous year, exceeds the rent recoverable from, or payable by, the assessee;
+
+ (ii) the accommodation is taken on lease or rent by the employer, the value of the accommodation determined under sub-clause (ii) of clause (a) as increased by the value of the furniture and fixtures in respect of the period during which the said accommodation was occupied by the assessee during the previous year, exceeds the rent recoverable from, or payable by, the assessee;
+
+ (d) in a case where the accommodation is provided by the employer in a hotel (except where the assessee is provided such accommodation for a period not exceeding in aggregate fifteen days on his transfer from one place to another), the value of the accommodation determined at the rate of twenty-four per cent of salary paid or payable for the previous year or the actual charges paid or payable to such hotel, whichever is lower, for the period during which such accommodation is provided, exceeds the rent recoverable from, or payable by, the assessee.
+
+Explanation 2.—For the purposes of this sub-clause, value of furniture and fixture shall be ten per cent per annum of the cost of furniture (including television sets, radio sets, refrigerators, other household appliances, air-conditioning plant or equipment or other similar appliances or gadgets) or if such furniture is hired from a third party, the actual hire charges payable for the same as reduced by any charges paid or payable for the same by the assessee during the previous year.
+
+Explanation 3.—For the purposes of this sub-clause, "salary" includes the pay, allowances, bonus or commission payable monthly or otherwise or any monetary payment, by whatever name called, from one or more employers, as the case may be, but does not include the following, namely:—
+
+ (a) dearness allowance or dearness pay unless it enters into the computation of superannuation or retirement benefits of the employee concerned;
+
+ (b) employer's contribution to the provident fund account of the employee;
+
+ (c) allowances which are exempted from the payment of tax;
+
+ (d) value of the perquisites specified in this clause;
+
+ (e) any payment or expenditure specifically excluded under the proviso to this clause.
+
+Explanation 4.—For the purposes of this sub-clause, "specified rate" shall be—
+
+  (i) fifteen per cent of salary in cities having population exceeding twenty-five lakhs as per 2001 census;
+
+ (ii) ten per cent of salary in cities having population exceeding ten lakhs but not exceeding twenty-five lakhs as per 2001 census; and
+
+(iii) seven and one-half per cent of salary in any other place;
+
+Following sub-clause (ii) and Explanation shall be substituted for the existing sub-clause (ii) and Explanations 1 to 4 of clause (2) of section 17 by the Finance Act, 2023, w.e.f. 1-4-2024:
+
+  (ii) the value of any accommodation provided to the assessee by his employer at a concessional rate.
+
+Explanation.—For the purposes of this sub-clause, it is clarified that accommodation shall be deemed to have been provided at a concessional rate, if the value of accommodation computed in such manner as may be prescribed, exceeds the rent recoverable from, or payable by, the assessee;
+
+ (iii) the value of any benefit or amenity granted or provided free of cost or at concessional rate in any of the following cases—
+
+ (a) by a company to an employee who is a director thereof;
+
+ (b) by a company to an employee being a person who has a substantial interest in the company;
+
+ (c) by any employer (including a company) to an employee to whom the provisions of paragraphs (a) and (b) of this sub-clause do not apply and whose income under the head "Salaries" (whether due from, or paid or allowed by, one or more employers), exclusive of the value of all benefits or amenities not provided for by way of monetary payment, exceeds fifty thousand rupees:
+
+Explanation.—For the removal of doubts, it is hereby declared that the use of any vehicle provided by a company or an employer for journey by the assessee from his residence to his office or other place of work, or from such office or place to his residence, shall not be regarded as a benefit or amenity granted or provided to him free of cost or at concessional rate for the purposes of this sub-clause;
+
+(iiia) [***]
+
+ (iv) any sum paid by the employer in respect of any obligation which, but for such payment, would have been payable by the assessee;
+
+  (v) any sum payable by the employer, whether directly or through a fund, other than a recognised provident fund or an approved superannuation fund or a Deposit-linked Insurance Fund established under section 3G of the Coal Mines Provident Fund and Miscellaneous Provisions Act, 1948 (46 of 1948), or, as the case may be, section 6C of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952), to effect an assurance on the life of the assessee or to effect a contract for an annuity;
+
+ (vi) the value of any specified security or sweat equity shares allotted or transferred, directly or indirectly, by the employer, or former employer, free of cost or at concessional rate to the assessee.
+
+Explanation.—For the purposes of this sub-clause,—
+
+ (a) "specified security" means the securities as defined in clause (h) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956) and, where employees' stock option has been granted under any plan or scheme therefor, includes the securities offered under such plan or scheme;
+
+ (b) "sweat equity shares" means equity shares issued by a company to its employees or directors at a discount or for consideration other than cash for providing know-how or making available rights in the nature of intellectual property rights or value additions, by whatever name called;
+
+ (c) the value of any specified security or sweat equity shares shall be the fair market value of the specified security or sweat equity shares, as the case may be, on the date on which the option is exercised by the assessee as reduced by the amount actually paid by, or recovered from, the assessee in respect of such security or shares;
+
+ (d) "fair market value" means the value determined in accordance with the method as may be prescribed;
+
+ (e) "option" means a right but not an obligation granted to an employee to apply for the specified security or sweat equity shares at a predetermined price;
+
+(vii) the amount or the aggregate of amounts of any contribution made to the account of the assessee by the employer—
+
+ (a) in a recognised provident fund;
+
+ (b) in the scheme referred to in sub-section (1) of section 80CCD; and
+
+ (c) in an approved superannuation fund,
+
+to the extent it exceeds seven lakh and fifty thousand rupees in a previous year;
+
+(viia) the annual accretion by way of interest, dividend or any other amount of similar nature during the previous year to the balance at the credit of the fund or scheme referred to in sub-clause (vii) to the extent it relates to the contribution referred to in the said sub-clause which is included in total income under the said sub-clause in any previous year computed in such manner as may be prescribed83; and
+
+(viii) the value of any other fringe benefit or amenity as may be prescribed84:
+
+Provided that nothing in this clause shall apply to,—
+
+   (i) the value of any medical treatment provided to an employee or any member of his family in any hospital maintained by the employer;
+
+  (ii) any sum paid by the employer in respect of any expenditure actually incurred by the employee on his medical treatment or treatment of any member of his family—
+
+ (a) in any hospital maintained by the Government or any local authority or any other hospital approved by the Government for the purposes of medical treatment of its employees;
+
+ (b) in respect of the prescribed diseases85 or ailments, in any hospital approved by the Principal Chief Commissioner or Chief Commissioner having regard to the prescribed guidelines86:
+
+Provided that, in a case falling in sub-clause (b), the employee shall attach87 with his return of income a certificate from the hospital specifying the disease or ailment for which medical treatment was required and the receipt for the amount paid to the hospital;
+
+88[(c) in respect of any illness relating to COVID-19 subject to such conditions as the Central Government may, by notification in the Official Gazette, specify in this behalf;]
+
+ (iii) any portion of the premium paid by an employer in relation to an employee, to effect or to keep in force an insurance on the health of such employee under any scheme approved by the Central Government or the Insurance Regulatory and Development Authority established under sub-section (1) of section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999), for the purposes of clause (ib) of sub-section (1) of section 36;
+
+ (iv) any sum paid by the employer in respect of any premium paid by the employee to effect or to keep in force an insurance on his health or the health of any member of his family under any scheme approved by the Central Government or the Insurance Regulatory and Development Authority established under sub-section (1) of section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999), for the purposes of section 80D;
+
+  (v) [***]
+
+ (vi) any expenditure incurred by the employer on—
+
+ (1) medical treatment of the employee, or any member of the family of such employee, outside India;
+
+ (2) travel and stay abroad of the employee or any member of the family of such employee for medical treatment;
+
+ (3) travel and stay abroad of one attendant who accompanies the patient in connection with such treatment,
+
+subject to the condition that—
+
+ (A) the expenditure on medical treatment and stay abroad shall be excluded from perquisite only to the extent permitted by the Reserve Bank of India; and
+
+ (B) the expenditure on travel shall be excluded from perquisite only in the case of an employee whose gross total income, as computed before including therein the said expenditure, does not exceed two lakh rupees;
+
+(vii) any sum paid by the employer in respect of any expenditure actually incurred by the employee for any of the purposes specified in clause (vi) subject to the conditions specified in or under that clause :
+
+Provided further that for the assessment year beginning on the 1st day of April, 2002, nothing contained in this clause shall apply to any employee whose income under the head "Salaries" (whether due from, or paid or allowed by, one or more employers) exclusive of the value of all perquisites not provided for by way of monetary payment, does not exceed one lakh rupees.
+
+Explanation.—For the purposes of clause (2),—
+
+   (i) "hospital" includes a dispensary or a clinic or a nursing home;
+
+  (ii) "family", in relation to an individual, shall have the same meaning as in clause (5) of section 10; and
+
+ (iii) "gross total income" shall have the same meaning as in clause (5) of section 80B;
+
+ (3) "profits in lieu of salary" includes—
+
+   (i) the amount of any compensation due to or received by an assessee from his employer or former employer at or in connection with the termination of his employment or the modification of the terms and conditions relating thereto;
+
+  (ii) any payment (other than any payment referred to in clause (10), clause (10A), clause (10B), clause (11), clause (12), clause (13) or clause (13A) of section 10), due to or received by an assessee from an employer or a former employer or from a provident or other fund, to the extent to which it does not consist of contributions by the assessee or interest on such contributions or any sum received under a Keyman insurance policy including the sum allocated by way of bonus on such policy.
+
+Explanation.—For the purposes of this sub-clause, the expression "Keyman insurance policy" shall have the meaning assigned to it in clause (10D) of section 10;
+
+ (iii) any amount due to or received, whether in lump sum or otherwise, by any assessee from any person—
+
+ (A) before his joining any employment with that person; or
+
+ (B) after cessation of his employment with that person.

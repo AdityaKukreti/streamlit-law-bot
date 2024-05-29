@@ -1,0 +1,994 @@
+Non-profit organisations in India cater to socio-economic and other needs of common people in the country. Hence, the Government encourages such organisations with philanthropic objective by providing tax exemptions subject to compliance of certain conditions. In this chapter, we will be discussing the income tax exemptions and related aspects of trusts and institutions engaged in charitable activities, political parties, electoral trusts and other special entities such as securitization trusts, business trusts and investment funds.
+Chapter III of the Income-tax Act,1961, which covers incomes that are exempt from tax, also contains the provisions pertaining to exemption in respect of charitable trusts and institutions, political parties, electoral trusts and exemptions in respect of income of special entities like securitization trusts, business trusts and investment fund.
+A)	Charitable or religious trusts/institutions can avail income-tax exemption under two different independent regimes.
+•	The first regime pertains to the exemption available under section 10(23C), which inter alia exempts income received by any person on behalf of university, or other educational institution or any hospital.
+•	The second regime pertains to the exemption under section 11 that provides for exemption in respect of income derived from property held under trust wholly for charitable or religious purposes.
+ 
+Therefore, a trust or institution can choose to opt for an exemption either under the first regime i.e., under section 10(23C) or the second regime i.e., under section 11, as it deems appropriate depending on its objects and activity.
+It is noteworthy that the broad features and conditions for availing exemption under both regimes are largely similar. The Finance Act, 2022 made significant amendments to ensure harmonization and consistency in the exemption provisions under both the regimes. Prior to these amendments, there were inconsistencies and gaps in both regimes, wherein certain conditions stipulated for availing exemption under section 11 were absent in section 10(23C). Therefore, the Finance Act 2022 has rationalised the same by ensuring that there is a level playing field between the two alternate regimes.
+Exemption provisions in respect of charitable or religious trusts:
+-University or other educational institution, hospital or other medical institution, other fund or institution for charitable purposes, any trust or institution wholly for public religious purposes or wholly for religious and charitable purposes [Section 10(23C) – First Regime]
+-University or other educational institution, hospital or other medical institution, other fund or institution for charitable purposes, any trust or institution wholly for public religious purposes or wholly for religious and charitable purposes [Section 10(23C) – First Regime]
+
+B)	Political Party and Electoral Trust
+Section 13A exempts certain categories of income derived by a political party and section 13B exempts voluntary contributions received by electoral trusts.
+C)	Securitisation Trust, Business Trust and Investment Fund
+The Income-tax Act, 1961 provides pass through status to certain entities such as Securitisation Trusts, Business Trusts and Investment Fund in respect of certain incomes. Such incomes are taxable in the hands of unitholders/investors. Exemption provisions in respect of certain incomes in the hands of these entities and unitholders are contained in Chapter III of the Income-tax Act, 1961. Further, the Income-tax Act, 1961 also contains special provisions relating to Securitization trust, Business Trusts and Investment Fund under Chapter XII-EA, XII-FA and XII-FB, respectively.
+
+General Discussion on Trusts: Non-Profit Organisations intending to carry on charitable or religious activities are normally set up either as a trust or a society or a company registered under section 8.
+
+Trust is the most common and preferred legal form. Therefore, before considering the income-tax exemption provisions governed under section 10(23C) or section 11 to 13, let us see briefly what exactly the term trust signifies, the types of trusts and the manner of their creation. Though this aspect of the topic does not strictly fall within the purview of income-tax, such a general knowledge would be useful in understanding the provisions of tax laws relating to charitable trusts.
+
+Meaning of certain terms:
+-Trust:is an obligation annexed to the ownership and arising out of a confidence reposed in and accepted by the owner if declared and accepted by him for the benefit of another or of another and the owner.
+-Author of the trust :the person who reposes or declares the confidence
+-trustee: the person who accepts the confidence
+-Beneficiary:the person for whose benefit the confidence is accepted
+-Trust property :the subject matter of the trust
+-Beneficial interest or interest of the beneficiary:is his right against the trustees or owner of the trust property
+-Instrument of trust :the instrument, if any, by which trust is declared
+
+Trusts can be broadly classified into two groups - Public and Private.
+Distinction between a public and private trust:The distinction between a public and private trust is that, whereas in the former, the beneficiaries are the general public or a class thereof, in the latter they are specific persons. While in the former, the beneficiaries constitute a body which is incapable of ascertainment, in the latter they are persons who are ascertained or capable of being ascertained. Generally private trusts are formed for the convenience of individuals and families. The private trust does not enjoy any tax exemption.
+Private trusts are governed by the Indian Trust Act, 1882. This Act does not apply to the following:
+(i)	The rules of Mohammedan law as to waqf;
+(ii)	The mutual relations of the members of undivided family as determined by any customary or personal law;
+(iii)	Public or private religious or charitable endowments; and
+(iv)	Trust to distribute prizes taken in war among the captors.
+On the other hand, Public trusts are constituted mainly for the benefit of the public at large. There are three requirements for creation of a public trust.
+There are three requirements for creation of a public trust. They are
+(i)	a declaration of trust which is binding on the settlor,
+(ii)	setting apart definite property and depriving himself of the ownership, and
+(iii)	a statement of objects for which the property is thereafter to be held. In the case of a private trust also, more or less similar requirements exist.
+Public trust enjoys tax exemption under the Income-tax Act subject to compliance of certain conditions, that are discussed in detail in this chapter.
+
+
+
+CHARITABLE OR RELIGIOUS	TRUSTS AND INSTITUTIONS:
+1)Exemption in respect of income of universities, hospitals, educational institutions, medical institutions etc. [Section 10(23C)] – First Regime:Exemption is available under section 10(23C) is in respect of any income received by any person on behalf of the certain funds and institutions. In particular, the exemption available under first regime is with regard to income of universities, educational institutions, hospitals and other medical institutions covered under sub-clauses (iiiab), (iiiac), (iiiad), (iiiae), (iv), (v), (vi) and (via) of section 10(23C). The brief summary of the exemptions available is encapsulated below:
+-Section 10(23C)(iiiab), Activity Scope is Education and Exemption Conditions is Wholly or substantially financed by the Government.
+-Section 10(23C)(iiiac), Activity Scope is Medical, Exemption Conditions is Wholly or substantially financed by the Government.
+-Section 10(23C)(iiiad), Activity Scope is Education, Exemption Conditions is Aggregate annual receipts do not exceed five crore rupees.
+-Section 10(23C)(iiiae), Activity Scope is Medical, Exemption Conditions is Aggregate annual receipts do not exceed five crore rupees.
+-Section 10(23C)(iv), Activity Scope is Charitable purpose, which is important for India & its states, Exemption Conditions is Approval to be obtained from the prescribed authority.
+-Section 10(23C)(v), Activity Scope is Wholly for public religious purposes or wholly for public religious & charitable purposes, Exemption Conditions is Approval to be obtained from the prescribed authority.
+-Section 10(23C)(vi), Activity scope is Education, whose aggregate annual receipts exceed five crore rupees and Exemption Conditions is Approval to be obtained from the prescribed authority.
+-Section 10(23C)(via), Activity scope is Medical, whose aggregate annual receipts exceed five crore rupee and Exemption Conditions is Approval to be obtained from the prescribed authority.
+
+
+Broadly, exemption of any income received by any person on behalf of universities, educational institutions, hospitals and other medical institutions under section 10(23C) is available in the following manner:
+(1)	Universities or Educational Institutions or Hospitals or Medical Institutions substantially financed by the Government:
+•	any university or other educational institution wholly or substantially financed by the Government which exists solely for educational purposes and not for profit [Sub- clause (iiiab)];
+•	any hospital or other institution wholly or substantially financed by the Government, which exists solely for philanthropic purposes and not for profit and which exists for the reception and treatment of persons suffering from illness or mental defectiveness or for the reception and treatment of convalescing persons or persons requiring medical attention or rehabilitation [Sub-clause (iiiac)];
+
+If the government grant to a university or other educational institution, hospital or other institution during the relevant previous year exceeds 50% of the total receipts (including any voluntary contributions), of such university or other educational institution, hospital or other institution, as the case may be, then, such university or other educational institution, hospital or other institution shall be considered as being substantially financed by the Government for that previous year [Rule 2BBB].
+
+(2)	Universities or Educational Institutions or Hospitals or Medical Institutions whose annual receipts not exceed ` 5 crore:
+•	any university or other educational institution existing solely for educational purposes and not for profit and its aggregate annual receipts do not exceed ` 5 crore [Sub- clause (iiiad)];
+•	any hospital or other institution for the reception and treatment of persons suffering from illness or mental defectiveness or for the reception and treatment of convalescing persons or persons requiring medical attention or rehabilitation, existing solely for philanthropic purposes and not for profit, if its aggregate annual receipts do not exceed the prescribed limit of ` 5 crore [Sub-clause (iiiae)];
+•	Where a person has receipts from an institution specified in sub-clause (iiiad) as well as from an institution specified in sub-clause (iiiae), whose combined receipts exceeds ` 5 crores, then, the said person shall not be eligible for exemption under the respective sub-clauses (iiiad) & (iiiae).
+(3)	Universities or Educational Institutions or Hospitals or Medical Institutions or Specified Charitable Institutions exempted subject to certain conditions:
+•	any other fund or institution for charitable purposes approved by the Principal Commissioner or Commissioner having regard to the objects of the fund or institution and its importance throughout India or throughout any State or States [Sub- clause (iv)];
+•	any trust (including any other legal obligation) or institution wholly for public religious or wholly for public religious and charitable purposes approved by the Principal Commissioner or Commissioner having regard to ensure the income applies for the objects of the fund or institution [Sub-clause (v)];
+•	any other university or educational institution existing solely for educational purposes and not for purposes of profit and which may be approved by the Principal Commissioner or Commissioner other than referred in (1) and (2) above [Sub-clause (vi)];
+•	any other hospital, or other medical institution other than referred in (1) and (2) above approved by the Principal Commissioner or Commissioner [Sub-clause (via)].
+
+Note - The conditions and norms for availing the exemption under section 10(23C)(iv), (v), (vi) & (via) [First regime] are largely similar as those for availing exemption under section 11 to 13 [Second Regime]. Henceforth, in this chapter, reference to First regime would refer to section 10(23)(iv)/(v)/(vi)/(via). The comparative table of the corresponding provisions under the First and Second regime are given under para 10.3, which will help students co-relate the relevant provisions under the First regime with the provisions of sections 11 to 13 under the Second Regime.
+
+Illustration:An educational institution having annual receipts of ` 3.80 crore during the P.Y. 2023-24, has availed exemption under section 10(23C)(iiiad). The Assessing Officer has denied the exemption on the grounds that the educational institution has not made any application to the prescribed authority for approval under the said section 10(23C)(iiiad). Examine the action of the Assessing Officer in denying the exemption.:As per section 10(23C)(iiiad), income of any university or other educational institution existing solely for educational purposes and not for purposes of profit would be exempt if the aggregate annual receipts of such university or educational institution do not exceed ` 5 crore. Therefore, the exemption available under this section can be availed without making any application to the prescribed authority. Therefore, the action of the Assessing Officer in denying the exemption to the educational institution is not correct.
+
+Illustration:A not for profit trust undertakes philanthropic activities through an educational institution and a hospital. During the P.Y. 2023-24, the trust had annual receipts of ` 3 crore from its educational institution and ` 4 crore from the hospital. During the P.Y. 2023-24, it desires to avail exemption under section 10(23C)(iiiad) and 10(23C)(iiiae), as the individual threshold under each of the sub- clauses, is less than ` 5 crore. Can it do so? Examine.:As per Explanation below to section 10(23C)(iiiae), it has been clarified that the limit of annual receipts of ` 5 crore is qua ‘taxpayer’ and not qua ‘activity’. Therefore, if the aggregate annual receipts from educational activity and medical activity exceeds ` 5 crores, then, exemption under sub-clause (iiiad) and (iiiae) cannot be availed by the trust. Since, in the present case, the aggregate annual receipt of ` 7 crores (` 3 crores of educational institution and ` 4 crores from hospital) exceeds the threshold of ` 5 crores, exemption under section 10(23C)(iiiad) and (iiiae) cannot be availed, even though the individual receipts from educational institution and hospital have not exceeded ` 5 crores.
+
+
+
+
+Charitable or Religious Trusts and Institutions [Sections 11 to 13] - Second Regime:
+The second regime of exemption is available under the Section 11. The second regime is more exhaustive in scope as it is available for any philanthrophic organisation involved in charitable or religious purposes. The second regime is more popular and widely adopted by non-profit organisations. It is imperative to note that an assessee can opt to avail exemption only under one of the regime depending upon its objects and purpose. An overview and specifics pertaining to the second exemption regime is provided below.
+
+Overview of sections:
+Section 11: Exclusion of the following income from total income of the trust:
+•	Income derived from property held under trust wholly or partly for charitable and religious purposes, applied for such purposes; and
+•	Income in the form of voluntary contributions made with a specific direction that they shall form part of the corpus of the trust
+
+Section 12: •	Income derived by a trust from voluntary contributions (other than corpus donations) deemed to be income derived from property held under trust for the purposes of section 11;
+•	Value of medical and educational services made available to specified persons deemed to be income of the trust running a hospital or medical or educational institution notwithstanding the provisions of section 11(1).
+
+
+Section 12A: prescribes the conditions for availing the benefits u/s 11 and 12.
+
+Section 12AB: prescribes the procedure framework for registration with the income-tax authorites to avail the exemption u/s 11 & 12 .
+
+Section 13: enumerates the circumstances under which the exemption available u/s 11 and 12 will be denied
+
+
+
+First and Second Regime – A Comparison:under the first regime under sections 10(23C)(iv)/(v)/(vi)/(via) and mentions the corresponding provisions under the second regime under sections 11 to 13. It is as follow:
+1)In case of First Regime, Relevant 1st proviso of section 10(23C) and Corresponding provision in the Second regime is Section 12A(1)(ac) and it deals with Application to PC or Commissioner for approval/ registration of trust/institution and the time limits for making such application.
+2)In case of First Regime, Relevant 2nd proviso of section 10(23C) and Corresponding provision in the Second regime is Section 12AB(1) and it deals with Grant of approval/passing an order of registration of trust/ institution or rejection of the application by PC or Commissioner and period of validity of approval/registration.
+3)In case of First Regime, Relevant explanation 1 in 3rd proviso of section 10(23C) and and Corresponding provision in the Second regime is Section 11(1)(d) and it deals with Corpus donations not to be included in income subject to investment in forms and modes specified in section 11(5).
+4)In case of First Regime, Relevant explanation 1A in 3rd proviso of section 10(23C)and Applies only in case of section 10(23C)(v) and and Corresponding provision in the Second regime is Explanation 3A to section 11 and it deals with Conditions for treatment of voluntary contribution received for renovation or repair of temple/ church/mosque etc. (where they form part of property held under trust) as corpus donation, at the option of the trust.
+5)In case of First Regime, Relevant explanation 1B in 3rd proviso of section 10(23C)(v) and Applies only in case of section 10(23C)(v) and and Corresponding provision in the Second regime  is Explanation 3B to section 11 and it deals with Deemed income in the year of violation of conditions mentioned in 4) above. 
+6)In case of First Regime, Relevant explanation 2 and its clauses (i), (ii) and (iii) of section 10(23C)(v) and Corresponding provision in the Second regime  is Explanation 4 to section 11 and its clauses (i), (ii) and (iii) and it deals with Amount spent out of –
+-corpus donations excluded from total income or
+-loan or borrowing
+not to be treated as application for charitable purposes [Clause(i) and (ii)]. Amount credited or paid out of current year income of the trust to fund/trust/institution by way of donation other than corpus donation would be allowed as application to the extent of 85% of such amount paid or credited.
+7)In case of First Regime, Relevant explanation 3 (and its first proviso) in its third proviso of section 10(23C)(v) and Corresponding provision in the Second regime  is 11(2) and its first proviso and it deals with Conditions stipulated for treating	the amount accumulated or set apart beyond 15% as deemed application.
+8)In case of First Regime, Relevant explanation 4 and its third proviso of section 10(23C)(v) and Corresponding provision in the Second regime  is 11(3) and it deals with Deemed income in case of non- fulfilment of conditions in 7) above and the previous year in which taxable.
+9)In case of First Regime, Relevant explanation 5 and its third proviso of section 10(23C)(v) and Corresponding provision in the Second regime  is 11(3A) and it deals with Application to A.O. to permit application of accumulated income for other purposes in line with the objects of the trust or institution
+10)In case of First Regime, Relevant third proviso of section 10(23C)(v) and Corresponding provision in the Second regime  is proviso and it deals with A.O. cannot allow application of such accumulated income by way of amount credited or paid to another trust or institution.
+11)In case of First Regime, Relevant 7th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Section 11(4A) and it deals with Maintenance of separate books of accounts in case of carrying on of business incidental to the objects of the trust or institution.
+12)In case of First Regime, Relevant 8th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is 1st proviso to section 12A(2) and it deals with Where an application is made under Sl. No. (1) above, the relevant A.Y. from which the exemption provisions would apply.
+13) In case of First Regime, Relevant 9th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is  section 12AB(3) and it deals with Time limit for passing order granting approval/registration under 2) above.
+14)In case of First Regime, Relevant 10th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is  section 12A(1)(b) and it deals with Requirement to maintain prescribed books of account and get the same audited and furnish audit report on or before the specified date.
+15) In case of First Regime, Relevant 12th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Explanation 2 to section 11(1) and it deals with Contribution towards the corpus of another trust or institution out of current year income not to be treated as application of income
+16)In case of First Regime, Relevant 13th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Explanation 3 to section 11(1) and it deals with Disallowances under sections 40(a)(ia) and 40A(3) and (3A) to apply in determining the amount of application
+17)In case of First Regime, Relevant 14th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Explanation to section 11(2) and it deals with Contribution to any trust or institution out of accumulated income not to be treated as application of income
+18)In case of First Regime, Relevant 15th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Explanation to section 12AB(4) and it deals with PC/Commissioner to call for documents or information in case he notices specified violations or on receipt of reference from A.O. or selection of case as per risk management strategy of CBDT; and pass an order cancelling or refusing to cancel approval/registration of trust on or before the specified date/time limit. 
+19) In case of First Regime, Relevant 16th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is section 13(7) and it deals with Anonymous donation referred to in section 115BBC to be included in total income.
+20)In case of First Regime, Relevant 18th proviso of section 10(23C)(v)[Relevant only for section 10(23C)(iv) and (v)] and Corresponding provision in the Second regime is section 13(8) and it includes Inclusion of income of trust or institution having object of advancement of any object of general public utility in total income, if it carries on activity in the nature of trade commerce or business for consideration and the aggregate receipts from such activity exceeds 20% of total receipts.
+21) In case of First Regime, Relevant 19th proviso of section 10(23C)(v)[Relevant only for section 10(23C)(iv) and (v)] and Corresponding provision in the Second regime is section 11(7) and it deals with Exemptions under section 10 [except section 10(1)] not to apply to trust or institution approved u/s 10(23C) or registered under section 12AA/12AB.
+22)In case of First Regime, Relevant explanation of  19th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is First Proviso to section 11(7) and it deals with If trust or institution approved u/s 10(23C) or registered u/s 12AA/12AB is notified u/s 10(23EC) or u/s 10(46) or u/s 10(46A), the approval u/s 10(23C) or registration u/s 12AA/12AB, as the case may be, would become inoperative from the date of notification u/s 10(23EC) or u/s 10(46) u/s 10(46A).
+23)In case of First Regime, Relevant explanation of  20th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Section 12A(1)(ba) and Return of income to be furnished in accordance with section 139(4C)/(4A) within the time allowed u/s 139(1) or 139(4).
+24) In case of First Regime, Relevant 21th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Section 13(1)(c) and It deals with Income applied for benefit of person referred to in section 13(3) to be deemed income of the trust or institution in the previous year of application [after taking into account the provisions of sections 13(2)/(4)/(6)].
+25)In case of First Regime, Relevant 22th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is Section 13(10) and It deals In case of non-maintenance of books of account or failure to get them audited or failure to file return of income or inclusion of income in total income due to carrying on of activities in the nature of trade, commerce, business (refer point 20 above), income to be computed as per normal provisions after allowing deduction of revenue expenditure subject to certain conditions	stipulated thereunder.
+26)In case of First Regime, Explanation of  Relevant 22th proviso of section 10(23C)(v) and Corresponding provision in the Second regime is explanation of Section 13(10) and it deals with Disallowances under sections 40(a)(ia) and 40A(3) and (3A) to apply in determining the amount of revenue expenditure deductible.
+27)In case of First Regime, Explanation 1 to section 10(23C) and Corresponding provision in the Second regime is Section 11(6) and it deals with If acquisition of asset has been claimed as application, then, no deduction for depreciation is allowable.
+28)In case of First Regime, Explanation 2 to section 10(23C) and Corresponding provision in the Second regime is Explanation 5 to section 11(1) and it deals with Excess application of an earlier previous year not allowed to be set-off or claimed as deduction or allowance while calculation of income required to be applied or accumulated in the relevant previous year.
+29)In case of First Regime, Explanation 3 to section 10(23C) and Corresponding provision in the Second regime is Explanation 11  and it deals with Sum payable by a trust or institution to be considered as application of income during the P.Y. in which such sum is actually paid by it, irrespective of the method of accounting regularly employed by it.
+30)In case of First Regime, proviso to Explanation 3 to section 10(23C) and Corresponding provision in the Second regime is proviso to Explanation 11  and it deals with If such sum is already claimed as application in any earlier previous year, it will not be allowed as application again in any subsequent P.Y. on payment basis.
+
+Note – The provisions indicated in bold and italics in columns (2) and (3) in the table above represent the provisions amended by the Finance Act, 2023. It may be noted that in certain provisions mentioned in the table above, there may be some differences between the corresponding provisions in the first and second regime. The same have been brought out at the relevant places in the course of discussions in the ensuing paragraphs in this chapter relating to the provisions in the second regime [i.e., sections 11 to 13]. The above table will help you co-relate the corresponding provisions
+
+
+Income of Charitable Trusts and Institutions:
+I.	Income from property held under trust
+Subject to the provisions of sections 60 to 63, the income of a religious or charitable trust or institution, to the extent specified in the Act, is exempt from tax when certain prescribed conditions are fulfilled. The relevant income does not even form part of the total income of the trust or institution.
+Income from property held for charitable or religious purposes in India [Section 11(1)]- The following income shall not be included in the total income of the previous year of the person in receipt of the income:
+(a)	Income derived from property held under trust wholly for charitable or religious purposes to the extent such income is applied in India for such purpose. Further, a minimum 85% of the income derived to be applied for charitable or religious purpose.
+(b)	Income derived from property held under trust in part only for such purpose, to the extent such income is applied in India for such purposes.
+(c)	Income derived from property held under trust,
+-	created on or after 1.4.1952 for charitable purpose which tends to promote international welfare in which India is interested to the extent to which such income is applied to such purpose outside India. This does not cover religious trusts.
+-	trust for charitable or religious purposes, created before 1.4.1952, to the extent to which such income is applied for such purposes outside India.
+In both the cases, the CBDT should have, by general or special order, directed that such income shall not be included in the total income of the person in receipt of such income.
+(d)	Income in the form of voluntary contributions made with a specific direction that they shall form part of the corpus of the trust or institution.
+Such voluntary contributions received as corpus must be invested or deposited in one or more of the forms or modes specified in section 11(5) maintained specifically for such corpus, for claim of exemption.
+
+II.	Voluntary Contributions [Section 12]- Any voluntary contribution received by a trust created wholly for charitable or religious purposes or by an institution established wholly for such purposes shall, for the purposes of section 11, be deemed to be income derived from property held under trust wholly for charitable or religious purposes. However, corpus donations (i.e., contributions made with a specific direction that they shall from part of the corpus of the trust or institution) shall not be treated as income, provided they are invested in the modes specified under section 11(5) [Section 12(1)].
+The value of any services, being medical or educational services, made available by any charitable or religious trust running a hospital or medical institution or an educational institution, to any person referred under section 13(3), would be deemed to be income of such trust or institution derived from property held under trust wholly for charitable or religious
+purposes during the previous year in which such services are so provided and shall be chargeable to income-tax.
+
+III.	Income should be applied for charitable or religious purposes - One of the primary objectives of providing exemption under section 11 is that the income of the NPO should be applied wholly towards charitable or religious purpose. The income-tax act has not defined the term religious purpose. The shorter Oxford English Dictionary defines the term as follows:
+“Devoted to religion; exhibiting the spiritual or practical effects of religion, following the requirements of religion; pious, godly, devout”.
+However, with regards to the definition of the term ‘Charitable Purpose’, section 2(15) states that ‘charitable purpose’ includes-
+•	relief of the poor,
+•	education,
+•	yoga,
+•	medical relief,
+•	preservation of environment (including watersheds, forests and wildlife) & preservation of monuments or places or objects of artistic or historic interest and
+•	the advancement of any other object of general public utility.
+Advancement of any other object of general public utility: The definition of “charitable purpose” includes “any other object of general public utility” The question arises as to what is an object of “general public utility”. This expression has not been defined anywhere in the Act.
+In CIT v. Gujarat Maritime Board (2007) 295 ITR 561, the Supreme Court observed that the Gujarat Maritime Board was established for the predominant purpose of development of minor ports within the State of Gujarat, the management and control of the Board was essentially with the State Government and there was no profit motive. The assessee, Gujarat Maritime Board, was under a legal obligation to apply its income which was directly and substantially from the business held under trust for the development of minor ports in Gujarat. Therefore, the Supreme Court held that the assessee was entitled to be registered as “charitable trust” under section 12A.
+A number of entities functioning on commercial basis claim exemption of their income either under section 10(23C) or section 11 on the foundation that they are charitable institutions. This is based on the contention that they are engaged in the “advancement of an object of general public utility” as is included in the fourth part of the present definition of “charitable purpose”. There were many decisions rendered in the past supporting the view that if unconnected business is held under a trust for promoting the object of general public utility and if profits are used for promoting such objects, income thereof shall be exempt, for example, the decision of the Supreme Court in CIT v. Madras Stock Exchange Ltd. (1981) 130 ITR 184. However, such a claim in respect of an activity carried out on commercial basis, goes against the basic intention of the provision.
+“Advancement of any other object of general public utility” would not be a charitable purpose: In order to limit the ambit of the phrase “advancement of any other object of general public utility”, section 2(15) provides that “the advancement of any other object of general public utility” would not be a charitable purpose if it involves the carrying on of –
+(a)	any activity in the nature of trade, commerce or business or,
+(b)	any activity of rendering of any service in relation to any trade, commerce or business,
+for a fee or cess or any other consideration, irrespective of the nature of use or application of the income from such activity, or the retention of such income, by the concerned entity.
+Thus, the “advancement of any other object of general public utility” shall not be a charitable purpose, if it involves the carrying on of any activity in the nature of trade, commerce or business, or any activity of rendering any service in relation to any trade, commerce or business, for a cess or fee or any other consideration, irrespective of the nature of use or application, or retention, of the income from such activity, unless,-
+(1)	such activity is undertaken in the course of actual carrying out of such advancement of any other object of general public utility; and
+(2)	the aggregate receipts from such activity or activities, during the previous year, does not exceed 20% of the total receipts, of the trust or institution undertaking such activity or activities, for the previous year.
+Therefore, in effect, “advancement of any other object of general public utility” would continue to be a “charitable purpose”, if the activity in the nature of trade, commerce or business is undertaken in the course of actual carrying out of such advancement of any other object of general public utility and the aggregate receipts from any activity in the nature of trade, commerce or business, or any activity of rendering any service in relation to any trade, commerce or business does not exceed 20% of the total receipts of the trust or institution undertaking such activity or activities, for the previous year.
+
+Illustration:An institution having its main object as “advancement of general public utility” received
+` 30 lakhs in aggregate during the P.Y.2023-24 from an activity in the nature of trade. The total receipts of the institution, including donations, was ` 140 lakhs. It applied 85% of its total receipts from such activity during the same year for its main object i.e., advancement of object of general public utility.
+(i)	What would be the tax consequence of such receipt and application thereof by the institution?:As the main object of the institution is “advancement of object of general public utility”, the institution will lose its “charitable” status for the P.Y.2023-24, since it has received ` 30 lakhs from an activity in the nature of trade, which exceeds ` 28 lakhs, being 20% of the total receipts of the institution undertaking that activity for the previous year. The application of 85% of such receipt for its main object during the year would not help in retaining its “charitable” status for that year. The institution will lose its charitable status and consequently, the benefit of exemption of income for the P.Y.2023-24, irrespective of the fact that its approval is not withdrawn or its registration is not cancelled.
+(ii)	Would your answer be different if the institution’s total receipts had been ` 150 lakhs (instead of ` 140 lakhs) in aggregate during the P.Y.2023-24?: (ii)	If the total receipt of the institution is ` 150 lakhs, and the institution receives ` 30 lakhs in aggregate from an activity in the nature of trade during the P.Y.2023-24, then it will not lose its “charitable” status since receipt of upto 20% of the total receipts of the institution in a year from such activity is permissible. The institution can claim exemption subject to fulfilment of other conditions under sections 11 to 13. Further, such activity should also be undertaken in the course of actual carrying out of such advancement of any other object of general public utility.
+(iii)	What would be your answer if the main object of the institution is “relief of the poor” and the institution receives` 30 lakhs from a trading activity, when its total receipts are ` 140 lakhs and applies 85% of the said receipts for its main object?: (iii)	The restriction regarding carrying on a trading activity for a cess, fee or other consideration will not apply if the main object of the institution is “relief of the poor”. Therefore, receipt of ` 30 lakhs from a trading activity by such an institution will not affect its “charitable” status, even if it exceeds 20% of the total receipts of the institution. The institution can claim exemption subject to fulfilment of other conditions under sections 11 to 13.
+
+
+Illustration: “Save Wild Life” an institution having its main object as ‘preservation of wildlife’, used the entire income derived from an activity in the nature of trade for its main object during the previous year ended on 31.03.2024. Would such utilization of its income be treated as utilisation for “charitable purpose”? Examine. Would your answer be different, if the main object of the institution is “advancement of object of general public utility”?: Section 2(15) defines “charitable purpose” to include relief of the poor, education, yoga, medical relief, preservation of environment (including watersheds, forests and wildlife) and preservation of monuments or places or objects of artistic or historic interest and the advancement of any other object of general public utility. However, the “advancement of any other object of general public utility” shall not be a charitable purpose, if the institution is carrying on any activity in the nature of trade, commerce or business, or any activity of rendering any service in relation to any trade, commerce or business, for a cess or fee or any other consideration, irrespective of the nature of use or application, or retention, of the income derived from such activity.
+Therefore, preservation of wildlife is included in the definition of “charitable purpose” under section 2(15). Further, an institution having the preservation of wildlife as its main object would not be subject to the restrictions which are applicable to the “advancement of any other object of general public utility”. Such institution would continue to retain its “charitable” status, even if it derives income from an activity in the nature of trade.
+However, if an institution having its main object as “advancement of any other object of general public utility”, derives income from an activity in the nature of trade during a financial year, it would lose its “charitable” status for that year, even if it applies such income for its main objects. It may be noted that if the receipts from such activity does not exceed 20% of the total receipts in that year, then, the institution would not lose its “charitable” status, even if its main object is “advancement of any other object of general public utility”, if such activity is undertaken in the course of actual carrying out of such advancement of any other object of general public utility.
+
+
+
+
+Circular No.11/2008 dated 19.12.2008
+Exemption under section 11 in case of an assessee claiming both to be a charitable institution as well as a mutual organisation
+The proviso to section 2(15) will apply only to entities whose purpose is advancement of any other object of general public utility i.e., the last limb of the definition of charitable purpose contained in section 2(15). Hence, such entities will not be eligible for exemption under section 11 or under section 10(23C), if they carry on commercial activities. Whether such an entity is carrying on an activity in the nature of trade, commerce or business is a question of fact which will be decided based on the nature, scope, extent and frequency of the activity.
+There are industry and trade associations who claim exemption from tax under section 11 on the ground that their objects are for charitable purpose as these are covered under any other object of general public utility. Under the principle of mutuality, if trading takes place between persons who are associated together and contribute to a common fund for the financing of some venture or object and in this respect have no dealings or relations with any outside body, then any surplus returned to the persons forming such association is not chargeable to tax. In such cases, there must be complete identity between the contributors and the participants.
+Therefore, where industry or trade associations claim to be both charitable institutions as well as mutual organizations and their activities are restricted to contributions from and participation of only their members, these would not fall within the purview of the proviso to section 2(15) owing to the principle of mutuality. However, if such organizations have dealings with non-members, their claim to be charitable organizations would be governed by the additional conditions stipulated in the proviso to section 2(15).
+In the final analysis, however, whether the assessee has, for its object, the advancement of any other object of general public utility is a question of fact. If such assessee is engaged in any activity in the nature of trade, commerce or business or renders any service in relation to trade, commerce or business, it would not be entitled to claim that its object is charitable purpose. In such a case, the object of general public utility will be only a mask or a device to hide the true purpose which is trade, commerce or business or the rendering of any service in relation to trade, commerce or business. Each case would, therefore, be decided on its own facts and no generalization is possible.
+
+
+Circular No.395, dated 24.9.1984– Promotion of sports and games is considered to be a charitable purpose within the meaning of section 2(15). Therefore, an association or institution engaged in the promotion of games and sports can claim exemption under section 11.
+A trust will be treated as a charitable trust under section 2(15) even if its object involves the carrying on of an activity for profit. Such a trust will not be denied exemption under section 11 on the ground that its objects are non-charitable.
+
+IV.	Charitable trust engaged in business activity- Section 11(4A) provides that the exemption under the respective regime, would be available in respect of income, being profits and gains from business activity if ––
+(a)	such business is incidental to the attainment of the objects of the trust/institution; and
+(b)	separate books of account are maintained by such trust/institution in respect of such business.
+Cases where trust property consists of a business undertaking -Section 11(4) clarifies that for the purposes of section 11, property held under trust may consist of a business undertaking so held. If that be so, the trustees may claim that the income of such undertaking enjoys exemption under section 11. Section 11(4) provides that -
+(a)	The Assessing Officer shall have the power to determine the income of the undertaking in accordance with the provisions of the Act relating to assessment, and
+(b)	Where the income determined by the Assessing Officer is in excess of that shown in the books of the undertaking, such excess shall be deemed to be applied to purposes other than charitable or religious purposes.
+
+
+Illustration:NSN, a charitable educational trust approved under section 10(23C)(vi), is running a school. It operates a stationery shop outside the school campus. A sum of ` 75 lakhs has been derived as net income from such business activity, which has been applied towards the objectives of the trust in providing education. The trust maintains separate books of accounts for the business activity. Examine the taxability of application of the income, if the income so derived relates to the previous year 2023-24.:The trust objective of providing education is a charitable purpose as per section 2(15). The trust in the given case runs a stationery shop business, whose income is applied towards the objectives of the trust. In this case, the business income from the stationery shop will be eligible to avail exemption in respect of profits and gains of business, if such business is incidental to the attainment of the objectives of the trust and separate books of account are maintained in respect of such business.
+Therefore, in the given case, the profit from the business shall be eligible for exemption under section 11, assuming that the said business is incidental to the attainment of the objects of the trust (i.e., education) and books of account for such business activity is maintained separately.
+
+
+Conditions for availing exemption under First Regime and Second Regime:Conditions for availing exemption under both the regimes i.e., section 10(23C)(iv)/(v)/(vi)/(via) are largely similar. It is essential to satisfy the following conditions for availing exemption under these regimes:
+(I)	Approval/Registration for claiming exemption
+The primary condition for a trust or institution or fund to avail exemption in both the regimes, is that the trust or institution must be approved under section 10(23C) or registered under section 12AB, as the case may be. Failure to register will deprive tax exemption for such trust or institution.
+The procedure for obtaining approval/registration for exemption to a trust or fund or institution had undergone a significant change from April 1st, 2021. Prior to the change in the approval/ registration procedure, a taxpayer desirous of availing exemption under this section must submit an application to the Commissioner of Income-tax, within a specified time limit. The Commissioner, on detailed verification and enquiry, will grant approval/registration or refusal of the exemption application. This process was time consuming and also paved way for prolonged litigation.
+•	The primary objective for overhauling of the registration process is to align with the tax administration’s digitalization initiatives and providing certainty to the taxpayers. Therefore, to streamline and simplify the approval/registration process through the use of technology, the approval/registration process has undergone an overhauling with effect from 1st April 2021, which is applicable for incumbent organisations that are already registered and also for organisations desiring to avail the exemption u/s 10(23C) or under section 12AB for the first time.
+ 
+•	The salient features of the new process are filing of applications in online mode, allotment of a unique registration number for a trust or fund or institution, validity of approval/registration for a certain prescribed time limit, introduction of provisional registration, lesser time limit for the income-tax authority to grant their approval for the exemption, registration etc.
+•	Some of the key aspects of the change in the approval/registration procedure is that the approval/registration process is made online and the approvals are valid only for a certain time period. Closure to the expiry of the approval time limit, the taxpayer must apply for renewing the exemption approval/registration. Failure to renew the exemption approval will not entitle the taxpayer to avail the exemption any further.
+
+•	The manner for grant of approval along with the relevant timelines under the first regime i.e., section 10(23C) are encapsulated below as follow:Procedure & Timelines for seeking approval under section 10(23C)(iv)/(v)/(vi)/(via):
+- Clause(i) of First proviso to section 10(23C) (1) and it deals with case of Reapproval of the institutions or funds which were already approved prior to 1.4.2021 and Time limit for making application is Within   three months from April 1, 2021 (As per the provision, the effective date for making application is 30.06.2021. However, this date was extended upto 30.09.2023 vide Circular No. 6/2023, dated 24.05.2023.) in Form No. 10A. Time limit for passing order by the Principal Commissioner or Commissioner [Second proviso to section 10(23C)] is within 3 months from the end of the month in which application was received. Validity Period  is 5 years and Approval granted is applicable from the A.Y. from which approval was earlier granted to it.
+-Clause (ii) of First proviso to section 10(23C) (1) and it deals with Renewal of approval whose period of 5 years is set to expire and time limit for making application is at least six months prior to expiry of the period of 5 years, in Form No. 10AB. Time limit for passing order by the Principal Commissioner or Commissioner [Second proviso to section 10(23C)] is within 6 months from the end of the month in which application   was received after satisfying himself about the genuineness   of activities and compliance of requirements under other laws, as are material for the purpose of achieving its objects. For this purpose, the Principal Commissioner or Commissioner shall call for such documents or information and make inquiries as he thinks necessary. If not satisfied, pass an order in writing rejecting such application and also cancelling its approval after giving opportunity of  being  heard. [Clause (ii)].Validity Period  is 5 years and Approval granted is applicable from the A.Y. immediately following  the F.Y year in which such application is made.
+-Clause (iii) of First proviso to section 10(23C) (1) and it deals with Provisionally approved fund/trusts etc. for final approval and time limit for making application is at (i) at least six months prior to expiry of the period of the provisional approval or (ii)	within	six months of commencement  of its activities whichever	is earlier, in Form No. 10AB Note – In cases where the above time limit expires before 30.9.2023, the last date has been extended to 30.9.2023. Time limit for passing order by the Principal Commissioner or Commissioner [Second proviso to section 10(23C)] is within 6 months from the end of the month in which application   was received after satisfying himself about the genuineness   of activities and compliance of requirements under other laws, as are material for the purpose of achieving its objects. For this purpose, the Principal Commissioner or Commissioner shall call for such documents or information and make inquiries as he thinks necessary. If not satisfied, pass an order in writing rejecting such application and also cancelling its approval after giving opportunity of  being  heard. [Clause (ii)]. The validity period is Three years and Approval granted is applicable from the A.Y. for which
+approval is sought in Form 10A, where the application is filed   within the stipulated time limit.[The CBDT Circular 6/2023 dated 24.5.2023 clarifies that the provisional approval shall be effective from the assessment year relevant to the previous year in which the application is made. However, it appears that the intent is to make the same applicable from the assessment year for which the approval is sought, provided the application is filed within the time limit of 3 years].
+
+Note – With effect from 1.10.2023, a trust which has already commenced its activities and has not availed any exemption under first regime or second regime so far need not first apply for provisional approval in Form 10A. It can at any time after the commencement of such activities directly apply for final approval in Form 10AB for any
+P.Y. ending on or before the date of such application. The PC or C after following the compliances stipulated in Column (4) [Corresponding to clause (iii) of the first proviso], can grant approval within 6 months from the end of the month in which application is received. If not satisfied, he can pass an order in writing rejecting such application after affording it a reasonable opportunity of being heard. For such trust/fund/ institution, approval would be valid for 5 years. This will fall within the scope of clause
+(ii) of Second proviso to section 10(23C). Exemption under first regime is applicable from the A.Y. immediately following the F.Y year in which such application is made.
+Thus, w.e.f. 1.10.2023, only the trusts/funds/institutions which have not commenced activities are required to get provisional approval and will fall within the scope of clause (iii) of the second proviso to section 10(23C).
+
+
+Procedure & Timelines for availing exemption under section 12AB read with section 12A(1)(ac):
+-Clause(1) of Section 12A(1)(ac) and it deals with Re-registration of the institutions or funds	which were already registered under section 12A/section 12AA. prior to 1.4.2021 and time limit for making the application is Within   three months from April 1, 2021 in in Form No. 10A and time limit for passing order by the PC/Commissioner [Section 12AB(3)] is Order to be passed within 3 months from end of the month when application was made. The Validity Period is Five years [Section 12AB(1)(a)] and registration granted is applicable from A.Y.	from which
+registration was earlier granted [Proviso to section 12A(2)]
+-Clause (ii) of Section 12A(1)(ac) and it deals with Renewal of registration for trust/ institution already registered under section 12AB and whose period of 5 years is due to expire and time period for making application is at least six months prior to the expiry of the five-year validity in Form No. 10AB and time limit for passing order by the PC/Commissioner [Section 12AB(3)] is within 6 months from the end of the	month in which application was received	after satisfying himself about the genuineness of activities and compliance of other laws, as are material for the purpose of achieving its objects. For this purpose, the PC or C shall call for such documents or information and make inquiries as he thinks necessary. If not satisfied, pass an order in writing rejecting such application and also cancelling	its registration after giving opportunity of being heard. Validity period is Five years (if approved) [Section 12AB(1)(b)] and registration granted is A.Y. immediately following  the F.Y. in which application is made [Section 12A(2)].
+-Clause (iii) of Section 12A(1)(ac) and it deals with Final registration where a trust/ institution is provisionally registered and time period for making application is At least six months prior to the expiry of the provisional registration or within six months of commencement	of activities, which is earlier, in Form No. 10AB. Note – In cases where the above time limit expires before 30.9.2023,  the last date has been extended to 30.9.2023.time limit for passing order by the PC/Commissioner [Section 12AB(3)] is within 6 months from the end of the month in which application was received	after satisfying himself about the genuineness of activities and compliance of other laws, as are material for the purpose of achieving its objects. For this purpose, the PC or C shall call for such documents or information and make inquiries as he thinks necessary. If not satisfied, pass an order in writing rejecting such application and also cancelling its registration after giving opportunity of being heard.Validity period is Five years (if approved) [Section 12AB(1)(b)] and registration granted is First  of  the
+A.Y.	for which it was provisionally registered [Proviso to section 12A(2)].
+-clause (iv) of Section 12A(1)(ac) and it deals with To	revive inoperative registration of trust/ institution on account of grant of approval u/s 10(23C) or 10(46)   as provided in first proviso to section 11(7). time period for making application is at least six months prior to the commencement of the AY from which the said registration is sought to be made operative in Form No. 10AB. time limit for passing order by the PC/Commissioner [Section 12AB(3)] is within 6 months from the end of the month in which application was received	after satisfying himself about the genuineness of activities and compliance of other laws, as are material for the purpose of achieving its objects. For this purpose, the PC or C shall call for such documents or information and make inquiries as he thinks necessary. If not satisfied, pass an order in writing rejecting such application and also cancelling its registration after giving opportunity of being heard. Validity period is Five years (if approved) [Section 12AB(1)(b)] and registration granted is A.Y. immediately following  the F.Y. in which application is made [Section 12A(2)].
+
+-clause(v) of Section 12A(1)(ac) and it deals with The trust or institution has adopted	or undertaken modifications of the objects which do not conform	 to the conditions of registration.
+time period for making application is Within a period of thirty days from the date of the said adoption or modification, in Form No. 10AB. Time limit for passing order by the PC/Commissioner [Section 12AB(3)] is within 6 months from the end of the month in which application was received after satisfying himself about the genuineness of activities and compliance of other laws, as are material for the purpose of achieving its objects. For this purpose, the PC or C shall call for such documents or information and make inquiries as he thinks necessary. If not satisfied, pass an order in writing rejecting such application and also cancelling its registration after giving opportunity of being heard. Validity period is Five years (if approved) [Section 12AB(1)(b)] and registration granted is A.Y. immediately following  the F.Y. in which application is made [Section 12A(2)]
+-Clause (vi) of Section 12A(1)(ac) and it deals with In any other case (for e.g., first time applications)and time period for making application is At least one month prior to the commencement of	the previous year relevant to the assessment year in which the registration is	sought in Form No. 10A. time limit for passing order by the PC/Commissioner [Section 12AB(3)] is within one month from the end of the month in which the application is made order to be passed for provisional registration without detailed enquiry. Validity period is Three years[Section 12AB(1)(c)] and registration granted is the A.Y. for which registration is sought in Form   10A, where the application is filed within the stipulated time limit(The CBDT Circular 6/2023 dated 24.5.2023 clarifies that the provisional registration shall be effective from the assessment year relevant to the previous year in which the application is made. However, it appears that the intent is to make the same applicable from the assessment year for which the registration is sought, provided the application is filed within the time limit mentioned).
+
+Note – With effect from 1.10.2023, a trust which has already commenced its activities and has not availed exemption under first regime or second regime for any P.Y. ending on or before the date of such application, need not first apply for provisional registration in Form 10A. It can at any time after the commencement of such activities directly apply for final registration in Form 10AB. The PC or C after following the compliances stipulated in Column (4) [corresponding to clause (iii) of Section 12A(1)(ac)], can grant approval within 6 months from the end of the month in which application is received. If not satisfied, he can pass an order in writing rejecting such application after affording it a reasonable opportunity of being heard. For such trust/fund/institution, registration would be valid for 5 years [Section 12AB(1)(b)]. Exemption under section 11 and 12 is applicable from the A.Y. immediately following the F.Y year in which such application is made. Thus, w.e.f. 1.10.2023 only the trusts/funds/institutions which have not commenced activities are required to get provisional registration and will fall within the scope of section 12AB(1)(c).
+
+
+Illustration:A public trust has commenced its activities of providing “relief to poor” in the year 2022-23. The trust intends to claim benefits of sections 11 and 12 from A.Y. 2024-25. It approaches you in October, 2023. Advise the trust as to the time limit for making an application for registration, time limit for granting approval by the Principal Commissioner or Commissioner and the period for which the approval is valid.: In order to avail the exemption under section 11, the trust has to obtain registration under section 12AB read with section 12A(1)(ac). From 1.10.2023, the trust which has already commenced its activities can directly apply for final registration. In the present case, the trust has to apply for registration after commencing its activities but on or before 31.3.2024 to avail the exemption for A.Y. 2024-25. Accordingly, the time limit for making application, time limit for granting registration and period of validity would be as follows:
+-Registration application to be filed online as prescribed under Rule 17A: Time limit will be Application for final registration to be made in Form 10AB at any time after the commencement of such activities.
+-Grant of registration by the Principal Commissioner or Commissioner: Time limit will be Grant registration within 6 months from the end of the month in which application was received after satisfying himself about the genuineness of activities and compliance of other laws, as are material for the purpose of achieving its objects. For this purpose, the PC or C shall call for such documents or information and make inquiries as he thinks necessary. If not satisfied, pass an order in writing rejecting such application after giving opportunity of being heard.
+-Validity period of the approval: Time limit will be Registration is valid for five years effective from the A.Y. immediately following the F.Y. in which application is made.
+
+
+Illustration: Help All, a trust created on 1st April 2022 for providing relief to the poor, applied for registration under section 12AB on 28th February 2023. The Commissioner denied registration on the ground that the trust had not commenced any charitable activity, due to which he could not satisfy himself about the genuineness of the trust. Is the ground for denial of registration by the Commissioner justified in this case? Discuss.: Section 12AB read with section 12A(1)(ac)(vi) provides that in case of a trust seeking registration for first time, provisional registration will be provided for a period of three years without detailed enquiry by the prescribed income-tax authority even in cases where activities of the entity are yet to begin. This is one of the key feature of the new registration process that benefits the taxpayer, wherein provisional registration is accorded.
+Hence, in the new registration regime, the Commissioner cannot deny registration on the ground that activities have not commenced. The Commissioner can make detailed enquires and call for information when the trust applies to convert its provisional registration into a final registration as stipulated under section 12A(1)(ac)(iii) read with section 12AB.
+
+
+(II)	Cancellation of Registration/approval [Section 12AB(4) & (5)]
+The Principal Commissioner of Income-tax (PCIT) or Commissioner Income-tax (CIT) can cancel registration or provisional registration or approval or provisional approval of a trust or an institution granted under either the first regime i.e., section 10(23C) or under the second regime i.e., section 11 read with section 12AB.
+Situations in which registration/approval can be cancelled
+The registration can be cancelled in the following situations:
+•	The PCIT or CIT has noticed the occurrence of one or more specified violations
+during any previous year; or
+•	The PCIT or CIT has received a reference from an Assessing Officer under the second proviso to section 143(3) for any previous year to withdraw the approval or registration due to occurrence of a specific violation; or
+•	The case of the institution has been selected in accordance with risk management strategy, formulated by the CBDT from time to time for any previous year.
+
+Procedure for cancellation
+The PCIT or CIT in this regard shall
+•	call for such documents or information from the trust or institution, or make such inquiry as he thinks necessary in order to satisfy himself about the occurrence or otherwise of any specified violation;
+•	pass an order in writing, cancelling the registration or approval of such trust or institution, after affording a reasonable opportunity of being heard, for such previous year and all subsequent previous years, if he is satisfied that one or more specified violations have taken place;
+•	pass an order in writing, refusing to cancel the registration or approval of such trust or institution, if he is not satisfied with the occurrence of one or more specified violations;
+•	forward a copy of the order cancelling the registration or refusing to cancel the registration to the Assessing Officer and to such trust or institution.
+Time limit for passing the order
+The order cancelling or refusing to cancel registration has to be passed before the expiry of a period of six months, from the end of the quarter in which the first notice is issued by the PCIT or CIT, calling for any document or information, or for making any inquiry.
+Meaning of Specified Violation: Specified violation
+(a)	where any income derived from property held under trust, wholly or in part for charitable or religious purposes, has been applied, other than for the objects of the trust or institution; or
+(b)	the trust or institution has income from profits and gains of business which is not incidental to the attainment of its objectives or separate books of account are not maintained by such trust or institution in respect of the business which is incidental to the attainment of its objectives; or
+(c)	the trust or institution has applied any part of its income from the property held under a trust for private religious purposes, which does not enure for the benefit of the public; or
+(d)	the trust or institution established for charitable purpose created or established after the commencement of this Act, has applied any part of its income for the benefit of any particular religious community or caste; or
+(e)	any activity being carried out by the trust or institution—
+(i)	is not genuine; or
+(ii)	is not being carried out in accordance with all or any of the conditions subject to which it was registered; or
+(f)	the trust or institution has not complied with the requirement of any other law, and the order, direction or decree, by whatever name called, holding that such non- compliance has occurred, has either not been disputed or has attained finality.
+(g)	the application for approval under first regime or registration under second regime is not complete or it contains false or incorrect information. [This is considered as specified violation w.e.f. 1.4.2023]
+Note:Cancellation procedure for approval granted under first regime is similar as prescribed above for second regime. However, the situations mentioned in (c) and (d) are mentioned only in the case of a trust or institution registered under section 11.
+
+(III)	Mandatory filing of return:
+In order to avail of exemption under any of these regimes, the entities approved under first regime and entities registered under second regime are required to file the return of income under section 139(4C) or under 139(4A), respectively within the time allowed under section 139(1) [i.e., on or before the due date of filing return of income] or section 139(4) [upto 31st December of the relevant assessment year], if the total income without giving effect to the provisions of
+-section 10, in case of first regime approved entities or
+-section 11 and 12 in case of second regime approved entities, exceeds the maximum amount which is not chargeable to income-tax.
+(IV)	Maintenance of Books of account & Other Documents and Audit of accounts:
+With effect from A.Y. 2023-24, where the total income of the trust or institution or fund referred under these two regimes without giving effect to the provisions of section 10(23C)(iv)/(v)(vi)(via) or section 11 and 12, as the case may be exceeds the maximum amount which is not chargeable to income-tax in any previous year, such entities shall
+-keep and maintain books of account and other documents in such form and manner and at such place,
+-get the accounts audited by a chartered accountant and the report of such audit in the prescribed form duly signed and verified by such accountant and setting forth such prescribed particulars, should be furnished on or before the specified date i.e., one month prior to the due date for filing return of income.
+
+Rule 16CC and Rule 17B prescribe that the report of audit of the accounts of a trust or institution is required to be furnished in
+(a)	Form No. 10B where -
+(I)	the total income of such trust or institution, without giving effect to the provisions of 10(23C)(iv)/(v)(vi)(via) or sections 11 and 12, exceeds Rs 5 crores during the previous year; or
+(II)	such trust or institution has received any foreign contribution during the previous year; or
+(III)	such trust or institution has applied any part of its income outside India during the previous year;
+(b)	Form No. 10BB in other cases.
+
+The term “books or books of account” as defined under section 2(12A) includes ledgers, day- books, cash books, account-books and other books, whether kept in the written form or in electronic form or in digital form or as print-outs of data stored in such electronic form or in digital form or in a floppy, disc, tape or any other form of electro-magnetic data storage device.
+
+Prescribed books of account and documents: Rule 17AA prescribes the following books of account and other documents to be maintained by the entities under both the regimes:
+(a)	books of account, including the following, namely: -
+ 
+(i)	cash book;
+(ii)	ledger;
+(iii)	journal;
+(iv)	copies of bills, whether machine numbered or otherwise serially numbered, wherever such bills are issued by the assessee, and copies or counterfoils of machine numbered or otherwise serially numbered receipts issued by the assessee;
+(v)	original bills wherever issued to the person and receipts in respect of payments made by the person;
+(vi)	any other book that may be required to be maintained in order to give a true and fair view of the state of the affairs of the person and explain the transactions effected;
+(b)	books of account, as referred in clause (a), for business undertaking referred in section 11(4);
+(c)	books of account, as referred in clause (a), for business carried on by the assessee other than the business undertaking referred in section 11(4);
+(d)	other documents for maintaining,
+(i)	record of all the projects and institutions run by the person
+(ii)	record of income of the person during the previous year, in respect of-
+(I)	voluntary contribution containing details of name of the donor, address, permanent account number (if available) and Aadhaar number (if available);
+(II)	income from property held under trust referred to under section 11 along with list of such properties;
+(III)	income of fund or institution or trust or any university or other educational institution or any hospital or other medical institution other than the contribution referred in items (I) and (II);
+(iii)	record of the following, out of the income of the person during the previous year, namely:-
+(I)	application of income, in India,
+ 
+(II)	amount credited or paid to any fund or institution or trust or any university or other educational institution or any hospital or other medical institution referred to in first and second regime;
+(III)	application of income outside India;
+(IV)	deemed application of income;
+(V)	income accumulated or set apart which has not been applied or deemed to be applied containing details of the purpose for which such income has been accumulated;
+(VI)	money invested or deposited in the forms and modes specified in section 11(5);
+(VII)	money invested or deposited in the forms and modes other than those specified in section 11(5);
+(iv)	record of the following, out of the income of the person of any previous year preceding the current previous year, namely -
+(I)	application out of the income accumulated or set apart containing details of year of accumulation, amount of application during the previous year out of such accumulation, name and address of the person to whom any credit or payment is made and the object for which such application is made;
+(II)	application out of the deemed application of income;
+(III)	application, other than the application referred in item (I) and item (II), out of income accumulated during any preceding previous year containing details of year of accumulation, amount of application during the previous year out of such accumulation, name and address of the person to whom any credit or payment is made and the object for which such application is made;
+(IV)	money invested or deposited in the forms and modes specified in section 11(5);
+(V)	money invested or deposited in the forms and modes other than those specified in section 11(5);
+(v)	record of voluntary contribution made with a specific direction that they shall form part of the corpus.
+(vi)	record of contribution received for the purpose of renovation or repair of temple, mosque, gurdwara, church or other place notified under section 80G(2)(b) which is being treated as corpus as referred section 10(23C) or in section 11(1).
+(vii)	record of loan or borrowings
+(viii)	record of properties held by the assessee
+(ix)	record of specified persons, as referred to in section 13(3) and transactions undertaken by the fund or institution or trust with such specified persons.
+
+Place of maintenance of books of account and other documents
+The books of account and other documents shall be kept and maintained by the trust/ institution at its registered office.
+Such books of accounts may be kept at such other place in India as the management may decide by way of a resolution and where such a resolution is passed, these entities should, within seven days thereof, intimate the jurisdictional Assessing Officer in writing giving the full address of that other place and such intimation shall be duly signed and verified by the person who is authorized to verify the return of income under section 140.
+Time period
+These books of account and other documents shall be kept and maintained for a period of ten years from the end of the relevant assessment year.
+However, where the assessment in relation to any assessment year has been reopened under section 147 within the period (3 years or 10 years from the end of relevant assessment year, as the case may be) specified in section 149, the books of account and other documents which were kept and maintained at the time of reopening of the assessment shall continue to be so kept and maintained till the assessment so reopened has become final.
+V.	Application of Income – Key Considerations under both regime: We have seen that the exemption is limited to the extent to which such income is applied. Is it necessary that the entire income should be so applied? The Act gives a concession here. It is possible to claim the exemption even if the trust or institution applies only 85% of the income derived from the trust property for the purpose of the trust, during the relevant previous year.
+ 
+An accumulation not exceeding 15% of the income from such property is permissible. For computing this 15%, voluntary contributions referred to in section 12 shall be deemed to be part of the income. Therefore, in order to avail exemption under both regimes minimum 85% of the income has to be applied towards the object of the N PO. In other words, 85% of income must be applied during the previous year for the purposes for which the trust has been created. The balance of 15% can be freely accumulated or set apart for application to charitable or religious purposes in India. Some relevant considerations for determining application of income are discussed below:
+(A)	Inability to apply in full 85% of the income - It is clear from the above discussion that free accumulation not exceeding 15% of income7 from property is permissible. Hence, the balance 85% must be applied during the previous year for the purposes for which the trust has been created. However, it is possible that the trust is unable to apply the minimum of 85% of its income during the previous year due to either of the following reasons.
+(1)	The whole or any part of the income has not been received during that year. (For e.g., if the assessee follows accrual basis of accounting wherein the income has been recognised but not received)
+(2)	Any other reason (For e.g., late receipt of the income making it impossible to spend it before the end of the year)
+-	In the first situation, wherein the whole or any part of the income has not been received during that year, the period of application is extended to cover the previous year in which the income is actually received and the previous year immediately following the year. However, the amount which may be so claimed to have been so applied during the subsequent previous year cannot exceed the amount of the income which had not been received earlier but received during a subsequent previous year.
+-	In the second case, the period of application is extended to the previous year immediately following the previous year in which the income was derived.
+
+As per the Supreme Court ruling in CIT v. Programme for Community Organisation (2001), 15% of gross receipts would be eligible for accumulation under section 11(1)(a).
+
+Example 1: During the previous year ending 31st March, 2024, a charitable trust earned an income of  Rs 1,00,000 but it received only  Rs 60,000 in that year. The balance of Rs 40,000 is received during the previous year 2024-25.
+(A)Total income earned during the P.Y.2023-24:1,00,000
+(B)Less: Permissible accumulation @15% of Rs 1,00,000:15,000
+(C)Balance 85% of income derived to be applied during P.Y.2023-24 (A-B): 85,000
+(D)Less: Amount deemed to be applied would be the amount not received during the P.Y. 2023-24: 40,000
+(E)Amount to be applied in the P.Y. 2023-24 (C-D): 45,000
+(F)Balance amount received in P.Y.2024-25 to be applied in the P.Y.2024-25 or P.Y.2025-26.: 40,000
+Note - Since this amount of ` 40,000 is received during the P.Y. 2024-25, this can be applied in the P.Y.2024-25 or in the P.Y.2025-26.
+
+Example 2: A trust receives a sum of Rs 50,000 on 30th March, 2024. Its previous year ends on 31- 3-2024. It is obvious that it is impossible to apply the requisite sum within one day. Therefore, it has been provided that such sum can be applied at any time during the immediately following previous year i.e., up to 31-3-2025
+
+(B)	Procedural Formalities: For exercising an option for availing the extended period for application in the above two situations [Clause (2) of Explanation 1 to section 11(1)] - To avail the facility of the extended period of application of income, the trust has to exercise an option in writing that the income applied later as prescribed may be deemed to be income applied to the relevant charitable purposes during the previous year in which the income was derived. Such option has to be exercised at least 2 months before the due date for filing return of income specified under section 139(1).
+The income so deemed to have been applied shall, however, not be taken into account in calculating the amount of income applied to such purposes, during the previous year in which the income is actually received or during the immediately following previous year, as the case may be.
+Thus, in Example 1 given above, the amount of ` 40,000 received subsequently in the previous year 2024-25 and applied to charitable purposes in the previous year 2024-25, will, by virtue of the option exercised by the trust, be deemed to be applied for charitable purposes in the previous year 2023-24 itself. Therefore, such an amount will not be taken into consideration in determining the amount of income applied for charitable purposes in the previous year 2024-25.
+Section 11(1B) also provides that where the income for which an option has been exercised as discussed above, is not actually applied, it is to be treated as the income of-
+-the previous year immediately following the previous year in which the income was received in case of first situation or
+-the previous year immediately following the previous year in which it was derived, in case of second situation.
+
+Note: The option for availing the benefit for extended period for application of income in the two situations mentioned above is not available to trust or institution availing
+exemption under the first regime i.e., section 10(23C).
+
+(C)	Amounts not treated as application of income or not allowable as deduction
+(i)	Amount credited or paid out of income of any trust by way of corpus donation not to be considered as application [Explanation 2 to section 11(1)]- Any amount credited or paid, out of income derived from property held under trust, to any fund or trust or institution or any university or other educational institution or any hospital or other medical institution referred to in section 10(23C)(iv)/(v)/(vi)/(via) or other trust or institution registered under section 12AA or 12AB, as the case may be, being contribution with a specific direction that it shall form part of the corpus, shall not be treated as application of income for charitable or religious purpose [Explanation 2 to section 11(1)].
+(ii)	Only 85% of the amount credited or paid by way of donation (other than corpus donations) to another trust or institution out of current year income would be considered as application [Explanation 4(iii) to section 11(1)]: Any amount credited or paid by way of donation, other than corpus donations, to any fund or trust or institution or any university or other educational institution or any hospital or other medical institution referred to in 10(23C)(iv)/(v)/(vi)/(via) or other trust or institution registered under section 12AB, as the case may be, out of current year income shall be treated as application for charitable or religious purposes only to the extent of 85% of such amount credited or paid.
+(iii)	Amount credited or paid, out of accumulated income of any trust, to any trust or institution registered under section 12AA/12AB or referred to in section 10(23C)(iv)/(v)/(vi)/ (via), not considered as application of income [Explanation to section 11(2)]
+Any amount credited or paid, out of income derived from property held under trust, which is not applied, but is accumulated or set apart, to any trust or institution registered under section 12AA/12AB, or to any fund or institution or trust or any university or other educational institution or any hospital or other medical institution referred to in sub-clause (iv)/(v)/(vi)/(via) of section 10(23C), shall not be treated as application of income for charitable or religious purpose, either during the period of accumulation or thereafter.
+Note – Any contribution to another trust or institution out of accumulated income will not be treated as application. Contribution to another trust or institution towards corpus will not be deemed as application even if it is out of current year income.
+(iv)	Provisions of sections 40(a)(ia), 40A(3) and 40A(3A) apply in case of application of income by trust [Explanation 3 to section 11(1)] – In case where an expenditure is incurred on which tax is deductible at source under Chapter XVII-B and such tax has not been deducted or after deduction, has not been paid on or before the due date under section 139(1), 30% of sum paid would not be treated as application of income in that year. The same would be, however, be treated as application in the year in which tax is deducted and paid..
+Likewise, where the trust incurs any expenditure in respect of which a payment or aggregate of payments made to a person in a day, otherwise than by an account payee cheque/ bank draft/ ECS or through such other prescribed electronic mode [Credit card, debit card, net banking, IMPS (Immediate Payment Services), UPI (Unified Payment Interface), RTGS (Real Time Gross Settlement), NEFT (National Electronic Fund Transfer), BHIM (Bharat Interface for Money) Aadhar Pay], exceeds ` 10,000, the same would not be considered as application of income.
+(v)	Income received for repairs and renovation of temples, mosques etc. [Explanation 3A to section 11(1) - This provision would apply where the property held under a trust or institution includes any temple, mosque, gurdwara, church or other place notified under section 80G(2)(b).
+In such a case, any sum received as a voluntary contribution by such trust or institution for the purpose of renovation or repair of such temple, mosque, gurdwara, church or other place, may, at its option, be treated as forming part of the corpus of the trust or the institution, provided such corpus is:
+(a)	applied by the trust or institution only for the purpose for which contribution was made;
+(b)	not utilised for making contribution or donation to any person;
+(c)	separately identifiable; and
+(d)	invested or deposited in the forms and modes specified in section 11(5).
+However, in case such trust or institution has violated any of the above conditions, such sum treated as corpus will be deemed as income of the previous year during which violation takes place.
+(vi)	Corpus donations utilised by fund/trust/institution towards its objects shall not be treated as application of income – Under both the exemption regimes, corpus donations received by a fund/trust/institution etc. are exempt from income, if the corpus donations are received with a specific direction that they shall form part of the corpus and the said corpus contribution is invested in any of the modes specified under section 11(5) [Section 11(1)(d].
+Therefore, corpus donations being exempt income, any application made from corpus donation shall not be treated as application of income [Explanation 4(i) to section 11(1)].
+However, the amount not so treated as application thereof, shall be treated as application for charitable or religious purposes in the previous year in which the amount is invested or deposited back, into one or more of the forms or modes specified in section 11(5) maintained specifically for such corpus, from the income of that year and to the extent of such investment or deposit, subject to the satisfaction of conditions which are required to be satisfied in case of application for charitable or religious purposes. These conditions are as follows:
+(1)	Application should be in India except with the approval of the Board in accordance with the provisions of section 11(1)(c).
+(2)	Application should not be by way of donation to the corpus of another trust or institution.
+(3)	TDS, if applicable, should be deducted on such application.
+(4)	Application whereby payment or aggregate of payments made to a person in a day does not exceed ` 10,000 otherwise than by way otherwise than by an account payee cheque/ bank draft/ ECS or through such other prescribed electronic mode [Credit card, debit card, net banking, IMPS (Immediate Payment Services), UPI (Unified Payment Interface), RTGS (Real Time Gross Settlement), NEFT (National Electronic Fund Transfer), BHIM (Bharat Interface for Money) Aadhar Pay].
+(5)	Carry forward and set off of excess application is not allowed.
+(6)	Application is allowed in the year in which it is actually paid.
+(7)	Application should not directly or indirectly benefit any person referred to in section 13(3) and the income of the trust or institution should not enure any benefit to such person.
+(8)	If the trust or institution invests or deposits back the amount into corpus within 5 years of application from the corpus, only then such investment/ depositing back into corpus will be allowed as application for charitable or religious purposes.
+
+Note - No application would be allowed for amount invested or deposited back in modes specified under section 11(5), where application was made out of corpus on or before 31.3.2021.
+
+Illustration:XYZ Charitable Trust is an educational institution registered under section 12AB of the Income-tax Act. During the Financial Year 2023-24, the trust receives a corpus donation of ` 25 lakhs with a specific direction that the corpus fund should be utilised for setting up a science laboratory. The trust intends to set up the lab only during P.Y. 2025-26 and will utilize the funds only during that financial year. In this regard, the trust wants to understand whether the corpus donations are exempt u/s 11(1)(d) of the Income-tax Act, 1961:As per section 11(1)(d), voluntary contributions made with a specific direction that they shall form part of the corpus of the trust is an exempted income. However, in order to avail the exemption by the trust, such corpus donations must be invested or deposited in one or more of the forms or modes specified in section 11(5). Failure to deposit the same in the prescribed modes, will result in inclusion of corpus donation as an income of the XYZ Charitable trust.
+
+
+(vii)	Application out of loan/borrowings not to be treated as application of income - Application for charitable or religious purposes, from any loan or borrowing, shall not be treated as application of income for charitable or religious purposes [Explanation 4(ii) to section 11(1)].
+However, the amount not so treated as application or part thereof, shall be treated as application in the previous year in which the loan or borrowing or part thereof is repaid from the income of that year to the extent of such repayment subject to satisfaction of conditions which are required to be satisfied in case of application for charitable or religious purposes. These conditions are as follows:
+1.	Application should be in India except with the approval of the Board in accordance with the provisions of section 11(1)(c).
+2.	Such application should not be in the form of corpus donation to another trust.
+3.	TDS, if applicable, should be deducted on such application.
+4.	Application whereby payment or aggregate of payments made to a person in a day does not exceed ` 10,000 otherwise than by way of an account payee cheque/ bank draft/ ECS or through such other prescribed electronic mode [Credit card, debit card, net banking, IMPS (Immediate Payment Services), UPI (Unified Payment Interface), RTGS (Real Time Gross Settlement), NEFT (National Electronic Fund Transfer), BHIM (Bharat Interface for Money) Aadhar Pay].
+5.	Carry forward and set off of excess application is not allowed.
+6.	Application is allowed in the year in which it is actually paid.
+7.	Application should not directly or indirectly for the benefit of any person referred to in section 13(3) and the income of the trust or institution should not enure any benefit to such person.
+8.	Repayment of loan is made within a period of 5 years from the end of the previous year in which such application was made from loan or borrowing.
+Note - Application from any loan or borrowing made on or before 31.3.2021 will not be treated as application. This is because upto 31.3.2021, the amount applied out of loan or borrowing was allowed as application. Hence, at the time of repayment, it cannot be claimed as application once again.
+
+(viii)	No set off or deduction allowable of any excess application of earlier previous year [Explanation 5 to section 11(1)] – No set off or deduction or allowance of any excess application of any of the year preceding the previous year shall be made for computation of income required to be applied or accumulated during the previous year. For example, excess application in A.Y. 2023-24 cannot be reduced to determine the income to be applied or accumulated during the P.Y. 2023-24 (A.Y. 2024-25).
+(ix)	No deduction for depreciation where cost of asset has been claimed as application of income – Income for the purposes of application under section
+11 shall be determined without allowing any deduction or allowance for depreciation or otherwise, in respect of any asset, the cost of acquisition of which has been claimed as an application of income under this section in the same or any other previous year [Section 11(6)].
+
+
+Illustration:MSO Foundation, a registered charitable institution set up on 1st April, 2022 is engaged in providing education in hotel management. The organization acquires a building in July 2023 for using the same for holding classes and office activities. It has approached you for your opinion on its eligibility to claim the cost of the building and also depreciation thereon in the current year and the subsequent year. Advise the institution indicating the reasons.
+Would your advise change, if building has been acquired out of loan taken in July 2023 from bank, to be repaid in installments over a period of 7 years?
+Solution:15% of income from property held for charitable purposes is exempt from tax under section 11. The remaining 85% of such “income” would be exempt if it is “applied” for charitable purposes in India.
+Application of the amount can be for revenue or capital purposes. As long as the expenditure is incurred out of income earned by the trust and for the purposes of carrying on the objects of the trust, it would be treated as application of income even if such expenditure is for capital purposes. Therefore, since the building is acquired by the organization for holding classes and office activities, which is for the purposes of carrying on the objects of the charitable institution i.e., for providing education in hotel management, the cost of the building would be treated as application of income.
+However, section 11(6) provides that where the cost of building is claimed as application, no other deduction for depreciation or otherwise would be allowed as an application of income in respect of such asset for the same or any other previous year.
+If building has been acquired out of loan taken from bank, then, cost of building cannot be claimed as application. Repayment of loan would be treated as application in the year of repayment to the extent of amount repaid for a period of 5 years from the end of the previous year in which building was acquired. The repayment made upto 31.3.2029 would be eligible to be treated as application in the respective year of repayment. Repayment made thereafter i.e., from 1.4.2029 cannot be treated as application.
+Alternatively, since cost of building is not claimed as application, depreciation on such building can be claimed as deduction. However, if deduction in respect of depreciation is claimed, then, it is possible to take a view that repayment of loan may not be eligible to be treated as application.
+
+
+(x)	Expenditure allowed only on actual payment basis – Previously, the term “application” included expenses that accrued during the year, even if they are not actually paid. However, with effect from A.Y. 2022-23, any sum payable by any trust or institution shall be treated as application of income only in the previous year when such sum is actually paid by it. This is irrespective of the previous year in which the liability to pay such sum was incurred or method of accounting regularly employed by it. Thus, expenditure is allowed as application only when the payment is actually made and not when the liability is incurred [Explanation to section 11].
+However, where during any previous year, any sum has already been claimed to have been applied by the trust or institution, such sum would not be allowed as application in any subsequent previous year based on actual payment.
+For example, if a trust has incurred ` 2,00,000 in the P.Y. 2020-21 and claimed the same as application of income in that year and subsequently, the actual payment is made in the P.Y. 2023-24. Since such sum was already claimed as application in the P.Y. 2020-21, the same would not be allowed as application in the P.Y. 2023-24, on the basis of actual payment.
+
+Illustration: VPS Foundation, a charitable institution registered under section 12AB set up on 1st August 2022 is engaged in providing education in sports management. The Foundation follows accrual basis of accounting and during the previous year 2023-24, has accrued staff’s salary expenses pertaining to the month of March 2024 amounting to ` 5 lakhs. The salary was paid during the first week of April 2024. KS, the tax advisor of the foundation has advised them that the salary expenses provided for in the accounts will not be treated as an application of income for the previous year 2023-24. Examine.: Upto Assessment Year 2021-22, an expenditure could be regarded as an application of income even if it was not actually paid. However, effective from assessment year 2022-23, Explanation to section 11 provides that any sum payable by an institution shall be considered as an application of income only in the previous year in which such sum is actually paid by it. This is irrespective of the previous year in which the liability to pay such sum is incurred by the institution according to the method of accounting regularly employed by it. Therefore, the tax advisor’s statement is correct.
+
+
+(D)	Instances where capital gains would be deemed to have been applied for charitable purposes [Section 11(1A)]:(a)	Transfer of a capital asset held under trust wholly for charitable or religious purposes [Section 11(1A)(a)]- Where the whole of the net
+ 
+consideration from the transfer of the capital asset is utilised for acquiring a new capital asset which is held under trust wholly for charitable or religious purposes, the entire amount of capital gains arising from the transfer would be deemed to have been applied for charitable or religious purposes. If, however, only a part of the net consideration is utilised in acquiring the new capital asset, the amount of capital gains deemed to have been utilised for charitable or religious purposes shall be equal to the excess of the proceeds utilised over the cost of the asset transferred.
+
+
+Example 3
+Original cost of capital asset transferred=Rs 1,00,000
+Consideration for which it is transferred= Rs 1,50,000 
+Situation 1 Cost of new capital asset acquired = Rs 1,50,000 
+Situation 2 Cost of new capital asset acquired= Rs 1,20,000 
+Amount that will be deemed to have been applied for charitable purposes. 
+Situation 1: Rs 50,000
+Situation 2: Rs 20,000
+
+(b)	Transfer of a capital asset held under trust in part only for charitable and religious purposes [Section 11(1A)(b)] - Where only a part of a capital asset has been transferred, only the “appropriate fraction” of the capital gain arising from the transfer shall be deemed to have been applied to charitable or religious purposes. Where the whole of the net consideration is utilised in acquiring the new capital asset, the whole of the appropriate fraction of such capital gain will be deemed to have been so applied. In any other case, the exemption will be limited to so much of the appropriate fraction of the amount utilised for acquiring the new asset as exceeds the appropriate fraction of the cost of the transferred asset.
+“Appropriate fraction” means the fraction which represents the extent to which the income derived from the capital asset transferred was applicable to charitable or religious purposes before such transfer.
+
+Example 4: A capital asset is being held under trust. Two-thirds of the income derived from such capital asset are being utilised for the charitable purposes of the trust. The asset is being transferred.
+Cost of transferred asset: Rs 1,20,000
+Net consideration:Rs1,80,000
+Cost of new asset acquired: Rs 1,50,000 
+Capital gains: 60,000 [Rs 1,80,000 – Rs 1,20,000] 
+Appropriate fraction 2/3rd Income represented by ‘appropriate fraction’ = 2/3rd of Rs 60,000 = Rs 40,000
+Since the entire net consideration has not been utilised in acquiring the new asset, the amount deemed to have been utilised for charitable purpose will be (2/3rd of Rs 1,50,000) – (2/3rd of Rs 1,20,000) = Rs 1,00,000 – Rs 80,000 = Rs 20,000.
+Note – There is no provision akin to section 11(1A) in the first regime under section 10(23C).
+
+VI.	Accumulation of Income:
+Conditional accumulation - Under both regimes, application of income derived from property held under trust for charitable purposes in India is the main condition for grant of exemption to trust or institution in respect of income derived from property held under such trust. In case such income cannot be applied during the previous year, the same can be accumulated and applied for such purposes, subject to satisfaction of the conditions provided therein.
+Both regimes permit accumulation of 15% of the income indefinitely by the trust or institution. However, 85% of income can only be accumulated for a period not exceeding 5 years subject to the conditions that such person submits the prescribed form i.e., Form 10 to the Assessing Officer and the money so accumulated or set apart is invested or deposited in the specified forms or modes.
+As per section 11(2), the conditions for accumulation are as follows:
+(1)	such person should furnish a statement in the prescribed form (Form 10) and in the prescribed manner to the Assessing Officer, stating the purpose for which the income is being accumulated or set apart and the period for which the income is being accumulated or set apart, which shall, in no case, exceed five years.
+In computing the period of five years, the period during which the income could not be applied for the purpose for which it is so accumulated or set apart, due to an order or injunction of any court, shall be excluded.
+ 
+(2)	the money so accumulated or set apart should be invested or deposited in the modes specified in section 11(5).
+(3)	the statement in Form 10 should be filed at least 2 months prior to the due date of filing return of income specified under section 139(1).
+As per section 13(9), in case the statement in Form 10 is not submitted on or before the due date under section 139(1), then, the benefit of accumulation would not be available and such income would be taxable at the applicable rate. Further, the benefit of accumulation would also not be available if return of income is not furnished on or before the due date of filing return of income specified in section 139(1).
+Note:Section 11(2) stipulates the conditions for accumulation, on fulfillment of which the income so accumulated or set apart would not be included in the total income of the previous year of the trust. The condition stipulated in clause (c) of Section 11(2) is that the statement in Form 10 has to be furnished at least 2 months prior to the due date of filing of return of income u/s 139(1). However, as per section 13(9), the income accumulated would not be excluded from total income if Form 10 is not submitted on or before the due date under section
+139(1). Section 13(9) permits exclusion of accumulated income from total income of the previous year, if Form 10 is filed on or before the due date under section 139(1). CBDT Circular No.6/2023 dated 24.5.2023 clarifies that the statement of accumulation in Form No. 10 is required to be furnished at least two months prior to the due date of furnishing return of income so that it may be taken into account while auditing the books of account. However the accumulation/deemed application shall not be denied to a trust as long as the statement of accumulation/deemed application is furnished on or before the due date of furnishing the return as provided in section 139(1).
+
+Consequences on failure to satisfy the conditions of accumulation [Section 11(3)]
+Where the accumulated income of the trust -
+(a)	is applied to purposes other than charitable or religious purposes or to the objects for which first regime entities are established; then such income shall be deemed to be the income of such person in the concerned previous year in which it is so applied.
+(b)	ceases to be accumulated or set apart for application; then such income shall be deemed to be the income of such person in the previous year in which the income ceases to be so accumulated or set apart.
+(c)	ceases to remain invested or deposited in any of the forms or modes specified in section 11(5); then such income shall be deemed to be the income of such person in the previous year, in which the income ceases to remain invested or deposited as per modes in section 11(5).
+(d)	is not utilised for the purpose for which it is accumulated or set apart during the period specified under the statement for accumulation; such income shall be deemed to be income of such person of the previous year being the last previous year of the period for which the income is so accumulated or set apart.
+(e)	is credited/paid to any trust or fund or institution registered under section 12AA/12AB/section 10(23C)(iv)/(v)/(vi)/(via); such income shall be deemed to be income in the previous year when it is so credited or paid.
+As per section 11(3A), where due to circumstances beyond the control of the person in receipt of the income, any income invested or deposited cannot be applied for the purpose for which it was accumulated or set apart, the Assessing Officer may, on an application made to him in this behalf, allow such person to apply such income for such other purpose in India as is specified in the application by such person and as is in conformity with the objects of the trust.
+However, the Assessing Officer shall not allow application of such income by way of payment or credit to any trust or fund or institution registered under section 12AA/12AB/section 10(23C)(iv)/(v)/(vi)/(via).
+In case of a trust or institution which has deposited its income in forms or modes specified under section 11(5) is dissolved, the Assessing Officer may allow application of such income by way of payment or credit to a trust or institution registered under section 12AA/12AB or fund or trust or institution referred to section 10(23C)(iv)/(v)/(vi)/(via) [This provision is mentioned only with reference to the second regime].
+
+Illustration:A charitable institution registered under section 12AB of the Income-tax Act, 1961 filled in Form No.10 for seeking permission to accumulate unapplied income under section 11(2) of the Act for the objects of the institution and submitted it to the Assessing Officer along with the resolution for accumulation. The Assessing Officer found that the objects for which accumulation was sought were not particularised in as much as they covered the entire range of objects of the institution. Can the Assessing Officer deny the benefit of accumulation in such a case?:Section 11(2) permits a charitable trust or institution to accumulate its unspent income where 85% of the income is not applied or is not deemed to have been applied to charitable or religious purposes in India during the previous year. The institution or trust has to specify, in the statement furnished to the Assessing Officer, the purpose for which the income is being accumulated or set apart and the period for which such income is to be accumulated or set apart.
+In the given case, the assessee institution sought the permission of the Assessing Officer to accumulate unapplied income for the objects of the institution. The institution had not stated any objects in particular for which the unspent income was sought to be accumulated or set apart. In Bharat Krishak Samaj vs. Deputy Director of Income-tax (Exemption) (2008) 306 ITR 153 (Del.), it was held that it is not necessary for a charitable trust to particularize each and every object for which accumulation is sought. It is enough if the assessee seeks permission for accumulation for the objects of the trust. Therefore, the Assessing Officer cannot deny the benefit of accumulation in such a case.
+
+Illustration:A charitable institution registered under section 12AB of the Income-tax Act, 1961 for the previous year ended 31 March 2024, filled in Form No.10 for seeking permission to accumulate unapplied income for a period of five years under section 11(2) of the Act for the objects of the institution and submitted it to the Assessing Officer along with the resolution for accumulation. The charitable institution could not utilise the accumulated income within the period of five years. Examine the consequences of the same for the charitable institution with regards to the accumulated income.: Section 11(3) provides for consequences when an assessee registered under section 12AB fails to satisfy the conditions of 11(2) accumulation. In this regard, the charitable institution has not utilised the accumulated income of P.Y. 2023-24 within a period of five years as specified in Form 10. Hence, by virtue of section 11(3), the said income will be deemed to be the income of the charitable institution of the previous year, being the last previous year of the period for which the income accumulated is not utilised. Hence, the said income will be taxable in the 5th year as it is the last previous year of the period of accumulation.
+
+
+Modes specified in section 11(5):
+(1)	Investment in Government Saving Certificates.
+(2)	Deposits with Post Office Savings Banks.
+(3)	Deposit with Scheduled banks or Co-operative Banks.
+(4)	Investment in units of the Unit Trust of India.
+(5)	Investment in Central or State Government Securities.
+(6)	Investments in debentures issued by or on behalf of any company or corporation. However, both the principal and interest thereon must have been guaranteed by the Central or the State Government.
+(7)	Investment or deposits in any public sector company.
+Where an investment is made in the shares of any public sector company and such public sector company ceases to be a public sector company, the investment so made shall be deemed to be an investment made for a period of three years from the date of such cessation and in the case of any other investment or deposit, till the date of its maturity.
+(8)	Investment in bonds of approved financial corporation providing long term finance for industrial development in India and eligible for deduction under section 36(1)(viii).
+(9)	Investment in bonds of approved public companies whose principal object is to provide long-term finance for construction or purchase of houses in India for residential purposes and eligible for deduction under section 36(1)(viii).
+(10)	Deposits with or investment in any bonds issued by a public company formed and registered in India with the main object of carrying on the business of providing long- term finance for urban infrastructure in India.
+"Long-term finance" means any loan or advance where the terms under which moneys are loaned or advanced provide for repayment along with interest thereof during a period of not less than five years.
+"Urban infrastructure" means a project for providing potable water supply, sanitation and sewerage, drainage, solid waste management, road, bridges and flyovers or urban transport.
+ 
+(11)	Investment in immovable property excluding plant and machinery, not being plant and machinery installed in a building for the convenient occupation thereof.
+(12)	Deposits with Industrial Development Bank of India.
+(13)	Any other mode of investment or deposit as may be prescribed. Rule 17C specifies the following other modes:
+(i)	Investments in units issued under any scheme of mutual fund referred to in section 10(23D);
+(ii)	Any transfer of deposits to Public Account of India;
+(iii)	Deposits made with an authority constituted in India or under any law enacted either for the purpose of dealing with and satisfying the need for housing accommodation or for the purpose of planning, development or improvement of cities, towns and villages, or for both;
+(iv)	investment by way of acquiring equity shares of a ‘depository’;
+(v)	investment by a recognized Stock Exchange, in the equity shares of a company promoted by it to acquire the membership rights of other stock exchanges, where at least 51% of the paid-up share capital is held by the Stock Exchange and the balance is held by its members;
+(vi)	investment made by a person, authorised under section 4 of the Payment and Settlement Systems Act, 2007, in the equity share capital or bonds or debentures of a company —
+(A)	which is engaged in operations of retail payments system or digital payments settlement or similar activities in India and abroad and is approved by the Reserve Bank of India for this purpose; and
+(B)	in which at least 51% of equity shares are held by National Payments Corporation of India.
+(vii)	investment made by a person, authorised under section 4 of the Payment and Settlement Systems Act, 2007, in the equity share capital or bonds or debentures of Open Network for Digital Commerce Ltd, being a company incorporated under section 7(2) read with section 8(1) of the Companies Act, 2013, for participating in network based open protocol models which enable digital commerce and interoperable digital payments in India;
+(viii)	investment by way of acquiring equity shares of an incubatee by an incubator;
+(ix)	investment by way of acquiring shares of National Skill Development Corporation;
+(x)	investment in debt instruments issued by any infrastructure finance company registered with RBI;
+(xi)	investment in Stock Certificate as defined in of Sovereign Gold Bonds Scheme, 2015.
+
+Illustration:A charitable trust derives its income from the business of providing mineral water to various companies situated in Software Technology Park in Hyderabad. A sum of ` 30 lakhs has been derived as net income from such business activity, which has been applied for the object of general public utility. The total receipts of the trust during the P.Y. 2023-24 was
+` 140 lakhs. Examine the taxability of application of the income, if the income so derived relates to the previous year 2023-24. Would your answer be different, if the trust runs a school in a backward district and applies the profits from the business for such school's activity?: In the first case, net income from the business of supplying mineral water to various companies i.e., ` 30 lakhs is not eligible for exemption under section 11, since the receipt from such activity exceeds 20% of total receipts (i.e., 20% of ` 140 lakhs) during the year. This is because “advancement of any object of general public utility” would not be a charitable purpose if it involves carrying on of any activity in the nature of trade, commerce or business, for example, supply of mineral water for a consideration, as in this case. It is immaterial that the net income from such business is applied for the object of general public utility. On the other hand, where the trust runs a school in a backward district, this restriction is not applicable. The reason is that the restriction contained in section 2(15) is applicable only to the last limb of the definition of “charitable purpose” i.e. advancement of object of general public utility. It does not affect the other limbs of the definition viz. “relief of the poor”, “education”, “medical relief” etc.
+Section 11(4) clarifies that “property held under trust” includes a business undertaking so held. As per section 11(4A), exemption can be availed in respect of profits and gains of business, if such business is incidental to the attainment of the objectives of the trust and separate books of account are maintained in respect of such business. Therefore, in the second case, the profit from the business shall be eligible for exemption under section 11, assuming that the said business is incidental to the attainment of the objects of the trust (i.e., education) and books of account for such business activity is maintained separately.
+
+
+VII.	No claim for exemption under section 10 permissible where trust has been granted registration/approval for availing exemption under section 11 or under section 10(23C)
+Where a trust or an institution or fund has been granted registration/approval for purposes of availing exemption under second regime, and the registration is in force for a previous year, then, such trust or institution cannot claim any exemption under any provision of section 10 [other than exemption of agricultural income under section 10(1)].
+Prior to 1st June 2020, the organisation registered u/s 12AA could also avail approval u/s 10(23C) or 10(46) and thus, could avail tax exemption under either of the two sections. However, with effect from 1 June 2020, the registration granted for availing exemption under section 11 would become inoperative from the date on which the trust or institution is approved under section 10(23C) or is notified under section 10(23EC) or under section 10(46) or under section 10(46A) [First proviso to section 11(7)].
+The trust or institution, whose registration has become inoperative, may apply to get its registration operative under section 12AB subject to the condition that on doing so, the approval under section 10(23C) or notification under section 10(23EC)/10(46) or 10(46A), as the case may be, to such trust or institution shall cease to have any effect from the date on which the said registration becomes operative and thereafter, it shall not be entitled to exemption under section 10(23C) or under section 10(23EC) or section 10(46) or section 10(46A), as the case may be [Second proviso to section 11(7)]
+Where a fund or institution or trust referred in first regime under section 10(23C)(iv)/(v)/(vi)/(via) has been approved or provisionally approved by the Principal Commissioner or Commissioner and the approval is in force for any P.Y., then, no exemption can be claimed under any other provisions of section 10 [other than section 10(1)].
+Likewise, w.e.f., 1.4.2022, where a trust or institution or fund is notified under section 10(46) or section 10(46A), the approval or provisional approval granted under first regime under section 10(23C)(iv)/(v)/(vi)/(via) would become inoperative from the date of such notification issued under section 10(46) or 10(46A).
+
+
+
+
+Denial of Exemption [Section 13]:
+(A)	Income not eligible for exemption under sections 11 and 12
+In the following situations, income of a trust, fund or institution will not be eligible for availing exemption under section 10(23C) (iv)/(v/(vi)/(via) or Section 11 as the case may be.
+(a)	Income from property held under a trust for private religious purposes - Where the property is held under a trust for private religious purposes, no part of the income will be exempt under section 11, if it does not ensure for the benefit of the public [Section 13(1)(a)].
+(b)	Income from trust established for benefit of any particular religious community or caste -Where a trust set up for charitable purposes or a charitable institution has been established for the benefit of any particular religious community or caste, the income thereof will not be eligible for exemption under section 11. However, a trust or institution created or established for the benefit of scheduled caste, backward classes, scheduled tribes or women and children shall not be treated as a trust or institution created or established for the benefit of a religious community or caste within the meaning of section 13(1)(b).
+Note:The situations referred to in (a) & (b) on non-availability of exemption are with reference to only income under the second regime.
+(c)	Income of trust enuring for the benefit of any person referred to in section 13(3) [Section 13(1)(c)] Where any part of the income or property of trust or the institution enures directly or indirectly for the benefit of any person referred to in section 13(3), then such part of the income shall not be eligible for exemption and the said income will taxed at 30% under Section 115BBI.
+With effect from A.Y. 2023-24, such part of income or property would not be eligible for exemption and would be taxed under section 115BBI at 30%. Further, to avoid income of the trusts or institutions to be used for the benefit of specified persons under section 13(3), penalty is leviable under 271AAE on the amount of income provided as a benefit.
+Penalty for providing benefit to person referred in section 13(3) [Section 271AAE] If during any proceeding under this Act, it is found that any person, being any fund or institution or trust referred under section 10(23C)(iv)/(v)/(vi)/(via) or any trust or institution referred to in section 11 applied income of the trust or institution, directly or indirectly, for the benefit of any person referred to in section 13(3), the Assessing Officer may direct such fund or trust or institution to pay penalty equal to -
+(i)	100% of the aggregate amount of income so applied, where the violation is noticed for the first time during any previous year; and
+(ii)	200% of the aggregate amount of income so applied, where violation is noticed again in any subsequent previous year.
+Non-applicability of relaxation u/s 56(2)(x)
+The provisions of section 56(2)(x) are not attracted in the hands of the recipient who receives any sum of money or property from a trust or institution approved u/s 10(23C) or registered u/s 12AA or 12AB.
+However, this relaxation is not available where sum of money or property has been received by specified persons under section 13(3).
+
+(d)	Deposit or investment of funds in impermissible modes [Section 13(1)(d)] -Any income of a trust or institution, if –
+(1)	its funds are invested or deposited otherwise than in the forms or modes specified in section 11(5);
+(2)	it holds shares in a company other than -
+(i)	a public sector company; or
+(ii)	shares prescribed as a form or mode of investment under section 11(5)(xii).
+However, these restrictions do not apply in respect of :
+(a)	any assets forming part of corpus of the trust as on 1-6-1973.
+(b)	any accretion to the corpus shares mentioned in (a) above by way of bonus shares allotted to the trust.
+(c)	debentures issued by or on behalf of any company or corporation and acquired by the trust before March 1, 1983.
+(d)	any asset not covered under section 11(5), where such asset is held for not more than one year from the end of the previous year in which such asset is acquired.
+ 
+(e)	any funds representing the profits and gains of business. However, where a trust has any other income in addition to profits and gains of business, such relaxation of the restriction will be denied unless the trust keeps separate accounts for the business [This is applicable only for the second regime].
+Note – Under the first regime, the 3rd proviso to section 10(23C), requiring investment or deposit of funds in forms or modes specified under section 11(5), contains similar exclusions [mentioned in (a), (b), (c) and (d) above]. In addition, voluntary contributions received and maintained in the form of jewellery, furniture or any other article as the Board may specify, are also excluded from the applicability of this requirement under the first regime]
+(B)	Prohibited use or application -We have noted above that when any part of the income or any property of the trust whenever created, is, during the previous year, used or applied directly, for the benefit of any person referred to in section 13(3), the denial of exemption operates. Section 13(2) specifies a few particular instances where the income or the property is to be deemed to have been used for the benefit of a person referred to in section 13(3). It should be noted that those particular instances do not in any way restrict the general meaning of the expression “used or applied for the benefit of a person”. The provisions of section 13(2) are as follows:
+The income or the property of the trust or institution or any part of such income or property is to be deemed to have been used or applied for the benefit of a person referred to in section 13(3) in the following cases:
+(a)	Loan without adequate interest or adequate security - If any part of the income or the property of the trust or institution is or continues to be lent to any person referred to in section 13(3) for any period during the previous year without either adequate security or adequate interest or both.
+(b)	Allowing use of property without adequate rent -If any land, building or other property of the trust or institution is or continues to be, made available, for the use of any person referred to in section 13(3) for any period during the previous year without charging adequate rent or other compensation.
+(c)	Excess payment for services - If any amount is paid out of the resources of the trust or institution to any of the persons referred to in section 13(3) for services rendered to the trust or institution but such amount is in excess of a reasonable sum payable for such services.
+(d)	Inadequate remuneration for services rendered - If the services of the trust or institution are made available to any person referred to section 13(3) without adequate remuneration or other compensation.
+(e)	Excess payment for purchase of property - If any share, security or other property is purchased by or on behalf of the trust or institution from any person referred to in section 13(3) during the previous year for a consideration which is more than adequate.
+(f)	Inadequate consideration for property sold - If any share, security or other property is sold by or on behalf of the trust or institution to any person referred to in section 13(3) during the previous year for a consideration which is less than adequate.
+(g)	Diversion of income or property exceeding ` 1,000 - If any income or property of the trust or institution is diverted during the previous year in favour of any person referred to in section 13(3) provided the aggregate value of such income and property diverted exceeds ` 1,000.
+(h)	Investment in substantial interest concerns - If any funds of the trust or institution are, or continue to remain, invested for any period during the previous year in any concern in which any person referred to in section 13(3) has a substantial interest.
+Section 13(4) provides some respite where the aggregate of the funds invested in the said concern does not exceed five per cent of the capital of that concern. In such a case, the exemption under section 11 or 12 will be denied only in relation to such income as arises out of the said investment. Exemption will not be denied to the remaining income only due to this reason.
+(C)	Prohibited category of persons - Section 13(3) gives the list of persons, use or application of the income or property of a trust for whose direct or indirect benefit results in a denial of the exemption contemplated in section 11 for a charitable or religious trust or institution. The said persons are:
+(1)	The author of the trust or the founder of the institution.
+(2)	Any person who has made a substantial contribution to the trust or institution, that is, any person whose total contribution up to the end of the relevant previous year exceeds ` 50,000.
+(3)	Where the author, founder or the person is a HUF, any member of the family.
+(4)	Any trustee of the trust or manager (by whatever name called) of the institution.
+(5)	Any relative of any such author, founder, person, member, trustee or manager as referred to above.
+(6)	Any concern in which any of the persons referred to in clauses (1) to (5) above has a substantial interest.
+Relative - The expression “relative”, in relation to an individual, means -
+(a)	spouse of the individual;
+(b)	brother or sister of the individual;
+(c)	brother or sister of the spouse of the individual;
+(d)	any lineal ascendant or descendant of the individual;
+(e)	any lineal ascendant or descendant of the spouse of the individual;
+(f)	spouse of a person referred to in (b), (c), (d) or (e) above;
+(g)	any lineal descendant of a brother or sister of either the individual or the spouse of the individual;
+Substantial interest in a concern - Section 13(2)(h), section 13(3) and section 13(4) refers to cases where a person has a substantial interest in a concern. These references occur where the “Prohibited use or application” and “Prohibited category of persons” have been described. The circumstances in which a person shall be deemed to have a substantial interest in a concern, have been laid down in Explanation 3 to section 13.
+
+
+Circumstances when a person is deemed to have substantial interest in a concern:
+-Where the concern is a company:If equity shares carrying 20% or more of voting power are beneficially owned by such person or partly by such person and partly by one or more of the other persons referred to in section 13(3) at any time during the P.Y.
+-In any other case: If such person is entitled, or such person and one or more of the person referred to in section 13(3) are entitled in the aggregate, to receive 20% or more profit of such concern at any time during the P.Y
+
+(D)	Exemption not to be denied to charitable trusts providing educational or medical facilities to specified persons [Section 13(6)]- A charitable or religious trust running an educational institution or a medical institution or a hospital shall not be denied the benefit of exemption under section 11 merely due to the reason that the benefit of educational or medical facilities have been provided to the specified persons referred to in section 13(3). However, the value of such facilities provided to such specified persons either free of cost or at a concessional rate would be deemed to be the income of the trust. Such income would not be eligible for exemption under section 11.
+(E)	Anonymous donations [Section 13(7)]-The exemption provisions contained in both regimes shall not be applicable in respect of any anonymous donation referred to in section 115BBC on which tax is payable in accordance with the provisions of that section. For example, section 11(1)(d) provides that any income in the form of voluntary contributions made with a specific direction that they shall form part of the corpus of the trust or institution shall not be included in the total income of such trust/institution for the relevant previous year.
+However, if a trust or institution established wholly for charitable purposes receives an anonymous donation with a specific direction that the donation shall form part of the corpus of the trust or institution, such anonymous donation would not be exempt by virtue of section 11(1)(d). It would be taxable at 30% as provided in section 115BBC.
+(F)	Exemption to be denied to a charitable trust having its main object as “advancement of any other object of general public utility” if its trading receipts exceed the specified threshold irrespective of withdrawal of approval or cancellation of registration or rescindment of notification [Section 13(8)]
+(a)	Under both regimes, income of any charitable trust or institution is exempt if such income is applied for charitable purposes in India and such institution is registered under second regime or approved under first regime.
+(b)	The definition of “charitable purpose” under section 2(15) provides that the advancement of any other object of general public utility shall not be a charitable purpose, if it involves the carrying on of any activity in the nature of trade, commerce or business, or any activity of rendering any service in relation to any trade, commerce or business, for a cess or fee or any other consideration, irrespective of the nature of use or application, or retention, of the income from such activity, unless,-
+(1)	such activity is undertaken in the course of actual carrying out of such advancement of any other object of general public utility; and
+(2)	the aggregate receipts from such activity or activities, during the previous year, does not exceed 20% of the total receipts, of the trust or institution undertaking such activity or activities, for the previous year .
+(c)	Thus, a charitable trust or institution pursuing “advancement of object of general public utility” may be a charitable trust in one year and not a charitable trust in another year depending on the percentage of receipts from commercial activities vis-à-vis its total receipts.
+(d)	Therefore, no exemption would be available to a trust or institution for the previous year in which the receipts from commercial activities exceed 20% of the total receipts of that year. However, this temporary excess in one year may not be treated as altering the very nature of the trust or institution so as to lead to cancellation of registration or withdrawal of approval or rescinding of notification issued in respect of trust or institution.
+(e)	Therefore, there is need to ensure that if the purpose of a trust or institution does not remain charitable in a previous year on account of the commercial receipts exceeding the specified percentage of total receipts, then, such trust or institution would not be entitled to get benefit of exemption in respect of its income for that previous year in which the commercial receipts exceed the specified percentage of total receipts. The denial of exemption would be compulsory by operation of law and would not be dependent on any approval being withdrawn or registration being cancelled or a notification being rescinded.
+(f)	Accordingly, section 13(8) ensures that such trust and institution does not get benefit of tax exemption under section 11 or 12 in the year in which its receipts from commercial activities exceed the specified percentage of total receipts, whether or not the registration or approval granted or notification issued is cancelled, withdrawn or rescinded in respect of such trust or institution.
+(G)	Non-submission of statement in prescribed form and non furnishing of return of income on or before the due date of filing return of income under section 139(1) [Section 13(9)]- In case the statement in Form 10 is not submitted and return of income is not filed on or before the due date of filing return of income under section 139(1), then, the benefit of accumulation would not be available and such income would be taxable at the applicable rate. Further, the benefit of accumulation would also not be available if return of income is not furnished on or before the due date of filing return of income specified in section 139(1).
+Note: Section 11(2) stipulates the conditions for accumulation, on fulfillment of which the income so accumulated or set apart would not be included in the total income of the previous year of the trust. The condition stipulated in clause (c) of Section 11(2) is that the statement in Form 10 has to be furnished at least 2 months prior to the due date of filing of return of income u/s 139(1). However, as per section 13(9), the income accumulated would not be excluded from total income if Form 10 is not submitted on or before the due date under section
+139(1). Section 13(9) permits exclusion of accumulated income from total income of the previous year, if Form 10 is filed on or before the due date under section 139(1). CBDT Circular No.6/2023 dated 24.5.2023 clarifies that the statement of accumulation in Form No. 10 is required to be furnished at least two months prior to the due date of furnishing return of income so that it may be taken into account while auditing the books of account. However, the accumulation/deemed application shall not be denied to a trust as long as the statement of accumulation/deemed application is furnished on or before the due date of furnishing the return as provided in section 139(1).
+
+
+Manner of computation of income of a  trust violating certain conditions [Sections 13(10)]:
+(i)	Consequences of failure to comply with stipulated conditions: With effect from A.Y.2023- 24, if a trust or an institution violates certain stipulated conditions, the income shall be chargeable to tax after allowing deduction for expenditure (other than capital expenditure) incurred in India for the objects of the trust/ institution.
+The following are the violations:
+-	It has receipts from trade, commerce etc. while advancing the object of general public utility, in excess of 20% of total receipt;
+-	It fails to maintain prescribed books of account;
+-	It fails to get its books of account audited and furnish audit report on or before the specified date;
+-	It fails to file return of income under section 139(4A) (or 139(4C), as the case may be, for the first regime trust) within the time stipulated under section 139(1) or 139(4).
+(ii)	Conditions to be fulfilled for claim of deduction of revenue expenditure: The deduction for revenue expenditure incurred is subject to fulfilment of the following conditions:
+(a)	such expenditure is not from the corpus standing to the credit of the trust or institution as on the end of the financial year immediately preceding the previous year relevant to the assessment year for which income is being computed;
+(b)	such expenditure is not from any loan or borrowing;
+(c)	there is no claim of depreciation on those assets, whose acquisition cost has been claimed as application of income in any previous year; and
+(d)	such expenditure is not in form of any contribution or donation to any person.
+(iii)	Disallowances: While determining the amount of expenditure allowable as deduction, the following points need to be considered:
+(a)	Capital expenditure is not allowed as a deduction.
+(b)	Disallowance under sections 40(a)(ia), on account of non-deduction of tax or non- payment of tax deducted at source on or before the due date of filing of return, would be attracted
+(c)	Disallowance of expenditure in respect of cash payment in excess of `. 10,000 under section 40A(3) and 40A(3A) would be attracted .
+(d)	no deduction in respect of any expenditure or allowance or set-off of any loss shall be allowed to the assessee under any other provision of this Act.
+
+
+
+
+Anonymous donation received By Charitable Trusts/Institutions to be subject to tax [Section 115BBC]:
+(i)	As per the provisions of the Income-tax Act, 1961, tax exemption under section 10(23C) and section 11 are available to certain entities, as briefed in the table below, on fulfillment of the conditions prescribed under the relevant sections –
+-Charitable or religious trusts/institutions, the applicable section 11.
+-Universities and other educational institutions, the applicable section 10(23C)(iiiad) and (vi).
+-Hospitals and other medical institutions, the applicable section 10(23C) (iiiae) and (via).
+-Notified funds or institutions established for charitable purposes, the applicable section 10(23C)(iv).
+-Notified trusts or institutions established wholly for public religious purposes or wholly for public religious and charitable purposes, the applicable section 10(23C)(v).
+
+(ii)	As per section 115BBC anonymous donations received by the above entities are taxed at 30%.
+(iii)	In order to provide relief to these trusts and institutions and to reduce their compliance burden, an exemption limit has been introduced, and only the anonymous donations in excess of this limit would be subject to tax@30% under section 115BBC.
+(iv)	The exemption limit is the higher of the following –
+(1)	5% of the total donations received by the assessee; or
+(2)	` 1 lakh.
+(v)	The total tax payable by such institutions would be –
+(1)	tax@30% on anonymous donations exceeding the exemption limit as calculated above; and
+(2)	tax on the balance income i.e., total income as reduced by the anonymous donations which have been subject to tax@30% under section 115BBC.
+(vi)	The following table illustrates the calculation of anonymous donations liable to tax @30% under section 115BBC –
+-Situation A: Total donations during the year is Rs 15,00,000 and Anonymous donations received during the year is Rs 4,00,000. Exemption [5% of total donations or Rs 1,00,000, whichever is higher] is Rs 1,00,000. Anonymous donations taxable@30% is Rs 3,00,000 and Donations subject to tax at normal rates is Rs 12,00,000.
+-Situation B: Total donations during the year is Rs 30,00,000 and Anonymous donations received during the year is Rs 7,00,000. Exemption [5% of total donations or Rs 1,00,000, whichever is higher] is Rs 1,50,000. Anonymous donations taxable@30% is Rs 5,50,000 and Donations subject to tax at normal rates is Rs 24,50,000.
+-Situation C: Total donations during the year is Rs 40,00,000 and Anonymous donations received during the year is Rs 10,00,000. Exemption [5% of total donations or Rs 1,00,000, whichever is higher] is Rs 2,00,000. Anonymous donations taxable@30% is Rs 8,00,000 and Donations subject to tax at normal rates is Rs 32,00,000.
+
+(vii)	For this purpose, “anonymous donation” means any voluntary contribution referred to in section 2(24)(iia), where the person receiving such contribution does not maintain a record of the identity indicating the name and address of the person making such contribution and such other particulars as may be prescribed. Section 115BBC does not apply to trust or institution wholly for religious purposes.
+
+(viii)	However, the above provision does not apply to a trust or institution created or established wholly for religious purposes.
+(ix)	Further, anonymous donations to trusts/institutions created or established wholly for religious and charitable purposes (i.e., partly charitable and partly religious institutions/trusts) would be taxed only if such anonymous donation is made with a specific direction that such donation is for any university or other educational institution or any hospital or other medical institution run by such trust or institution. Other anonymous donations received by such trusts/institutions are not taxable.
+(x)	Section 13(7) provides that the exemption provisions contained in section 11 or section 12 shall not be applicable in respect of any anonymous donation referred to in section 115BBC on which tax is payable in accordance with the provisions of that section.
+(xi)	For example, section 11(1)(d) provides that any income in the form of voluntary contributions made with a specific direction that they shall form part of the corpus of the trust or institution and deposited or invested in modes specified u/s 11(5), shall not be included in the total income of such trust/institution for the relevant previous year. However, if a trust or institution established wholly for charitable purposes receives an anonymous donation with a specific direction that the donation shall form part of the corpus of the trust or institution, such anonymous donation would not be exempt by virtue of section 11(1)(d). It would be taxable at 30% as provided in section 115BBC.
+(xii)	Similarly, section 10(23C) provides that any anonymous donation referred to in section 115BBC on which tax is payable in accordance with the provisions of the said section shall be included in the total income. Consequently, sections 10(23C) and 13 provide that any income by way of any anonymous donation which is taxable under the provisions of section 115BBC shall not be excluded from the total income of the trust or institution.
+
+Illustration:The following trusts claim that anonymous donations received by them during the financial year 2023-24 are not liable to tax under section 115BBC:
+(i)	A charitable trust referred to in section 11 which applied the entire amount of anonymous donations for purposes of the trust during the relevant financial year.
+(ii)	A trust established wholly for religious purposes which applied 85% of the amount of anonymous donations for the purposes of the objects of the trust during the relevant financial year.
+Examine the validity of the claim made by the trusts.
+Solution:(i)	Section 115BBC provides for levy of tax @ 30% on anonymous donation received by, inter alia, charitable trusts or institutions referred to in section 11 in the following manner:
+(a)	the amount of income-tax calculated @30% on the aggregate of anonymous donations received in excess of 5% of the total donations received by the assessee or one lakh rupees, whichever is higher; and
+(b)	the amount of income-tax with which the assessee would have been chargeable had his total income been reduced by the aggregate of the anonymous donations received in excess of 5% of the total donations received by the assessee or ` 1 lakh, as the case may be.
+Further, section 13(7) provides that the exemption provisions contained in sections 11 and 12 shall not be applicable in respect of any anonymous donation liable to tax under section 115BBC. As such, application of the anonymous donations received by the charitable trust for charitable purposes does not confer any exemption from tax. Therefore, the claim for non-taxability under section 115BBC of anonymous donations received by the charitable trust is not valid in law.
+However, a view may be taken that anonymous donation upto higher of 5% of total donations or ` 1 lakh, which is taxable at normal rates would be eligible for application of income and thereby, the benefit of exemption under section 11 would apply.
+(ii)	Section 115BBC(2) provides that the provisions contained in section 115BBC(1) relating to the taxability of anonymous donations are not applicable to any trust or institution created or established wholly for religious purposes. As such, the trust established wholly for religious purposes is not liable to be taxed in respect of the anonymous donations received by it. Therefore, the claim made by the trust is valid in law. The application or non-application of such anonymous donation for the purposes of trust during the relevant financial year is not germane to the issue of taxability under section 115BBC.
+
+
+
+
+Taxation of specified income of NPOs chargeable to tax by Charitable Trusts/institution [Section 115BBI]:
+(i)	Rate of tax on Specified Income
+As per section 115BBI specified income of a trust/institution availing exemption under the first regime [section 10(23C)(iv)/(v)/(vi)/(via))] or second regime [Section 11], would be chargeable at the rate of 30%.
+(ii)	No deduction for expenditure or allowance
+Further, no deduction in respect of any expenditure or allowance or set-off of any loss would be allowed under any provisions of the Income-tax Act, 1961 while computing specified income.
+(iii)	Meaning of “Specified Income”
+“Specified income” means:
+(a)	income accumulated or set apart in excess of 15% of the income, where such accumulation is not allowed under any specific provision of the Income-tax Act, 1961.
+(b)	deemed income on account of violation of certain conditions stipulated for accumulation of income under section 11(3) and corresponding provision in section 10(23C).
+(c)	deemed income on account of violation of deemed application provisions specified under 11(1B) read with Explanation 1 below to section 11(1).
+(d)	any income which is not exempt under section 10(23C) or section 11 on account of funds of the trust or institution invested otherwise in the forms and modes specified under section 11(5)
+(e)	any income which is applied for the benefit of any specified prohibited person referred to in section 13(3).
+(f)	any income derived from a property held under trust for a charitable purpose which tends to promote international welfare in which India is interested to the extent to which such income is not applied towards charitable purposes outside India.
+
+Illustration:SR Trust is a registered charitable trust under section 12AB. During the P.Y.2023-24, the trust had applied ` 5 lakh for the benefit of the trustee and ` 2 lakh for the benefit of Mr. Satish, who has donated ` 3 lakh to the trust upto 31.3.2024. Also, an amount of ` 2 lakh set apart in the P.Y.2021-22 by the trust for charitable purposes u/s 11(2) has been utilized in the P.Y.2023-24 for making donation to another registered charitable trust with similar object as SR Trust. What is the amount of “specified income” liable to tax@30% under section 115BBI for A.Y. 2024-25?: Section 115BBI provides for levy of tax @ 30% on certain “specified income” of a trust. Section 115BBI defines “specified income” to include income which has been applied for the benefit of prohibited persons u/s 13(3), which includes, inter alia, trustee of the trust and a person who has made substantial contribution to the trust (i.e., whose total contribution upto 31.3.2024 is more than Rs 50,000). Specified income also includes deemed income on account of violation of certain conditions stipulated in section 11(3) for accumulation of income. Donation to another charitable trust out of accumulated income is one such violation. Accordingly, “specified income” of SR Trust liable to tax@30% under section 115BBI for A.Y. 2024-25 would be Rs 10 lakh [Rs 5 lakh (amount applied for the benefit of the trustee) + Rs 3 lakh (amount applied for the benefit of Mr. Satish) + Rs 2 lakh (donation made to another trust out of accumulated income of an earlier previous year].
+
+
+
+Tax on accreted income of certain trusts and institutions [Chapter XII-EB]:
+(1)	Background for introduction of Exit Tax
+(i)	As per section 2(24), "income" includes any voluntary contribution received by a charitable trust or institution or a fund.
+(ii)	Sections 11 and 12 and section 10(23C)(iv)/(v)/(vi)/(via) provide exemption to trusts or institutions or funds or education institutions or hospitals in respect of income derived from property held under trust and voluntary contributions, subject to the conditions stipulated thereunder.
+(iii)	The exemption is subject to the condition that the income derived from property held under trust should be applied for charitable purposes; and where such income cannot be applied during the previous year, it has to be accumulated and invested in the modes prescribed and applied for such purposes in accordance with specified conditions.
+(iv)	If the accumulated income is not applied in accordance with the conditions provided in the said section within a specified time, then such income is deemed to be taxable income of the trust or the institution. Section 12AA or 12AB or section 10(23C) (iv)
+/(v)/ (vi)/ (via) provides for registration/approval of the trust or institution which entitles
+them to be able to get the benefit of sections 11 and 12 and section 10(23C) (iv) /(v)/ (vi)/ (via). It also provides the circumstances under which the registration can be cancelled. Section 13 of the Act provides for the circumstances under which exemption under section 11 or 12 or section 10(23C) (iv) /(v)/ (vi)/ (via) in respect of whole or part of income would not be available to a trust or institution or funds or education institutions or hospitals.
+(v)	A society or a company or a trust or an institution carrying on charitable activity may –
+(1)	voluntarily wind up its activities and dissolve; or
+(2)	merge with any other charitable or non-charitable institution; or
+(3)	convert into a non-charitable organization.
+There is, however, no specific provision in the income-tax law as to how the assets of such a charitable institution should be dealt with.
+(vi)	Under section 11, certain amount of income of prior period can be brought to tax on failure of certain conditions. However, there is no provision in the Income-tax Act, 1961, which ensure that the corpus and asset base of the trust accreted over a period of time, with promise of it being used for charitable purpose, continues to be utilised for charitable purposes and is not used for any other purpose.
+(vii)	Consequently, it is always possible for charitable institutions to transfer assets to a non-charitable institution.
+(viii)	In order to ensure that the benefit conferred over a period of time by way of exemption is not misused and to plug the gap in law that allows the charitable trusts having built up corpus/wealth through exemptions being converted into non-charitable organisation with no tax consequences, Chapter XII-EB imposes additional income- tax in the nature of an exit tax when the organization is converted into a non-charitable organization or gets merged with a non-charitable organization or does not transfer the assets to another charitable organisation.
+(ix)	Upto A.Y.2022-23, the provisions of the Chapter XII-EB comprising of sections 115TD, 115TE and 115TF were made applicable to only the trusts or institutions under the second regime. With effect from A.Y. 2023-24, the provisions of Chapter XII-EB also extended to trusts or institutions or fund approved under first regime.
+For this purpose, term “specified person” has been inserted to include within its ambit the trust or institution under first regime and provisions of section 115TD, 115TE and 115TF has been amended.
+
+(x)	For the purposes of section 115TD, 115TE and 115TF, “Specified person” means
+(a)	any fund or institution or trust or any university or other educational institution or any hospital or other medical institution referred to in section 10(23C)(iv)/ (v)/ (vi)/(via); or
+(b)	a trust or institution registered under section 12AA or section 12AB
+
+(2)Salient Features:
+-Section 115TD(1):Circumstances where levy of tax on accreted income is attracted: The accreted income of a specified person shall be taxable at the maximum marginal rate(@34.944%) on –
+(1)	conversion into a form not eligible for grant of registration under section 12AA or section 12AB or approval under section 10(23C)
+(iv) /(v)/ (vi)/ (via); or
+(2)	merger with an entity not having similar objects and registered under section 12AA or section 12AB or approved under section 10(23C) (iv) /(v)/ (vi)/ (via); or
+(3)	non-distribution of assets on dissolution to any other specified person within a period of 12 months from the end of the month in which the dissolution takes place.
+This levy of exit tax shall be in addition to income chargeable in the hands of the entity.
+
+-Section 115TD(3): Deemed conversion into non-eligible form - Circumstances:
+A specified person shall be deemed to have been converted into any form not eligible for registration under section 12AA or section 12AB or approval under section 10(23C) (iv) /(v)/ (vi)/ (via) in a previous year, if,—
+(i)  the registration granted to it under section 12AA or section 12AB or approval under section 10(23C) (iv) /(v)/ (vi)/ (via) has been cancelled; or
+(ii)	it has adopted or undertaken modification of its objects which do not conform to the conditions of registration and,—
+(a)	it has not applied for fresh registration under section 12AA or section 12AB or approval under section 10(23C)(iv) /(v)/ (vi)/ (via) in the said previous year; or
+(b)	it has filed application for fresh registration u/s 12AA or 12AB or approval under section 10(23C) (iv)/(v)/(vi)/(via) but the said application has been rejected; or
+(iii)	it has failed to make an application for –
+(a)	reapproval/re-registration; or
+(b)	renewal of approval/registration where the period of approval/registration is due to expire; or
+(c)	final approval/registration within the period specified under clause (i)/(ii)/(iii) of the first proviso to section 10(23C) or clause (i)/(ii)/(iii) of section 12A(1)(ac), as the case may be, which expires in the said previous year.
+
+-Section 115TD(2): Meaning of Accreted Income: Aggregate FMV of total assets of the specified person as on the specified date -(Less) Total liability of the specified person computed in accordance with the prescribed method of valuation [See Method of Valuation prescribed by CBDT given in pages 10.77 to 10.81]
+Notes –
+(1)	Accreted income attributable to any asset which is established to have been directly acquired by the specified person out of its agricultural income exempt under section 10(1) would be ignored. Liability, in relation to such asset, also has to be ignored.
+(2)	Accreted income attributable to any asset acquired by the specified person during the period beginning from the date of its creation or establishment and ending on the date from which the registration under section 12AA or section 12AB or approval under section 10(23C) (iv) /(v)/ (vi)/ (via) became effective (8Where the benefit under sections 11 and 12 or section 10(23C) (iv) /(v)/ (vi)/ (via) have been allowed to the trust or institution in respect of any previous year or years beginning prior to the date from which the registration or approval under section 12AA or 12AB or under section 10(23C) (iv) /(v)/ (vi)/ (via) became effective, then, the registration or approval shall be deemed to have become effective from the), if the specified person has not been allowed any benefit of sections 11 and 12 or approval under section 10(23C) (iv) /(v)/ (vi)/ (via) during the said period, would be ignored. Liability, in relation to such asset, also has to be ignored.
+(3)The asset and the liability of the charitable organisation which have been transferred on dissolution to another charitable trust or institution registered under section 12AA or section 12AB or a fund / institution / trust / university / educational institution / hospital / medical institution approved under section 10(23C) within specified time have to be ignored while calculating accreted income.
+Meaning of specified date [Explanation below section 115TD(7)]:
+(i)conversion of the trust or institution registered u/s 12AA/12AB or approved under section 10(23C) (iv) /(v)/ (vi)/ (via) into a form not eligible for registration u/s 12AA/12AB or under section 10(23C) (iv) /(v)/ (vi)/ (via) and Specified Date is The	date	of conversion.
+(ii)merger with an entity not having similar objects or not registered u/s 12AA/12AB or not approved u/s 10(23C)(iv)/(v)/(vi)/ (via) and Specified Date is The	date	of merger.
+(iii)non-distribution of assets on dissolution to any charitable institution registered u/s 12AA/12AB or approved u/s 10(23C) within a period twelve months from dissolution and specified date is the date of dissolution.
+
+-Date of conversion [Explanation below section 115TD(7)]:
+(i)Where the registration u/s 12AA/12AB or approval granted under section 10(23C) (iv) /(v)/ (vi)/ (via) has been cancelled, Specified Date is date of the order cancelling registration u/s 12AA/12AB or approval	under section 10(23C) (iv)/(v)/(vi)/ (via).
+(ii)Where it has adopted or undertaken modification of its objects which do not conform to the conditions of registration/ approval and has not made an application for fresh registration/approval or the application made has been rejected, specified date is the date of adoption or modification of any object.
+(iii)Where it has failed to make an application for(a)reapproval/re-registration, (b)renewal of approval/ registration where the period of approval/ registration is due to expire, or (c)final approval/registration within the period specified under clause (i)/(ii)/(iii) of the first proviso to section 10(23C) or clause (i)/(ii)/(iii) of section 12A(1)(ac), as the case may be, which expires in the said previous year, the specified date is The last date for making	an application	for registration or approval.
+
+-Section 115TD(4): Exit tax payable even if no income-tax is payable by the specified person: Even if no income-tax is payable by the specified person on its total income, tax on accreted income shall be payable by the trust or institution, like any other additional income-tax.
+
+-Section 115TD(5): Period within which tax on accreted income has to be paid to the credit of the Central Government: The principal officer or the trustee of the specified person, as the case may be, and the specified person shall also be liable to pay the tax on accreted income to the credit of the Central Government within fourteen days from,—
+(i)Where the registration or approval granted u/s 12AA/12AB or u/s 10(23C)(iv)/(v)/ (vi)/(via) has been cancelled, the relevant date is the date on which –
+(a)the period for filing appeal under section 253 against the order cancelling the registration expires and no appeal has been filed by the specified person; (or) (b) the order in any appeal, confirming the cancellation of the registration, is received by the specified person.
+(ii)Where the trust has modified its objects and has not applied for fresh registration	u/s 12AA/12AB or approval under section 10(23C)(iv)/(v)/ (vi)/ (via) and where the trust has failed to apply for – (a)re-registration/re- approval; or (b)renewal of registration/ approval, where the period of validity of registration or approval set to expire; or (c) final registration/ approval within the specified	time period	which expires   in   the relevant P.Y., the specified date is the end of the previous year.
+(iii)Where the trust has modified its objects and has filed application for fresh registration u/s 12AA/12AB or approval under section 10(23C)(iv)/ (v)/(vi)/(via) but the same was rejected, the specified date is the date on which (a)the period for filing appeal under section 253 against the order rejecting the application expires an no appeal has been filed by the specified person; (or)(b)the order in any appeal, confirming the cancellation of the application, is received by the specified person.
+(iv)Where trust has merged with an entity not having similar objects or not registered u/s 12AA/12AB or not approved under section 10(23C) (iv) /(v)/ (vi)/ (via) and specified date is the date of merger. 
+(v)Where the trust fails to transfer upon dissolution all its assets to another registered trust or institution or approved fund or institution within 12 months from the end of the month in which the dissolution takes place, the specified date is the date on which the period of 12 months expires.
+
+-Section 115TD(6): No credit available for tax paid on accreted income:The tax on accreted income shall be treated as final payment of tax in respect of such income for which no credit can be taken by the specified person or any other person.
+
+-Section 115TD(7): Non-availability of deduction under any other provision of the Act: No deduction is allowable under any other provision of the Act to the specified person or any other person in respect of the income which has been charged to tax or the tax thereon.
+
+-Section 115TE: Interest for non-payment of tax within prescribed time: In case of failure of payment of tax within the prescribed time, a simple interest@1% p.m. or part of it shall be applicable for the period of non- payment. Period of non-payment is Beginning from The date immediately after the last date on which such tax was payable and ending with The date on which the tax is actually paid.
+
+-Section 115TF: Circumstance when specified person is deemed to be assessee-in- default: The principal officer or the trustee and specified person shall be deemed to be assessee-in-default for non-payment of tax and all provisions related to the recovery of taxes shall apply. Further, in the case of transfer of assets upon dissolution of the trust or institution to a recipient, which is not a charitable organisation, the recipient of assets of the trust shall also be liable to be held as assessee- in-default in case of non-payment of tax and interest. However, in such a case, the recipient's liability shall be limited to the extent to which the assets received by him is capable of meeting the liability.
+
+Note - As per section 115TD(2), “Accreted Income” means the aggregate FMV of total assets of the specified person as on the specified date less total liability of such specified person computed in accordance with the prescribed method of valuation. Accordingly, Rule 17CB provide for method of valuation of assets and liabilities.
+
+Method of valuation for the purposes of section 115TD(2):
+Rule 1: The aggregate fair market value of the total assets of the specified person, shall be the aggregate of the fair market value of all the assets in the balance sheet as reduced by—
+(i)	any amount of income-tax paid as deduction or collection at source or as advance tax payment as reduced by the amount of income-tax claimed as refund under the Act, and
+(ii)	any amount shown as asset including the unamortised amount of deferred expenditure which does not represent the value of any asset.
+
+Rule 2:The fair market value of the asset shall be determined in the following manner, namely –
+(I)Shares and securities:
+(a)Quoted shares and securities:
+(i)	the average of the lowest and highest price of such shares and securities quoted on a recognised stock exchange as on the specified date; or
+(ii)	where on the specified date, there is no trading in such shares and securities on a recognised stock exchange, the average of the lowest and highest price of such shares and securities on a recognised stock exchange on a date immediately preceding the specified date when such shares and securities were traded on a recognised stock exchange
+(b)Unquoted	equity shares: [(A + B -L)*(PV)]/ PE, where, 
+A = book value of all the assets in the balance sheet (other than bullion, jewellery, precious stone, artistic work, shares,securities, and immovable property) as reduced by-
+(i)	any amount of income-tax paid as deduction or collection at source or as advance tax payment as reduced by the amount of income-tax claimed as refund under the Act; and
+(ii)	any amount shown in the balance sheet as asset including the unamortised amount of deferred expenditure which does not represent the value of any asset;
+B = fair market value of bullion, jewellery, precious stone, artistic work, shares, securities and immovable property as determined in the manner provided in this rule;
+L= book value of liabilities shown in the balance sheet, but not including the following amounts, namely: —
+(i)	representing contingent liabilities other than arrears of dividends payable in respect of the paid-up capital in respect of equity shares;
+(ii)	the amount set apart for payment of dividends on preference shares and equity shares;
+(iii)	reserves and surplus, by whatever name called, even if the resulting figure is negative, other than those set apart towards depreciation;
+(iv)	any amount representing provision for taxation, other than amount of income-tax paid as deduction or collection at source or as advance tax payment as reduced by the amount of income-tax claimed as refund under the Act, to the extent of the excess over the tax payable with reference to the book profits in accordance with the law applicable thereto;
+(v)	any amount representing provisions made for meeting liabilities, other than ascertained liabilities;
+(vi)	any amount of cumulative preference shares;
+PE = total amount of paid up equity share capital as shown in the balance-sheet;
+PV = the paid up value of such equity share.
+
+(c)Shares and securities other than equity shares: The fair market value of shares and securities other than equity shares shall be estimated to be price it would fetch if sold in the open market on the specified date on the basis of the valuation report from a merchant banker or an accountant in respect of such valuation.
+
+
+(II)Immovable property:
+The fair market value of an immovable property shall be higher of the following:
+(a)	price that the property shall ordinarily fetch if sold in the open market on the specified date on the basis of the valuation report from a registered valuer; and
+(b)	stamp duty value as on the specified date.
+
+
+(III)A business undertaking:
+The fair market value of a business undertaking, held by a specified person, shall be its net assets determined in accordance with the following formula:
+Fair market value = (A + B - L),
+The value of A, B and L would be determined in the same manner as discussed above in the case of unquoted equity shares.
+
+(IV)Any other asset:
+The fair market value of any asset, other than those referred to in (I), (II) and (III), shall be the price that the asset shall ordinarily fetch if sold in the open market on the specified date on the basis of valuation report from a registered valuer.
+However, in case no valuer is registered for valuation of such assets, the valuation report shall be obtained from a valuer who is a member of any one of the professional valuer bodies viz. Institution of Valuers, Institution of Surveyors (Valuation Branch), Institution of Government Approved Valuers, Practicing Valuers Association of India, the Indian Institution of Valuers, Centre for Valuation Studies, Research and Training, Royal institute of Chartered Surveyors; India Chapter, American Society of Appraisers, USA; Appraisal institute, USA or a valuer who is appointed by any public sector bank or public sector undertakings for valuation purposes.
+
+
+Rule 3:The total liability of the specified person shall be the book value of liabilities in the balance sheet on the specified date but not including the following amounts, namely -
+(i)	capital fund or accumulated funds or corpus, by whatever name called;
+(ii)	reserves or surpluses or excess of income over expenditure, by whatever name called;
+(iii)	any amount representing contingent liability;
+(iv)	any amount representing provisions made for meeting liabilities, other than ascertained liabilities;
+(v)	any amount representing provision for taxation, other than the amount of tax paid as deduction or collection at source or as advance tax payment as reduced by the amount of income-tax claimed as refund under the Act, to the extent of the excess over the income-tax payable with reference to the income in accordance with the law applicable thereto.
+
+Explanation:Meaning of certain terms:
+(i)Accountant: A fellow of the Institute of Chartered Accountants of India within the meaning of the Chartered Accountants Act, 1949 who is not appointed by the specified person as an auditor;
+(ii)Balance sheet: The Balance Sheet of such specified person (including the notes annexed thereto and forming part of the accounts) as drawn up on the specified date which has been audited by an accountant.
+(iii)Quoted share or security: A share or security quoted on any recognised stock exchange with regularity from time to time, where the quotations of such shares or securities are based on current transaction made in the ordinary course of business;
+(iv)Specified date:The date referred to in Explanation to section 115TD of the Act.Meaning of specified date [Explanation below section 115TD]:
+-Conversion into a form not eligible for registration u/s 12AA/12AB or approved u/s 10(23C)(vi)/(v)/(vi)/(via) and specified date is The date of conversion.
+Date of conversion
+(a)	date of order cancelling registration or approval
+(b)	date of adoption or modification of any object
+(c)	last date for making an application for renewal of registration/ approval or re-registration/re-approval where the period of validity set to expire or final registration/approval
+
+-merger with an entity not having similar objects or not registered u/s 12AA/12AB or not approved u/s 10(23C)(vi)/(v)/(vi)/(via) and specified date is the date of merger.
+-non-distribution of assets on dissolution to any charitable institution registered u/s 12AA/12AB or approved u/s 10(23C) within a period twelve months from dissolution and specified date is the date of dissolution.
+
+Stamp duty value:The value adopted or assessed or assessable by any authority of the Central Government or a State Government for the purpose of payment of stamp duty in respect of an immovable property.
+
+Unquoted share	and security:Share or security which is not a quoted share or security.
+
+
+
+
+TAXATION OF DISCRETIONARY TRUSTS [SECTION 164(1)]:
+Section 164 deals with taxation of trustees of discretionary trusts. This section applies in the case of a representative assessee referred to in section 160(1)(iii)/(iv) in a case where any income or part thereof is not specifically receivable on behalf of or for the benefit of any one person or where the individual shares of the persons on whose behalf or for whose benefit such income or such part thereof is receivable are indeterminate or unknown.
+The representative assessees referred to in clauses (iii) and (iv) of section 160(1) are the Court of Wards, the Administrator General, the Official Trustee or any receiver or manager including any person whatever his designation who in fact manages the property on behalf of another, appointed by or under any order of a Court and a trustee appointed under a trust declared by a duly executed instrument in writing whether testamentary or otherwise (including any Wakf Validating Act, 1913).
+Such a discretionary trust will be liable to tax at the maximum marginal rate of income-tax on their entire income.
+With a view to obviating hardship in genuine cases where the circumstances are such that tax evasion could not be considered to be main purpose of creating a trust, certain exceptions have been specified where the trust would not be taxed at the maximum marginal rate. The exceptions are as under:
+(1)	Where none of the beneficiaries has any other income chargeable to tax exceeding the maximum amount not chargeable to income-tax in the case of an AOP and none of the beneficiaries is a beneficiary under any other trust; or
+(2)	Where the relevant income or part of the relevant income is receivable under a trust declared by any person by a will and such trust is the only trust so declared under the will.
+(3)	the relevant income or part of relevant income is receivable under a trust created before 1.3.1970 by a non-testamentary instrument and the Assessing Officer is satisfied that the trust was so created bona fide exclusively for benefit of the dependent relatives of settlor or where the settlor is a HUF for the benefit of the members of such families in circumstances where such relatives or members are mainly dependent on the settlor for their support and maintenance.
+(4)	In cases where the relevant income is receivable by the trustee on behalf of provident fund, superannuation fund, gratuity fund, pension fund or any other fund created bona fide by a person carrying on a business or profession exclusively for the benefit of persons employed in such business or professions.
+In the above four cases the income of the trustees will not be taxed at the maximum marginal rate. The relevant income or part of relevant income will be taxable as if it were the total income of an AOP.
+Where any income in respect of which a trustee appointed under a trust declared by a duly executed instrument in writing whether testamentary or otherwise, is liable as a representative assessee consists of, or includes, profits and gains of business, the above concessional treatment i.e. assessing the income at the rate applicable to an AOP will apply only if such profits and gains are receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance and such trust is the only trust so declared by him.
+For the purposes of these provisions, a trust under which a discretionary power is given to the trustees to decide the allocation of the income every year or a right is given to the beneficiary to exercise the option to receive the income or not each year will all be regarded as discretionary trusts and assessed accordingly. This is made clear in Explanation 1 to section 164 which provides as under:
+(a)	Any income in respect of which the Court of Wards, the Administrator General, the Official Trustee, receiver, manager or trustee appointed under a trust declared by a duly executed instrument in writing (including Wakf deed) is liable as a representative assessee or any part thereof shall be regarded as not being specifically receivable on behalf or for the benefit of any person unless the person on whose behalf or for whose benefit such income or such part thereof is receivable during the previous year is expressly stated in the order of the Court or the instruments of trust or wakf deed, as the case may be, and is identifiable as such on the date of such order, instrument or deed.
+(b)	The individual shares of the person on whose behalf or for whose benefit such income or part thereof is receivable will be regarded as indeterminate or unknown unless the individual shares of such persons are expressly stated in the order of the court or the instrument of trust or wakf deed, as the case may be, and are ascertainable as such on the date of such order, instrument or deed.
+
+This Explanation seeks to prevent trustees and beneficiaries from manipulating the arrangements in such a manner that a discretionary trust is converted into a specific trust whenever it suits them tax- wise.
+
+(1)Income from property held under trust wholly for charitable or religious purposes, section 164(2): In case the relevant income, (in respect of which the shares of the beneficiaries are indeterminate or unknown), is derived from property held under trust wholly for charitable or religious purpose or which is of the nature referred to in section 2(24)(iia) [voluntary contributions received by a trust] or which is of the nature referred to in sub-section (4A) of section 11 [business income received by a trust], the tax shall be charged on so much of the income as is not exempt under section 11 or section 12 as if the income not so exempt were the relevant income of an association of persons.
+However, where the whole or any part of the relevant income is not exempt under section 11 or section 12 because any income thereof is for the benefit of prohibited persons or the rules with regard to investments in specified channels have not been followed, tax shall be charged on the relevant income or part of relevant income at the maximum marginal rate.
+
+(2)Income from property held under trust partly for charitable or religious purposes and partly for other purposes[Section 164(3)]:In case the relevant income is derived from property held under trust partly for charitable or religious purposes and partly for other purposes or which is of the nature referred to in section 2(24)(iia) (voluntary contributions received by a trust) or which is of the nature referred to in sub-section (4A) of section 11 (business income received by a trust) and the individual share of the beneficiaries in the income applicable to purposes other than charitable or religious purposes is not known, tax liability will be the aggregate of the following:
+(a)	the tax which would be chargeable on that part of the relevant income which is applicable to charitable or religious purposes (as reduced by the income, if any, which is exempt under section 11 as if such part (or such part so reduced) were the total income of the association of persons; and
+(b)	the tax on that part of the relevant income which is applicable to purposes other than charitable or religious purposes, and which is either not specifically receivable on behalf of or for the benefit of any one person or in respect of which shares of beneficiaries are indeterminate or unknown, at the maximum marginal rate.
+However, in the following cases, income will be charged to tax as if it were income of an association of persons:
+(a)	where none of the beneficiaries has any other income chargeable to tax exceeding the maximum amount not chargeable to income-tax in the case of an AOP and none of the beneficiaries is a beneficiary under any other trust; or
+(b)	where the relevant income is receivable under a trust created by will and such trust is the only trust so declared by him; and
+(c)	where the trust is a non-testamentary one created before March 1, 1970 for the exclusive benefit (to the extent it is not utilised for charitable or religious purposes) of relatives of the settler mainly dependent on the settler for their support or maintenance or where settler is a Hindu undivided family, for the exclusive benefit of its members so dependent upon it.
+Where the relevant income consists of or includes profits and gains of business, the preceding concessional method of taxation shall apply only if the income is receivable under a trust declared by any person by will exclusively for the benefit of any relative dependent on him for support and maintenance and such trust is the only trust so declared by him.
+
+Where the whole or any part of the relevant income is not exempt under section 11 or section 12 because any income thereof is for the benefit of prohibited persons or the rules with regard to investment in specified channels have not been followed, tax shall be charged on the relevant income or part of relevant income at the maximum marginal rate.
+
+(3)Taxation Of oral trust [Section 164A]:Oral Trust is a trust which is not declared by a duly executed instrument in writing. As per section 164A, any income which a trustee receives or is entitled to receive on behalf of or for the benefit of any person under an oral trust will be chargeable to income tax at the maximum marginal rate.
+However, such trust shall be deemed to be a trust declared by a duly executed instrument in writing if a statement in writing, signed by the trustee or trustees, setting out the purpose or purposes of the trust, particulars as to the trustee or trustees, the beneficiary or beneficiaries and the trust property, is forwarded to the Assessing Officer within three months from the date of declaration of the trust.
+
+(4)Case Where part of trust income is chargeable [Section 165]:In cases where only some portion of the trust’s income to which the beneficiary or beneficiaries is/are entitled is taxable and the other portion is not taxable, the taxable portion of the income received by him from the trust as a beneficiary shall be only such portion thereof as bears to the whole income of the trust. In other words, where a part only of the trust income is chargeable to tax under this Act, the beneficiaries’ share of the income should be taken to be that derived proportionately from the chargeable and non-chargeable portions of the trust income.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1441 @@
+
+1. Introduction
+
+1.1 The Finance Act, 2003 as passed by the Parliament, received the assent of the President on 14th May, 2003 and has been enacted as Act No. 32 of 2003. This circular explains the substance of the provisions of the Act relating to direct taxes.
+
+2. Changes made by the Finance Act, 2003
+
+2.1 The Finance Act, 2003 (hereinafter referred to as the ‘Act’) has amended sections 2, 6, 9, 10, 10A, 10B, 10C, 11, 12, 13A, 16, 30, 31, 33AB, 33AC, 36, 40, 43, 43B, 44AA, 44AB, 44AE, 44BB, 44BBB, 44D, 45, 47, 55, 57, 72A, 80G, 80HHC, 80-IA, 80-IB, 80L, 88, 88B, 90, 115A, 115AC, 115ACA, 115AD, 115C, 115-O, 115R, 115-S, 115T, 132, 132B, 133A, 139, 140A, 143, 155, 163, 184, 191, 193, 194, 194A, 194C, 194G, 194-I, 194J, 194K, 195, 196A, 196C, 196D, 197, 197A, 206, 206C, 230, 234A, 234B, 245N, 246A, 269T, 271E, 275 and 276CC of the Income-tax Act, 1961; inserted new sections 44DA, 80-IC, 80LA, 80QQB, 80RRB, 153A, 153B, 153C, 158BI, 234D and 285BA and new Schedules Thirteenth and Fourteenth in the Income-tax Act, 1961; substituted new sections for sections 80DD, 80DDB, 80U and 185 of the Income-tax Act, 1961; omitted section 80M of the Income-tax Act, 1961; amended section 17 of the Wealth-tax Act, 1957; amended section 16 of the Gift-tax Act, 1958; amended sections 3 and 4 of the Expenditure Tax Act, 1987.
+
+3. Provisions in brief
+
+3.1 The provisions of the Act in the sphere of direct taxes relate to the following matters :—
+
+  (i)  Prescribing the rates of income-tax on income liable to tax for the assessment year 2003-04; the rates at which the tax will be deductible at source in the financial year 2003-04 from interest (including interest on securities), winnings from lotteries or cross-word puzzles, winnings from horse races, insurance commission and other categories of income liable for tax deduction at source under the Income-tax Act, rates for computing ‘advance tax’, deduction of income-tax from ‘Salaries’ and charging of income-tax on current incomes in certain cases for the financial year 2003-04.
+
+ (ii)  Amendment of the Income-tax Act, 1961, Wealth-tax Act, 1957, Gift-tax Act, 1958 and Expenditure-tax Act, 1987 with a view to
+
+     -  rationalize the definition of income;
+
+     -  clarify the definition of not ordinarily resident;
+
+     -  clarify the definition of the term business connection;
+
+     -  exempt income by way of royalty received in pursuance of an agreement for providing services in connection with the security of India;
+
+     -  restrict tax benefits in respect of certain insurance policies;
+
+     -  withdraw exemption available on interest income of company on money borrowed from sources outside India for providing long-term finance;
+
+     -  exempt Asian Organisation of the Supreme Audit Institutions for a further period of four assessment years;
+
+     -  clarify the name of the Credit Guarantee Fund Trust for Small Industries;
+
+     -  provide incentive for construction of hotels and hospitals;
+
+     -  exempt income of Ex-servicemen corporations;
+
+     -  exempt capital gain on transfer of a unit of US-64;
+
+     -  exempt long-term capital gains on transfer of listed equity shares;
+
+     -  provide for reinvestment allowance for units in SEZ;
+
+     -  extend benefit of deduction under sections 10A and 10B to the business of cutting and polishing of precious and semi-precious stones;
+
+     -  provide for carry forward of business losses and unabsorbed depreciation to units in SEZs and 100% EOUs;
+
+     -  provide for deduction under sections 10A and 10B to the resulting entity in the case of amalgamation or demerger;
+
+     -  empower Assessing Officers to allow inter trust donations in certain cases;
+
+     -  exempt capital gains arising to political parties from income-tax;
+
+     -  enhance the amount of standard deduction for salaried taxpayers;
+
+     -  clarify that expenditure incurred on cost of repairs and current repairs shall not include capital expenditure;
+
+     -  provide tax incentive for coffee and rubber industry;
+
+     -  provide incentive for modernization and fleet expansion of shipping business;
+
+     -  clarify provision in respect of deduction for interest on borrowed capital;
+
+     -  provide fiscal incentive for provisioning in respect of bad and doubtful debts in case of scheduled and non-scheduled banks;
+
+     -  rationalize the provisions relating to deduction in respect of sum paid by way of contribution towards any Exchange Risk Administration Fund;
+
+     -  provide a deduction for expenditure incurred by entities established under any Central, State or Provincial Act;
+
+     -  rationalize provisions relating to disallowance of certain incomes paid to non-residents if tax has not been deducted at source;
+
+     -  clarify definitions of certain terms relevant to income from "Profits and gains of business or profession";
+
+     -  modify provisions relating to deduction in respect of certain liabilities;
+
+     -  clarify provisions relating to presumptive income of truck owners;
+
+     -  rationalize provisions of sections 44BB and 44BBB relating to presumptive taxation in case of non-residents;
+
+     -  insert a new section 44DA relating to special provision for computing income by way of royalties, etc. in case of non-residents;
+
+     -  provide for re-computation of capital gains in case of reduction in compensation received;
+
+     -  exempt demutualisation and corporatisation of stock exchanges from capital gains;
+
+     -  extend incentive for amalgamation available under section 72A to hotel and certain banks;
+
+     -  substitute section 80DD to provide for deduction in respect of maintenance including medical treatment of a dependant being a person with disability or a person with severe disability;
+
+     -  substitute section 80DDB to provide for deduction in respect of medical treatment, etc. of specified diseases;
+
+     -  amend section 80G to extend the date for utilisation of donations made for providing relief to the victims of the Gujarat Earthquake;
+
+     -  amend section 80HHC to provide for deduction in case of DTA sales to units in SEZs for a period of one year;
+
+     -  extend time limit for providing telecommunication services, etc. for the purpose of tax holiday under section 80-IA;
+
+     -  extend time limit for the purpose of tax holiday to any company carrying on scientific research and development under section 80-IB;
+
+     -  extend time limit for obtaining approval and removal of condition for completion of approved housing projects for the purpose of tax holiday under section 80-IB;
+
+     -  extend time limit for setting up and operating a cold chain facility for agricultural produce for claiming deduction under section 80-IB;
+
+     -  insert a new section 80-IC to provide for tax holiday in respect of certain undertakings in the States of Himachal Pradesh, Sikkim, Uttaranchal and North-Eastern States;
+
+     -  increase deduction in respect of interest on certain securities, dividends, etc.
+
+     -  insert a new section 80LA to provide for deduction in respect of certain incomes of Offshore Banking Units;
+
+     -  insert a new section 80QQB for allowing deduction upto rupees three lakhs in respect of royalty income, etc. of authors of certain books;
+
+     -  insert a new section 80RRB for allowing deduction from the income in the nature of royalty on patents;
+
+     -  substitute section 80U to provide for deduction in the case of a person with disability or a person with severe disability;
+
+     -  provide rebate under section 88 for tuition fees paid for the education of any two children;
+
+     -  increase the amount of rebate of income-tax in case of senior citizens;
+
+     -  extend the scope of DTAAs to include agreements for developing mutual trade and investment;
+
+     -  provide for levy of additional income-tax on distributed profits and exempt dividends from tax;
+
+     -  provide for levy of additional income-tax on income distri-buted by Mutual Funds and exempt income from units from tax;
+
+     -  amend section 132 to provide that stock-in trade shall not be seized during search;
+
+     -  modify provisions relating to survey under section 133A;
+
+     -  amend section 139 to facilitate electronic filing of returns;
+
+     -  discontinue the assessment of income on limited issues;
+
+     -  abolish the special procedure for assessment of search cases under Chapter XIV-B;
+
+     -  rationalize provisions relating to assessment of firms;
+
+     -  rationalize provisions relating to direct payment of tax by the assessee when tax has not been deducted at source;
+
+     -  rationalize provisions of sections 193, 194-I and 195 in respect of payments made to non-residents;
+
+     -  enhance threshold limit for the purpose of deduction of tax at source from dividends and income from units;
+
+     -  amend section 194A to exempt interest on compensation paid to accident victims under the Motor Vehicles Act from deduction of tax at source;
+
+     -  amend section 194J to exclude payments of fees for professional services for personal purpose from the purview of the section;
+
+     -  rationalize provisions relating to certificate for tax deduction at lower rate;
+
+     -  amend section 197A to provide for filing of self-declarations by senior citizens;
+
+     -  amend section 206 to provide for compulsory filing of TDS returns on magnetic media by corporate assessees;
+
+     -  rationalize provisions relating to tax collection at source;
+
+     -  amend section 230 relating to tax clearance certificates;
+
+     -  insert a new section 234D to provide for charging of interest on excess refund granted at the time of summary assessment;
+
+     -  clarify the definition of Advance Ruling;
+
+     -  amend section 279T relating to mode of repayment of loans and deposits;
+
+     -  amend section 275 relating to time limit for imposition of penalty;
+
+     -  insert a new section for filing of annual information return;
+
+     -  amend section 17 of the Wealth-tax Act and section 17 of the Gift-tax Act to omit period of not less than 30 days for furnishing returns;
+
+     -  abolish expenditure-tax.
+
+4. Rate Structure
+
+Rates of income-tax in respect of incomes liable to tax for the assessment year 2003-04
+
+4.1 In respect of incomes of all categories of tax payers (corporate as well as non-corporate) liable to tax for the assessment year 2003-04, the rates of income-tax have been specified in Part I of the First Schedule to the Act and are the same as those laid down in Part III of the First Schedule to the Finance Act, 2002, for the purposes of computation of "advance tax", deduction of tax at source from "Salaries" and charging of tax payable in certain cases during the financial year 2002-03. It has also been specified that in the case of individuals, Hindu undivided families, association of persons and body of individuals having total income exceeding Rs. 60,000, the tax so computed, after rebate under Chapter VIII-A, shall be enhanced by a surcharge of five per cent for purposes of the Union. In the case of every artificial juridical person, a firm, a local authority, a co-operative society and a company, the tax so computed shall be enhanced by a surcharge of five per cent.
+
+4.2 Rates for deduction of income-tax at source during the financial year 2003-04 from income other than "Salaries"
+
+4.2-1 The rates for deduction of income-tax at source during the financial year 2003-04 from incomes other than "Salaries" have been specified in Part II of the First Schedule to the Act. These rates apply to income by way of interest on securities, interest other than "interest on securities", insurance commission, winnings from lotteries or crossword puzzles, winnings from horse races and income of non-residents (including non-resident Indians).
+
+4.2-2 These rates are broadly the same as those specified in Part II of the First Schedule to the Finance Act, 2002, for the purposes of deduction of income-tax at source during the financial year 2002-03. However, in the case of a non-resident Indian, a person who is not resident in India and a foreign company, no tax would be required to be deducted at source from long-term capital gains arising on the transfer of units of the Unit Scheme, 1961 where the transfer takes place after 1st April, 2002 and on transfer of equity shares of a company listed in a recognized stock exchange which are acquired on or after 1st March, 2003 but before 1st March, 2004. The tax deducted at source in each case shall be increased by a surcharge for purposes of the Union as follows :
+
+  (i)  in the case of every individual, Hindu undivided family, association of persons and body of individuals, at the rate of ten per cent of such tax where the income or the aggregate of such incomes paid or likely to be paid exceeds Rs. 8,50,000;
+
+ (ii)  in the case of every co-operative society, firm, local authority and company, at the rate of two and one-half per cent of such tax; and
+
+(iii)  in the case of every artificial juridical person, at the rate of ten per cent of such tax.
+
+Rates for deduction of income-tax at source from "Salaries", computation of "advance tax" and charging of Income-tax in special cases during the financial year 2003-04
+
+4.3 The rates for deduction of income-tax at source from "Salaries" during the financial year 2003-04 and also for computation of "advance tax" payable during that year in the case of all categories of tax payers have been specified in Part III of the First Schedule to the Act. These rates are also applicable for charging income-tax during the financial year 2003-04 on current incomes in cases where accelerated assessments have to be made, e.g., provisional assessment of shipping profits arising in India to non-residents, assessment of persons leaving India for good during that financial year, assessment of persons who are likely to transfer property to avoid tax, or assessment of bodies formed for short duration, etc. The salient features of the rates specified in the said Part III are indicated in the following paragraphs :—
+
+4.3-1 Individuals, Hindu undivided families, etc. - Paragraph A of Part III of the First Schedule specifies the rates of income-tax in the case of individuals, Hindu undivided families, association of persons, etc.
+
+No change has been made in the rate structure. However, the tax payable would be enhanced by a surcharge for the purposes of the Union at the rate of ten per cent of the tax payable (after allowing rebate under Chapter VIII-A) in cases of persons having total income exceeding Rs. 8,50,000. No surcharge would be payable by persons having incomes of Rs. 8,50,000 or below. Marginal relief would be provided to ensure that the additional amount of income-tax payable, including surcharge, on the excess of income over Rs. 8,50,000 is limited to the amount by which the income is more than Rs. 8,50,000.
+
+The Table below gives the income slabs and the rates of income-tax. Column (a) specifies the rates given in Paragraph A of Part I of the First Schedule to the Act; and column (b) specifies the rates given in Paragraph A of Part III of the First Schedule to the Act.
+
+TABLE
+
+(a)
+(b)
+Income slab
+Rates as specified
+Income slab
+Rates as specified
+ 
+in Part I of First
+ 
+in Part III of
+ 
+Schedule to the
+ 
+First Schedule to
+ 
+Act (i.e., existing
+ 
+the Act (i.e.,
+ 
+rates)
+ 
+proposed rates)
+Upto Rs. 50,000
+Nil
+Upto Rs. 50,000
+Nil
+Rs. 50,001 to
+10%
+Rs. 50,001 to
+10%
+Rs. 60,000
+ 
+Rs. 60,000
+ 
+Rs. 60,001 to
+20% + Surcharge
+Rs. 60,001 to
+20%
+Rs. 1,50,000
+@5%
+Rs. 1,50,000
+ 
+Above
+30% + Surcharge
+Above
+30% + Surcharge
+Rs. 1,50,000
+@5%
+Rs. 1,50,000
+@ 10% in cases
+ 
+ 
+ 
+where total income
+ 
+ 
+ 
+exceeds Rs. 8.5
+ 
+ 
+ 
+lakhs
+4.3-2 Effect of levy of surcharge - The impact of levy of surcharge in case of individuals, HUFs, etc. at different income levels would be as under :—
+
+Total income
+Existing Tax
+New Tax
+Additional Tax
+Additional
+ 
+liability
+liability
+Liability
+Tax
+(Rs.)
+(Rs.)
+(Rs.)
+(Rs.)
+(%)
+50,000
+Nil
+Nil
+Nil
+Nil
+55,000
+500
+500
+Nil
+Nil
+60,000
+1,000
+1,000
+Nil
+Nil
+60,010
+1,010*
+1,002
+(-)8
+(-)0.79
+60,020
+1,020*
+1,004
+(-)16
+(-)1.57
+60,050
+1,050*
+1,010
+(-)40
+(-)3.81
+60,100
+1,071
+1,020
+(-)51
+(-)4.76
+60,200
+1,092
+1,040
+(-)52
+(-)4.76
+75,000
+4,200
+4,000
+(-)200
+(-)4.76
+1,50,000
+19,950
+19,000
+(-)950
+(-)4.76
+2,00,000
+35,700
+34,000
+(-)1,700
+(-)4.76
+3,00,000
+67,200
+64,000
+(-)3,200
+(-)4.76
+5,00,000
+1,30,200
+1,24,000
+(-)6,200
+(-)4.76
+7,50,000
+2,08,950
+1,99,000
+(-)9,950
+(-)4.76
+8,00,000
+2,24,700
+2,14,000
+(-)10,700
+(-)4.76
+8,50,000
+2,40,450
+2,29,000
+(-)11,450
+(-)4.76
+8,55,000
+2,42,025
+2,34,000#
+(-)8,025
+(-)3.31
+8,60,000
+2,43,600
+2,39,000#
+(-)4,600
+(-)1.88
+8,65,000
+2,45,175
+2,44,000#
+(-)1,175
+(-)0.47
+8,70,000
+2,46,750
+2,49,000#
+2,250
+0.91
+8,75,000
+2,48,325
+2,54,000#
+5,675
+2.28
+8,80,000
+2,49,900
+2,59,000#
+9,100
+3.64
+8,85,000
+2,51,475
+2,63,450
+11,975
+4.76
+8,90,000
+2,53,050
+2,65,100
+12,050
+4.76
+10,00,000
+2,87,700
+3,01,400
+13,700
+4.76
+25,00,000
+7,60,200
+7,96,400
+36,200
+4.76
+1,00,00,000
+31,22,700
+32,71,400
+1,48,700
+4.76
+
+
+*Marginal relief would be provided to ensure that the additional income-tax payable, including surcharge, on the excess of income over Rs. 60,000 is limited to the amount by which the income is more than Rs. 60,000.
+
+#Marginal relief would be provided to ensure that the additional income-tax payable, including surcharge, on the excess of income over Rs. 8,50,000 is limited to the amount by which the income is more than Rs. 8,50,000.
+
+4.3-3 Co-operative societies - In the case of co-operative societies, the rates of income-tax have been specified in Paragraph B of Part III of the First Schedule to the Act. These rates are the same as those specified in the corresponding Paragraph of Part I of the First Schedule of the Act. The tax payable would be enhanced by a surcharge for the purposes of the Union at the rate of two and one-half per cent of the tax payable.
+
+4.3-4 Firms - In the case of firms, the rate of income-tax has been specified in Paragraph C of Part III of the First Schedule to the Act. This rate remains at 35 per cent. The tax payable by firms would be enhanced by a surcharge for the purposes of the Union at the rate of two and one-half per cent of the tax payable.
+
+4.3-5 Local authorities - In the case of local authorities, the rate of income-tax has been specified in Paragraph D of Part III of the First Schedule to the Act. This rate is the same as that specified in the corresponding Paragraph of Part I of the First Schedule to the Act. The tax payable would be enhanced by a surcharge for the purposes of the Union at the rate of two and one-half per cent of the tax payable.
+
+4.3-6 Companies - In the case of companies, the rate of income-tax has been specified in Paragraph E of Part III of the First Schedule to the Act. There is no change in the existing rates of thirty-five per cent for domestic companies and forty per cent for foreign companies. The tax payable by all companies would be enhanced by a surcharge at the rate of two and one-half per cent of the tax payable.
+
+            [ Section 2 and First Schedule]
+
+5. Rationalisation of the definition of income
+
+5.1 Under the existing provisions contained in sub-clause (xii) of clause (24) of section 2, sums referred to in clause (vii) of section 28 are included in the definition of income.
+
+5.2 The Act has amended the said sub-clause so as to give reference to clause (va) of section 28. The proposed amendment is consequential to the amendment of sections 2 and 28 of the Income-tax Act by the Finance Act, 2002.
+
+5.3 This amendment will take effect retrospectively from 1st April, 2003 and will, accordingly, apply in relation to the assessment year 2003-04 and subsequent years.
+
+            [ Section 3(a)]
+
+6. Change in the definition of ‘not ordinarily resident’
+
+6.1 Under the existing provision contained in sub-section (6) of section 6, a person is said to be "not ordinarily resident" in India in any previous year if such person is an individual who has not been resident in India in nine out of the ten previous years preceding that year, or has not during the seven previous years preceding that year been in India for a period of, or periods amounting in all to, seven hundred and thirty days or more; or is a Hindu undivided family whose manager has not been resident in India in nine out of the ten previous years preceding that year, or has not during the seven previous years preceding that year been in India for a period of, or periods amounting in all to, seven hundred and thirty days or more. This definition has been subject to differing legal interpretations.
+
+6.2 In order to remove any doubts in this regard, the Act has substituted the existing definition with a new one to provide that a person would be "not ordinarily resident" in India in any previous year if such person is an individual who has been non-resident in India in nine out of the ten previous years preceding that year, or has during the seven previous years preceding that year been in India for a period of, or periods amounting in all to, seven hundred and twenty-nine days or less; or is a Hindu undivided family whose manager has been non-resident in India in nine out of the ten previous years preceding that year, or has during the seven previous years preceding that year been in India for a period of, or periods amounting in all to, seven hundred and twenty-nine days or less.
+
+6.3 The amendment is clarificatory in nature and will take effect from 1st April, 2004.
+
+            [ Section 4]
+
+7. Definition of the term ‘business connection’
+
+7.1 Under the existing provisions contained in sub-section (1) of section 9, all income accruing or arising, whether directly or indirectly, through or from any business connection in India, or through or from any property in India, or through or from any asset or source of income in India, or through the transfer of a capital asset situated in India, is deemed to accrue or arise in India. The term ‘business connection’ has also been referred to in section 163 in relation to an agent. This term has, however, not been defined in the Income-tax Act.
+
+7.2 In order to remove doubts regarding the expression ‘business connection’, and to align the provisions of the Act with those of the DTAAs, the Finance Act, 2003 has inserted two new Explanations to clause (i) of the said sub-section, clarifying that the expression ‘business connection’ will include a person acting on behalf of the non-resident, who :—
+
+  (i)  has and habitually or regularly exercises in India an authority to conclude contracts on behalf of the non-resident, unless his activities are limited to the purchase of goods or merchandise for the non-resident; or
+
+ (ii)  has no such authority, but habitually maintains in India a stock of goods or merchandise from which he regularly delivers goods or merchandise on behalf of the non-resident; or
+
+(iii)  habitually secures orders in India, mainly or wholly for the non-resident or for that non-resident and other non-residents controlling, controlled by, or subject to the same common control, as that non-resident.
+
+7.3 The "business connection", however, will not include cases where the business activity is carried out through a broker, general commission agent or any other agent having an independent status, if such broker, general commission agent or any other agent having an independent status is acting in the ordinary course of his business.
+
+7.4 It has been further clarified that where a broker, general commission agent or any other agent works mainly or wholly on behalf of the non-resident or on behalf of such non-resident and other non-residents which are controlled by the principal non-resident or have a controlling interest in the principal non-resident or are subject to the same common control as the principal non-resident, he shall not be deemed to be a broker, general commission agent or an agent of an independent status.
+
+7.5 It has been further explained that where a business is carried on in India through a person referred to in clauses (a), (b) and (c ) of Explanation 2, only so much of income as is attributable to the operations carried out in India, shall be deemed to accrue or arise in India.
+
+7.6 These amendments will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 5 and 68]
+
+8. Exemption of income by way of royalty received in pursuance of an agreement for providing services in connection with the security of India
+
+8.1 Under the existing provisions contained in clause (6C), income arising to a foreign company, notified by the Central Government in the Official Gazette, by way of fees for technical services received in pursuance of an agreement entered into with the Government for providing services in or outside India in projects connected with security of India, is not included in computing its total income. Payments in the nature or royalty are, however, not covered by this provision.
+
+8.2 The Finance Act, 2003 has amended clause (6C) in order to extend the exemption to the income arising to a foreign company, notified by the Central Government in the Official Gazette, by way of royalty received in pursuance of an agreement for providing services in connection with the security of India.
+
+8.3 This amendment will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 6(a)]
+
+9. Exemption of amount received under VRS Compensation allowable even if it is receivable or received in instalments
+
+9.1 Under the existing provision contained in clause (10C) of section 10, any amount received by an employee of a public sector company or any other company or an authority established under a Central, State or Provincial Act or a local authority or a co-operative society, or a University, or Indian Institute of Technology, or State or Central Government, or an institution having national/state level importance, or a institute of management, notified by the Central Government, etc., at the time of voluntary retirement or termination of his service in accordance with any scheme or schemes of voluntary retirement, or in the case of a public sector company, a scheme of voluntary separation, to the extent such amount does not exceed five lakh rupees, is not included in computing the total income of such employee. However, some of the employees availing VRS were facing problems in case the amount was given to them in instalments, over a number of years.
+
+9.2 To solve this problem, clause (10C) of section 10 has been amended by the Finance Act, 2003 to provide that any amount not exceeding five lakh rupees received or receivable (i.e., even if received in instalments) by an employee on his voluntary retirement or termination of his service will not be included in computing the total income of such employee. Other conditions, as well as the overall limit shall, however, remain unchanged.
+
+9.3 This amendment will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 6(b)]
+
+10. Restriction of tax benefits in respect of certain insurance policies having premium of more than twenty per cent of the actual capital sum assured
+
+10.1 Under the existing provisions contained in clause (10D) of section 10, any sum received under a life insurance policy including the sum allocated by way of bonus on such policy, (other than any sum received under a policy for the medical treatment, training and rehabilitation of a handicapped dependent under section 80DDA or any sum received under a keyman insurance policy), is tax-exempt.
+
+10.2 Under the existing provisions of section 88, a deduction from the income-tax payable is allowed to an individual or a Hindu undivided family (HUF), in respect of any sums paid or deposited in PPF, GPF, NSC, insurance premia, etc. The deduction is allowed at specified percentage of such sums.
+
+10.3 The insurance policies with high premium and minimum risk covers are similar to deposits or bonds. With a view to ensure that such insurance policies are treated at par with other investment schemes, amendments have been made in section 88 and clause (10D) of section 10. The existing clause (10D) of section 10 has been substituted so as to provide that the exemption available under the said clause shall not be allowed on any sum received under an insurance policy issued on or after the 1st day of April, 2003, in respect of which the premium payable in any of the years during the term of the policy, exceeds twenty per cent of the actual capital sum assured. In view of this, the income accruing on such policies (not including the premium paid by the assessee) shall become taxable. However, any sum received under such policy on the death of a person shall continue to remain exempt. The new provision also provides that the amounts received under sub-section (3) of section 80DD, shall not be exempt under this clause.
+
+10.4 For the same reasons, a new sub-section (2A) has been inserted in section 88 which provides that the deduction in respect of the sums paid or deposited as premium under an insurance policy shall be available only on so much of any premium or other payment made on an insurance policy other than a contract for a deferred annuity as is not in excess of twenty per cent of the actual sum assured.
+
+10.5 It has also been clarified in both the sections that the value of any premiums agreed to be returned or any benefit by way of bonus or otherwise, over and above the sum actually assured, which may be received under the policy by any person, shall not be taken into account for the purpose of calculating the actual capital sum assured.
+
+10.6 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 6(c) and 47(b)]
+
+11. Removal of exemption available on the interest income of company on moneys borrowed from sources outside India for providing long term finance
+
+11.1 Under the existing provisions in contained in clause (15)( iv)(g) of section 10, interest payable by a public company formed and registered in India with the main object of carrying on the business of providing long term finance for construction or purchase of houses in India for residential purposes, being a company eligible for deduction under clause (viii) of sub-section (1) of section 36 on any moneys borrowed by it in foreign currency from sources outside India under a loan agreement approved by the Central Government is not included in the total income. Exemptions of similar nature earlier available to Government or local authority, IDBI, NHB, SIDBI, ICICI, etc. w.e.f. 1-6-2001.
+
+11.2 The Finance Act, 2003 has amended clause (15)( iv)(g) of section 10 so as to provide that this exemption, which is still available to housing finance companies, will not be available to them, where the loan agreement is approved by the Central Government after 31st May, 2003.
+
+11.3 This amendment will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 6(d)]
+
+12.1 Tax exemption to Asian Organisation of the Supreme Audit Institutions
+
+12. Under the existing provision contained in clause (23BBD) of section 10, any income of the Secretariat of the Asian Organisation of the Supreme Audit Institutions registered as "ASOSAI-SECRETARIAT" under the Societies Registration Act, 1860, is not to be included in computing its total income, for three previous years relevant to the assessment years beginning on the 1st day of April, 2001 and ending on the 31st day of March, 2004.
+
+12.2 The organization has decided to keep its Secretariat in India upto December, 2006. Clause (23BBD) of section 10 has been accordingly amended by the Finance Act, 2003 so as to extend the exemption for a further period of four assessment years beginning on the 1st day of April, 2004 and ending on the 31st day of March, 2008.
+
+12.3 This amendment will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 6(e)]
+
+13. Clarification regarding the Credit Guarantee Fund Trust for Small Industries
+
+13.1 Under the existing provisions contained in clause (23EB) of section 10, the income of the Credit Guarantee Fund Trust for Small Scale Industries is exempt from tax for a period of five years relevant to the assessment years beginning on the 1st day of April, 2002 and ending on the 31st March, 2007.
+
+13.2 The Act has amended the said clause so as to clarify the name of the trust as being the "Credit Guarantee Fund Trust for Small Industries".
+
+13.3 This amendment will take effect retrospectively from 1st April, 2002 and will, accordingly, apply in relation to the assessment year 2002-03 and four subsequent years.
+
+            [ Section 6(h)]
+
+14. Incentive for construction of hotels and hospitals
+
+14.1 Under the existing provisions contained in clause (23G) of section 10, any income by way of dividend, interest or long term capital gains of an infrastructure capital fund or infrastructure capital company or a co-operative bank from investments made by way of shares or long term finance in any infrastructure undertaking, power generation project, telecom services, housing project etc. is not included in computing its total income.
+
+14.2 With a view to encourage investment in the hospitality and health sector, projects for construction of hotels and hospitals have also been included in the list of eligible business under this clause. To be eligible for this purpose, a hotel project should be for constructing a hotel of not less than three-star category and a hospital project should be for constructing a hospital with at least one hundred beds for patients.
+
+14.3 Definitions of an infrastructure capital company or an infrastructure capital fund as provided in clauses (a) & (b) of Explanation 1 have also been amended so as to align them with the provisions of the main clause. Infrastructure capital company or an infrastructure capital fund has been defined as such company or fund as has made investments by way of acquiring shares or providing long term finance to an enterprise wholly engaged in the business referred to in this clause, i.e., business referred to in sub-section (4) of section 80-IA, a housing project, etc.
+
+14.4 This amendment will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 6(j)(ii ) and (iii) ]
+
+15. Exemption of the income of Ex-Serviceman Corporations
+
+15.1 Under the existing provisions the income of the Ex-servicemen Corporations are subject to tax.
+
+15.2 With a view to encourage welfare activities for ex-servicemen, income of the Corporations, established by a Central Act or any State Act, for the welfare and economic upliftment of the ex-servicemen, has been exempted from payment of income-tax by the Finance Act, 2003.
+
+15.3 This amendment will take effect from 1st April, 2004, will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 6(k)]
+
+16. Exemption of capital gain on transfer of a unit of Unit Scheme, 1964 (US 64)
+
+16.1 The Finance Act, 2003 has introduced a new clause (33) in section 10 so as to provide that any income arising from the transfer of a capital asset being a unit of Unit Scheme, 1964 referred to in Schedule 1 of Unit Trust of India (Transfer of Undertaking & Repeal) Act, 2002, where the transfer of such assets takes place on or after the 1st April, 2002, shall be exempt from tax.
+
+16.2 This amendment will take effect retrospectively from 1st April, 2003 and will, accordingly, apply in relation to the assessment year 2003-04 and subsequent years.
+
+            [ Section 6(l)]
+
+17. Exemption of long term capital gains on transfer of listed equity shares
+
+17.1 Section 10 of the Income-tax Act, 1961, relates to incomes, which do not form part of total income.
+
+17.2 In order to give incentive for investment in equity shares, a new clause (36) has been inserted in section 10 providing that any income arising from transfer of a long-term capital asset, being eligible equity share in a company listed on any recognized stock exchange in India and acquired on or after 1st March, 2003 but before 1st March, 2004, and held for a period of twelve months or more shall be exempt from tax. The transaction of sale of such share should have been entered into on a recognized stock exchange in India.
+
+17.3 It has also been stated in the Explanation that ‘eligible equity share’ for the purposes of this clause shall mean (i) any equity share in a company which is a constituent of BSE-500 Index of the Stock Exchange, Mumbai as on the 1st day of March, 2003; (ii) any equity share of a company allotted through a public issue on or after the 1st day of March, 2003 and listed on a recognised stock exchange in India before the 1st day of March, 2004.
+
+17.4 It is further clarified that the term "public issue" used in clause (ii) of the Explanation to section 10(36) shall include the offer of equity shares in a company to the public through a prospectus, whether by the company or by the existing shareholders of the company.
+
+17.5 This amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+            [ Section 6(m)]
+
+18. Reinvestment allowance for units in Special Economic Zones
+
+18.1 Under the existing provision contained in section 10A, a deduction is allowed on the export profits of an undertaking set up in a free trade zone, Software Technology Park, Electronic Hardware Technology Park or a special economic zone, which is engaged in the manufacture or production of articles or things or computer software. The deduction is available to an undertaking for a period of ten consecutive assessment years. No deduction is allowable to any undertaking beyond the assessment year 2009-10. However, for a unit set up in Special Economic Zone, the deduction is equivalent to one hundred per cent of export profits for five years and thereafter, fifty per cent of profits for next two years and is available even beyond the assessment year 2009-10.
+
+18.2 With a view to promoting the development of Special Economic Zones, the existing sub-section (1A) of section 10A has been substituted so as to provide for a further deduction for three consecutive years beyond the existing period eligible for deduction, which shall be equal to 50% of the profits, as are credited to a reserve account to be utilized for the purposes of the business. A new sub-section (1B) has also been inserted to provide that the reserve account is to be utilized for the acquiring a new machinery or plant which is put to use before the expiry of a period of three years. It has also been provided that until the acquisition of a new machinery or plant, the said reserve may be utilized for the purposes of the business of the undertaking other than for distribution by way of dividends or profits or for remittance outside India as profits or for the creation of any asset outside India.
+
+18.3 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+18.4 Further, the reference of sub-section (1A) in sub-section (4) and the reference of "this section" instead of "sub-section (1) in sub-section (5) of section 10A" have also been inserted. The amendments are consequential in nature and will take effect retrospectively from 1st April, 2003 and will, accordingly, apply in relation to the assessment year 2003-04 and subsequent years.
+
+            [ Section 7(a), 7(b ) and 7(c) ]
+
+19. Extending the benefit of deduction under sections 10A and 10B to the business of cutting and polishing of precious and semi-precious stones
+
+19.1 With the view to give fiscal support to the export of precious and semi-precious stones, the benefit of deduction under sections 10A and 10B have been extended to the business of cutting and polishing of precious and semi-precious stones. Accordingly, a new Explanation 4 has been inserted in both the sections so as to provide that for purposes of this section, the expression, "manufacture or produce" shall include the cutting and polishing of precious and semi-precious stones.
+
+19.2 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 7(h) and 8(e)]
+
+20. Providing for carry forward of business losses and unabsorbed depreciation to units in Special Economic Zones and 100% Export Oriented Units
+
+20.1 Under the existing provisions of sections 10A and 10B, the undertakings operating in a Special Economic Zone (under section 10A) and 100% Export Oriented Units (EOU’s) (under section 10B) are not permitted to carry forward their business losses and unabsorbed depreciation.
+
+20.2 With a view to rationalize the existing tax incentives in respect of such units sub-section (6) in sections 10A and 10B has been amended to do away with the restrictions on the carry forward of business losses and unabsorbed depreciation.
+
+20.3 The amendments have been brought into effect retrospectively from 1-4-2001 and have been made applicable to business losses or unabsorbed depreciation arising in the assessment year 2001-02 and subsequent years.
+
+            [ Sections 7(d) and 8(a)]
+
+21. Allowing deduction under sections 10A and 10B to the resulting entity in the case of amalgamation or demerger
+
+21.1 The deduction under sections 10A and 10B, are not allowed to the assessee where the ownership or the beneficial interest in the undertaking is transferred by any means, due to the provisions of sub-section (9) of section 10A and sub-section (9) of section 10B. However, this condition is not applicable in certain cases, such as where a firm or sole proprietary concern is succeeded by a company as a result of the reorganisation of the business, or where as a result of change in ownership, the resultant entity is a public limited company or a venture capital company.
+
+21.2 With a view to give boost to the export-led growth, and to eliminate the hurdles in the Mergers and Acquisitions (M&A) and other modes of business restructuring, a new sub-section (7A) in section 10A and a new sub-section (7A) in section 10B have been inserted to provide that where an undertaking of an Indian company is transferred to another company under a scheme of amalgamation or demerger, the deduction shall be allowable in the hands of the amalgamated or the resulting company. However no deduction shall be admissible under this section to the amalgamating company or the demerged company for the previous year in which amalgamation or demerger takes place. As a consequence, sub-sections (9), (9A) and the Explanation below thereto in sections 10A and 10B, become redundant and have been omitted.
+
+21.3 The amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 7(e), 7(f ), 7(g), 8(b), 8(c ) and 8(d) ]
+
+22. Empowering Assessing Officers to allow inter-trust donations where a trust or institution is being dissolved
+
+22.1 Under the existing provision contained in the proviso to sub-section (3A) of section 11, where due to circumstances beyond the control of a trust or institution in receipt of the income, the accumulated income could not be applied for the purpose for which it was accumulated or set apart, transfer of any such accumulated income to other charitable trusts/institutions is not allowed as application of income towards charitable purposes. This provision had created genuine problems for those trusts and institutions which were being wound-up.
+
+22.2 In order to remove this hardship, the Finance Act, 2003 has amended the proviso to sub-section (3A) of section 11 so as to empower the Assessing Officer to allow donation to another trust or institution as application of accumulated income for charitable purposes in the year in which the trust or institution claiming exemption is dissolved.
+
+22.3 This amendment will take effect from 1st April, 2003, and will, accordingly, apply in relation to the assessment year 2003-04 and subsequent years.
+
+            [ Section 10]
+
+23. Income of political parties
+
+23.1 Section 13A of the Income-tax Act provides for exemption of the following class of income derived by a political party:—
+
+  (i)  Income from house property
+
+ (ii)  Income from other sources
+
+(iii)  Donations received by a political party
+
+Therefore, income of the following nature alone is subjected to tax in the hands of a political party:—
+
+  (i)  Income derived from business activities
+
+ (ii)  Capital gains
+
+23.2 The Act has amended the said section to provide that capital gains arising to political parties shall also be exempt from income-tax.
+
+23.3 This amendment will take effect retrospectively from 1st April, 1979.
+
+            [ Section 12]
+
+24. Increasing the amount of standard deduction for salaried tax payers
+
+24.1 Under the provisions of section 16, deduction of a specified amount is available to an assessee having income from salary. As per the existing provisions, the amount of deduction in case of a salaried taxpayer having gross salary income upto one lakh fifty thousand rupees, is equal to thirty-three and one-third per cent of the salary of thirty thousand rupees, whichever is less. In case of an assessee having income from salary which is more than one lakh fifty thousand rupees but less than three lakh rupees, deduction of a sum of twenty-five thousand rupees is allowed. In the case of an assessee having income from salary which is more than three lakh rupees but less than five lakh rupees, a deduction of a sum of twenty thousand rupees is allowed. No deduction is allowed in the case of an assessee having gross income from salary which is more than five lakh rupees.
+
+24.2 With a view to provide tax relief to salaried taxpayers, the amount of deduction under this section has been increased. Accordingly, an assessee, whose income from salary before allowing a deduction under this clause, does not exceed five lakh rupees, shall be allowed a deduction of a sum equal to forty per cent of the salary or thirty thousand rupees, whichever is less. An assessee whose income from salary, before allowing a deduction under this clause, exceeds five lakh rupees, shall be allowed a deduction of a sum of twenty thousand rupees.
+
+24.3 The amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 13]
+
+25. Clarificatory amendments in respect of deduction of cost of repairs and current repairs
+
+25.1 Under the existing provisions contained in sub-clause (i) of clause (a) of section 30, cost of repairs to the premises occupied by the assessee as a tenant is allowed as a deduction in computing the business income. As per sub-clause (ii) of clause (a) to the said section, the amount paid on account of current repairs to the premises is allowed as deduction if the premises are occupied by the assessee as owner and not as a tenant.
+
+25.2 Clause (i ) of section 31 allows for a deduction of amount paid on account of current repairs of machinery, plant or furniture.
+
+25.3 These provisions have been a subject matter of unending litigation. The Act has amended sections 30 and 31 by way of insertion of an Explanation to clarify that expenditure incurred on cost of repairs and current repairs shall not include any expenditure in the nature of capital expenditure.
+
+25.4 The amendments will take effect from the 1st April, 2004 and will, accordingly apply in relation to assessment year 2004-05 and subsequent years.
+
+            [ Sections 14 and 15]
+
+26. Tax incentive for coffee and rubber industry
+
+26.1 Under the existing provisions of sub-section (1) of section 33AB, an assessee carrying on the business of growing and manufacturing tea in India is allowed a deduction in respect of the amount deposited by him in a special account with the National Bank for Agriculture and Rural Development or in the Tea Deposit Account within a period of six months from the end of the previous year or before furnishing the return of income, whichever is earlier. The special account with the NABARD as also the Tea Deposit Account are to be maintained or opened in accordance with and for the purposes specified in Scheme(s) approved in this behalf by the Tea Board. The deduction is limited to 40% of the profits of such business as computed before making deduction under the provisions.
+
+26.2 The Act has amended the said section so as to extend the benefit available to the coffee and rubber industry also. Hence, if an assessee carrying on the business of growing and manufacturing coffee or rubber in India deposits any amount with the NABARD in a special account maintained by such assessee with that Bank in accordance with the scheme approved in this behalf by the Coffee Board or the Rubber Board, as the case may be, or if an assessee opens an account (to be known as Deposit Account) in accordance with a scheme framed by the Coffee Board or the Rubber Board, as the case may be, with the previous approval of the Central Government, a deduction of the amount so deposited during the previous year or forty per cent of the profits from the business of growing or manufacturing coffee or rubber in India, whichever is less, shall be allowed to the assessee.
+
+26.3 Further, sub-section (4) of section 33AB provides that no deduction shall be allowed if the amount withdrawn from the special account or from the Tea Deposit Account is utilized for the purchase of prohibited items.
+
+26.4 The Act has also substituted sub-section (4) of section 33AB to provide that in case the sum standing to the credit of the assessee is released by the NABARD or is withdrawn from the Deposit Account and is utilized for the purchase of any of the prohibited items, the whole of such amount so utilized will be treated as taxable profits of the year and taxed accordingly.
+
+26.5 This amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 16 ]
+
+27. Incentive for modernization and fleet expansion of shipping business
+
+27.1 Under the existing provisions of section 33AC of the Income-tax Act, a Government company or a public company formed and registered in India with the main object of carrying on the business of operation of ships, is allowed a deduction of 100% of the profits of such business, subject to certain conditions. Clause (c) of sub-section (3) provides that if an assessee sells or otherwise transfers a ship acquired by utilizing the amount withdrawn from the reserve before the expiry of 8 years from the end of the previous year in which it was acquired, the amount of reserve utilized for acquiring a ship shall be deemed to be the profits of the year in which the sale or transfer took place. This clause, hence, imposes a lock-in period of 8 years on the sale of any ship acquired by utilizing the reserve under section 33AC.
+
+27.2 With a view to rationalize the provisions of the section, the Act has amended clause (c) of sub-section (3) of the said section so as to reduce the existing lock-in period from 8 years to 3 years. A new sub-section (4) has also been inserted in the said section to provide that sale proceeds of the ship would be required to be utilized for the purchase of a new ship within one year from the end of the previous year in which the ship was sold or otherwise transferred. In case a new ship is not acquired within such period, the sale proceeds shall be deemed to be the profits in the year immediately following the previous year in which the ship was sold or otherwise transferred and taxed accordingly.
+
+27.3 The amendments will take effect from 1st April, 2004 and will apply in relation to the assessment year 2004-05 and subsequent years.
+
+[Section 17 ]
+
+28. Clarificatory amendments in respect of deduction for interest on borrowed capital
+
+28.1 Under the existing provisions contained in clause (iii) of sub-section (1) of section 36, deduction of interest is allowed in respect of capital borrowed for the purposes of business or profession in the computation of income under the head "Profits and gains of business or profession".
+
+28.2 The existing provisions have been prone to unending litigation.
+
+28.3 The Act has amended the said clause by way of insertion of a proviso to provide that no deduction will be allowed in respect of any amount of interest paid, in respect of capital borrowed for acquisition of an asset for extension of existing business or profession (whether capitalized in the books of account or not) for the period beginning from the date on which the capital was borrowed for the acquisition of the asset till the date on which such asset was first put to use.
+
+28.4 The amendment will take effect from 1st April, 2004 and will, accordingly apply in relation to assessment year 2004-05 and subsequent years.
+
+[Section 18(a )]
+
+29. Fiscal incentive for provisioning in respect of bad and doubtful debts in case of scheduled and non-scheduled banks
+
+29.1 Under the existing provisions contained in sub-clause (a) of clause (viia) of sub-section (1) of section 36, a scheduled bank (not being a foreign bank) or a non-scheduled bank is entitled to a deduction of an amount not exceeding seven and one-half per cent of its gross total income before making any deduction under the said clause and an amount not exceeding ten per cent of the aggregate average advances made by the rural branches of such bank, in respect of provision for bad and doubtful debts.
+
+29.2 Under the first proviso to sub-clause (a), such banks have an option to claim deduction in respect of any provision for any assets classified by the Reserve Bank of India as doubtful assets or loss assets in accordance with the guidelines issued by it. Such deduction is, however, limited to ten per cent of the amount of the doubtful assets or loss assets shown in the books of account of such bank on the last day of the previous year.
+
+29.3 The Act has inserted two new provisos in sub-clause (a). It has been provided that a scheduled bank or a non-scheduled bank referred to in sub-clause (a) shall, at its option, be allowed a further deduction in excess of the limits specified in the provisions of the said sub-clause. The deduction allowed shall be limited to the income derived from redemption of securities in accordance with a scheme framed by the Central Government. It has also been provided that no such deduction shall be allowed unless such income has been disclosed in the return of income under the head "Profits and gains of business or profession".
+
+29.4 This amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+[Section 18(b )]
+
+30. Clarification regarding deduction available under section 36(1)(x)
+
+30.1 Under the existing provision contained in clause (x) of sub-section (1) of section 36, a deduction is allowed in respect of any sum paid by a public financial institution by way of contribution towards any fund specified under clause (23E) of section 10 for computing the business income.
+
+30.2 The Act has amended the said clause (x) so as to provide that the deduction shall be allowable in respect of any sum paid by a public financial institution by way of contribution towards any Exchange Risk Administration Fund set up by public financial institution, either jointly or separately. The amendment is consequential to the omission of clause (23E) of section 10 by the Finance Act, 2002.
+
+30.3 This amendment will take effect retrospectively from 1st April, 2003 and will, accordingly, apply in relation to the assessment year 2003-04 and subsequent years.
+
+[Section 18(c )]
+
+31. Deduction for expenditure incurred by entities established under any Central, State or Provincial Act
+
+31.1 Entities that are created under an Act of Parliament have the basic object and function of carrying on developmental activities in the areas as specified in the said Acts. By the Finance Act, 2001 and Finance Act, 2002, tax exemption of certain bodies set up through an Act of Parliament was withdrawn. Subsequent to the removal of the tax shield, a doubt has arisen that some of the activities having no profit motive being carried on by such entities cannot be said to be business and, therefore, expenditure incurred on such developmental activities may not be allowed as a deduction while computing the income under the head "Profits and gains of business or profession".
+
+31.2 The Act has inserted a new clause (xii) in sub-section (1) of section 36 so as to provide that any expenditure (not being capital expenditure) incurred by a corporation or a body corporate, by whatever name called, constituted or established by a Central, State or Provincial Act for the objects and purposes authorized by the Act under which such corporation or body corporate was constituted or established shall be allowed as a deduction in computing the income under the head "Profits and gains of business or profession".
+
+31.3 This amendment will take effect retrospectively from 1st April, 2002 and will, accordingly, apply in relation to the assessment year 2002-03 and subsequent years.
+
+[Section 18(d )]
+
+32. Rationalisation of provisions for disallowance of interest, etc. paid to non-residents if no deduction of tax at source
+
+32.1 Under the existing provision contained in sub-clause (i) of clause (a) of section 40, any interest, royalty, fees for technical services or other sum chargeable under the Income-tax Act, which is payable outside India is not allowed as a deduction if tax thereon has not been paid or deducted at source. However, if tax is paid or deducted in respect of such amount in a subsequent year, the amount is allowed as a deduction in the subsequent year in which the tax is paid or deducted.
+
+32.2 Under the existing provision contained in sub-clause (iii) of clause (a) of the said section, no deduction shall be allowed in respect of any payment which is chargeable under the head "Salaries" if it is payable outside India and if the tax has not been paid thereon nor deducted therefrom under Chapter XVII-B.
+
+32.3 The Act has substituted the said sub-clause (i) to provide that in respect of any interest, royalty, fees for technical services or other sum, which is payable outside India or in India to a non-resident or a foreign company, and is chargeable to tax under the Income-tax Act, no deduction shall be allowed in computing the income under the head "Profits and gains of business or profession" unless tax has been deducted from such income or, after deduction paid before the expiry of the time prescribed under sub-section (1) of section 200 and in accordance with other provisions of Chapter XVII-B. It has also been provided that where in respect of any such sum, tax has been deducted under Chapter XVII-B or paid in any subsequent year, such sum shall be allowed as a deduction in computing the income of the previous year in which such tax has been paid.
+
+32.4 The Act has also substituted sub-clause (iii) of clause (a) to provide that no deduction shall be allowed in respect of any payment which is chargeable under the head "Salaries", if it is payable outside India or in India to a non-resident, on which tax has not been deducted or, after deduction, has not been paid under Chapter XVII-B.
+
+32.5 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+[Section 19 ]
+
+33. Clarificatory amendments regarding definitions of certain terms relevant to income from profits and gains from business or profession
+
+33.1 The existing provisions contained in clause (3) of section 43 defines the expression "plant" in an inclusive manner and further excludes tea bushes or livestock.
+
+33.2 The coverage of the term "plant" has been a subject matter of litigation, particularly on the issue as to whether buildings or furniture and fittings constitute ‘plant’.
+
+33.3 Similarly, under the existing provisions of clause (6) of section 43, the use of the expression "as appearing in the books of account" was inadvertent.
+
+33.4 The Act has amended clause (3) of section 43 to provide for exclusion of the assets, namely, "buildings" and "furniture and fittings" from the definition of the expression "plant".
+
+33.5 The Act has also omitted the words "as appearing in the books of account" from Explanation 2B of clause (6) so as to clarify that the written down value of the block of assets in the case of the resulting company will be the written down value of the transferred assets of the demerged company.
+
+33.6 The amendment will take effect from the 1st day of April, 2004 and will, accordingly apply in relation to assessment year 2004-05 and subsequent years.
+
+[Section 20 ]
+
+34. Modification of provisions relating to deduction in respect of certain liabilities
+
+34.1 Under the existing provisions contained in section 43B, deduction for any sum payable by the assessee as tax, duty, cess, etc. or as an employer by way of contribution to any provident fund or superannuation fund or gratuity fund or any other fund for the welfare of employees, etc. is allowed in computing the income of that previous year in which the sum is actually paid. Clause (e) of the said section relates to any sum payable by the assessee as interest on any term loan from a scheduled bank in accordance with the terms and conditions of the agreement governing such loan.
+
+34.2 The first proviso to the said section provides that the deduction shall be allowed if the sum is actually paid by the assessee on or before the due date applicable in his case for furnishing the return of income in respect of the previous year in which the liability to pay such sum was incurred and the evidence of such payment is furnished by the assessee along with such return.
+
+34.3 The second proviso to the said section provides that no deduction shall be allowed in respect of any sum payable by an assessee as an employer by way of contribution to any provident fund or superannuation fund or gratuity fund or any other fund for welfare of employees unless such sum has actually been paid in cash or by issue of a cheque or draft or by any other mode on or before the due date as defined in the Explanation below clause (va) of sub-section (1) of section 36.
+
+34.4 The Act has amended clause (e) of the said section so as to provide that deduction for the interest on any loan or advances from a scheduled bank in accordance with the terms and conditions of the agreement governing such loan or advances shall be allowed on actual payment basis only.
+
+34.5 Similarly, in the case of payments made by the assessee as an employer by way of contribution to any provident fund or superannuation fund or any other fund for the welfare of the employees, deduction shall be allowed in computing the income of the year in which such sum is actually paid. The sums shall also be allowed as a deduction in the previous year in which the liability to pay the sum was incurred in case the same is paid before the due date of filing the return of income for the previous year.
+
+34.6 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+[Section 21]
+
+35. Clarification of provisions relating to presumptive income for truck owners
+
+35.1 Under the existing provision contained in sub-section (1) of section 44AE, in the case of an assessee, who owns not more than ten goods carriages and who is engaged in the business of plying, hiring or leasing such goods carriages, the income of such business chargeable to tax under the head "Profits and gains of business or profession" is deemed to be the aggregate of the profits and gains from all the goods carriages owned by him in the previous year.
+
+35.2 The Act has amended the said sub-section so as to clarify that the provisions of the section shall apply in the case of an assessee who owns not more than ten goods carriages at any time during the previous year.
+
+35.3 This amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+[Section 24 ]
+
+36. Rationalisation of certain provisions for presumptive taxation in case of non-residents
+
+36.1 Under the existing provision contained in sub-section (1) of section 44BB of the Income-tax Act, income of a non-resident taxpayer who is engaged in the business of providing services or facilities in connection with, or supplying plant and machinery on hire used, or to be used, in the prospecting for, or extraction or production of, mineral oils is computed at ten per cent of the aggregate of the amounts paid or payable to the taxpayer or to any person on his behalf, whether in or out of India on account of the provisions of such services and facilities.
+
+36.2 Further, under the existing provisions contained in section 44BBB of the Income-tax Act, the income of a foreign company engaged in the business of civil construction or erection or testing or commissioning of plant or machinery in connection with a turnkey power projects, approved by the Central Government and financed under any international aid programme, is computed at ten per cent of the amount paid or payable to such assessee or to any person on his behalf, whether in or out of India on account of civil construction, erection, testing or commissioning of the aforesaid plant or machinery.
+
+36.3 The Act has amended section 44BBB to provide that the rate of 10% will be applicable in those turnkey power projects also which are not financed under any international aid programme.
+
+36.4 The Act has also amended sections 44BB and 44BBB to provide that an assessee may claim lower profits and gains than the profits and gains specified under sub-section (1) of the said sections if he keeps and maintains such books of account and other documents as required under sub-section (2) of section 44AA and gets his accounts audited and furnishes a report of such audit as required under section 44AB. The Assessing Officer shall then make an assessment of the total income or loss of the assessee under sub-section (3) of section 143.
+
+36.5 Consequential amendments have been carried out in sections 44AA and 44AB so as to require such assessees to keep and maintain books of account and documents as may enable the Assessing Officer to compute their total income in accordance with the provisions of the Income-tax Act and to require such persons to get their accounts audited.
+
+36.6 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+[Sections 22, 23, 25 and 26 ]
+
+37. Rationalisation of provisions relating to computing income by way of royalties, etc.
+
+37.1 Section 44D of the Income-tax Act lays down special provisions for computing income by way of royalties and fees for technical services received by foreign companies from Government or an Indian concern. Where such income is received in pursuance of an agreement made after 31st March, 1976, section 44D(b) provides that the gross amount of income by way of royalties or fees for technical services received by such foreign companies without any deduction, expenditure or allowance is chargeable to tax at the rates specified in section 115A.
+
+37.2 Section 115A provides that royalties/fees for technical services received by foreign companies will be taxed at a concessional rate of 20% only if the agreement made with an Indian concern under which these royalties or fees for technical services are received, is approved by the Central Government or relates to a matter that is covered under the Industrial Policy.
+
+37.3 The Act has amended clause (b) of section 44D by inserting a sunset clause and has made the section inoperative in respect of agreements after 31-3-2003.
+
+37.4 With a view to harmonize the provisions relating to the income from royalty or fees for technical services attributable to a fixed place of profession or a permanent establishment in India with similar provisions in the various Double Taxation Avoidance Agreement, the Act has inserted a new section 44DA in the Income-tax Act. This section provides that the income by way of royalty or fees for technical services received from Government or an Indian concern in pursuance of an agreement made by a non-resident (not being a company) or a foreign company with Government or the Indian concern after the 31st day of March, 2003 shall be computed under the head "Profits and gains of business or profession" in accordance with the provisions of the Income-tax Act. However, the provisions of the said section shall apply only if the non-resident (not being a company) or a foreign company carries on business in India through a permanent establishment situated in India, or performs professional services from a fixed place of profession situated in India, and the right, property or contract in respect of which the royalties or fees for technical services are paid is effectively connected with such permanent establishment or fixed place of profession, as the case may be. It has also been provided that no deduction shall be allowed—
+
+  (i)  in respect of any expenditure or allowance which is not wholly and exclusively incurred for the business of such permanent establishment or fixed place of profession in India; and
+
+ (ii)  in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to its head office or to any of its other offices.
+
+37.5 The section also requires that every non-resident (not being a company) or a foreign company shall keep and maintain books of account and other documents in accordance with the provisions of section 44AA and get the accounts audited by an accountant as defined in the Explanation below sub-section (2) of section 288 and furnish along with the return of income, the report of such audit in the prescribed form duly signed and verified by such accountant.
+
+37.6 Clause (b ) of sub-section (1) of section 115A has also been amended to make it applicable to a non-resident (not being a company) or to a foreign company in respect of income by way of royalty or fees for technical services other than income referred to in sub-section (1) of section 44DA.
+
+37.7 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+[Sections 27, 28 and 50(ii )]
+
+38. Recomputation of Capital Gains in case of reduction in compensation received
+
+38.1 The existing provisions of sub-section (5) of section 45, provide for the method of computation of capital gains arising from the transfer of a capital asset, being a transfer by way of compulsory acquisition under any law, or a transfer the consideration for which was determined or approved by the Central Government or the Reserve Bank of India, and where the compensation or the consideration for such transfer is enhanced or further enhanced by any court, Tribunal or other authority. The said sub-section provides that the capital gain shall be computed by taking the compensation or consideration or enhanced compensation or consideration, as the case may be, as the full value of consideration and such capital gain shall be chargeable as income of the previous year in which such compensation or consideration is received by the assessee.
+
+38.2 The Finance Act, 2003 has amended sub-section (5), by inserting a new clause (c) providing that where such amount of the compensation or consideration is subsequently reduced by any court, Tribunal or other authority, the capital gain of that year, in which the compensation or consideration received was taxed, shall be recomputed accordingly.
+
+38.3 A new sub-section (16) has also been inserted in section 155 to provide that the Assessing Officer shall amend the order of assessment to revise the computation of said capital gain of that year by taking the compensation or consideration so reduced by the court, Tribunal or any authority to be the full value of consideration.
+
+38.4 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequently years.
+
+[Sections 29 and 66 ]
+
+39. Demutualisation and Corporatisation of Stock Exchanges to be exempt from Capital Gains
+
+39.1 Most of the stock exchanges in India are Association of Persons (AOP) having the concept of membership cards for their members. The twin rights of trading and undivided interest in the ownership of the stock exchange are embedded in the membership card of a stock exchange.
+
+39.2 The process of corporatisation and demutualization of the stock exchange would involve segregation of these twin rights into two separate and independent rights viz.,
+
+  (i)  the right to participate in the ownership of assets of the stock exchange by issuance of shares in the new corporate body; and
+
+ (ii)  the right to trade on stock exchanges.
+
+39.3 In order to make the process of demutualization and corporatisation of stock exchanges tax neutral, amendments have been made in section 2, section 47 and section 55 of the Income-tax Act, 1961.
+
+39.4 Clause (xiii ) of section 47 provides that any transfer of the capital asset, where an association of persons or body of individuals is succeeded by a company in the course of corporatisation of a recognised stock exchange in India in accordance with a scheme approved by the Securities and Exchange Board of India, shall not be regarded as a transfer for the purposes of capital gains.
+
+39.5 A new clause (xiiia ) has been inserted in section 47 providing that any transfer of a capital asset, being a membership right held by a member of a recognised stock exchange in India, for acquisition of shares and trading or clearing rights in that recognised stock exchange, in accordance with a scheme for demutualization or corporatisation, as approved by the Securities and Exchange Board of India Act 1992, shall not be regarded as "transfer" for the purposes of capital gain.
+
+39.6 Two new sub-clauses ( h) and (i) in Explanation 1 of clause (42A) of section 2 have also been inserted so as to provide that in the case of a capital asset being equity shares, or trading or clearing rights, of a stock exchange acquired by a person pursuant to demutualization or corporatisation of a recognised stock exchange in India as referred to in clause (xiii) of section 47, there shall be included while calculating the period for holding of such assets the period, for which the person was a member of the recognised stock exchange immediately prior to such demutualization or corporatisation.
+
+39.7 Thus for calculating the period for holding of shares as well as trading/clearing rights acquired in the stock exchange consequent upon its corporatisation and demutualization, the period of holding of membership card by the member immediately prior to such corporatisation and demutualization shall also be included.
+
+39.8 The existing provisions of clause (ab) in sub-section (2) of section 55 provide the meaning of "cost of acquisition" in relation to a capital asset, being equity share or shares allotted to a shareholder of a recognised stock exchange in India under a scheme for corporatisation approved by the Securities and Exchange Board of India.
+
+39.9 A proviso to the said clause (ab) has been inserted providing that the cost of a capital asset, being trading or clearing rights of a recognised stock exchange acquired by a shareholder who has been allotted equity share or shares under such scheme of demutualization or corporatisation, shall be deemed to be nil.
+
+39.10 These amendments will take effect from 1st April, 2004 and will, accordingly apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 3(b), 30 and 31]
+
+40. Incentive for amalgamation available under section 72A extended to hotel and certain banks
+
+40.1 Sub-section (1) of section 72A provides that when a company owning an industrial undertaking or a ship amalgamates with another company, the amalgamated company will be allowed to carry forward and set off accumulated losses and unabsorbed depreciation of the amalgamating company. Sub-section (2) of the section lays down the conditions which are required to be fulfilled for availing of the benefit under sub-section (1).
+
+40.2 The Finance Act, 2003 has extended the benefits of carry forward and set off of accumulated losses and unabsorbed depreciation under section 72A to cases where amalgamation of a company owning a hotel takes place with another company or an amalgamation of a banking company takes place with a specified bank.
+
+40.3 Sub-sections (1) and (2) have been substituted. It has been provided that accumulated losses shall not be set off or carry forward and the unabsorbed depreciation shall not be allowed in the assessment of amalgamated company unless certain conditions are fulfilled by both the amalgamating company and amalgamated company. Two additional conditions for amalgamating company to be fulfilled in order to take benefit of the section have been inserted. These conditions are that the amalgamating company should have been engaged in the business in which the accumulated loss has occurred or depreciation remains unabsorbed and it has held continuously as on the date of amalgamation at least three-fourths of the book value of fixed assets held by it two years prior to the date of amalgamation.
+
+40.4 The conditions applicable for the amalgamated company for availing benefit under this section are in the lines of existing provisions in sub-section (2).
+
+40.5 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 33]
+
+41. Deduction in respect of maintenance including medical treatment of a dependant being a person with disability or a person with severe disability
+
+41.1 Under the existing provisions contained in section 80DD, an assessee, who is resident in India, being an individual or a Hindu undivided family, is allowed a deduction of rupees forty thousand, if the assessee has, during the previous year, incurred any expenditure for the medical treatment (including nursing), training and rehabilitation of a handicapped dependant or paid or deposited any amount under a scheme framed in this behalf by the Life Insurance Corporation or Unit Trust of India, for the maintenance of handicapped dependant. For this purpose, various criteria for defining the eligible level of disability were notified in Rule 11A of the Income-tax Rules, 1962. These rules are at variance with the rules for defining disability under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, under which disability means any disability over 40%.
+
+41.2 The existing section 80DD has been substituted with a view to harmonize the criteria for defining disability as existing under the Income-tax Rules with the criteria prescribed under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 and to increase the amount of deduction. Accordingly, a deduction of an amount of rupees fifty thousand has been provided under this section, for the medical expenditure, etc. incurred in respect of a dependant being a person with disability, as defined under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995. A higher deduction of rupees seventy-five thousand shall be allowed, where such dependent is a person with severe disability under the Person with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 having any disability over 80%. The term ‘dependant’ has been defined so as to include in the case of an individual, the spouse, children, parents, brothers and sisters and in the case of a Hindu Undivided Family, a member thereof, who is wholly or mainly dependant on the assessee and has not claimed any deduction under section 80U in the computation of his income.
+
+41.3 For claiming the deduction, the assessee is required to furnish a copy of the certificate issued by the medical authority under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 along with the return of income filed under section 139(1). Where the condition of disability requires reassessment, a fresh certificate from the medical authority shall have to be obtained after the expiry of the period mentioned on the original certificate in order to continue claiming the deduction.
+
+41.4 The amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 34]
+
+42. Deduction in respect of medical treatment, etc. of specified diseases to be linked to the expenditure actually incurred on such treatment
+
+42.1 Under the existing provisions of section 80DDB, a deduction of forty thousand rupees is allowed to an assessee being an individual or Hindu undivided family, who has incurred any expenditure for the medical treatment of the individual himself or his dependant relative or any member of a Hindu undivided family, in respect of any disease or ailment specified in the rules. Senior citizens are allowed a deduction of sixty thousand rupees. The assessee is required to submit a certificate from the prescribed authority and in the prescribed form. For this purpose, the prescribed authority under Rule 11DD means any doctor with post-graduate medical qualifications, who is registered with the Indian Medical Association.
+
+42.2 With the view to rationalise the provisions, the said section has been substituted by a new section so as to provide that the amount of deduction under this section shall be equal to the amount actually paid or a sum of forty thousand rupees, whichever is less, in respect of the previous year in which such amount was actually paid. The new provision also defines the term dependant to include in the case of an individual, the spouse, children, parents, brothers and sisters of the individual, and in the case of a Hindu undivided family, a member of the Hindu undivided family. It is also provided that no such deduction shall be allowed unless the assessee furnishes with the return of income, a certificate in such form, as may be prescribed, from a neurologist, an oncologist, a urologist, a hematologist, an immunologist or such other specialist, as may be prescribed, working in a Government hospital. For the purpose of this section, ‘Government hospital’ includes a departmental dispensary whether full time or part time, established and run by a department of the Government for the medical attendance and treatment of a class or classes of Government servants and members of their families, a hospital maintained by a local authority and any other hospital with which arrangements have been made by the Government for the treatment of Government servants. The deduction under the section shall be reduced by the amount, if any, received under insurance from an insurer, or reimbursed by an employer, for the medical treatment of the assessee or the dependant.
+
+42.3 The amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 35]
+
+43. Extension of date for the utilisation of donations made for providing relief to the victims of the Gujarat Earthquake
+
+43.1 Under the existing provisions of section 80G, an assessee is allowed a 100% deduction for donations made during the period beginning on 26th January, 2001 and ending on 30th September, 2001 to certain approved charitable trusts, funds or institutions set up for providing relief to the victims of the Gujarat earthquake, subject to the condition that the funds are utilised for this purpose before 31st March, 2003. Otherwise, all unutilised amounts are required to be transferred to the Prime Minister’s National Relief Fund before 31st March, 2003. These receipts are exempt in the hands of such trust, institution or funds under section 10(23C) or section 12 of the Income-tax Act. Further, the eligible bodies are required to submit their income and expenditure statement before the prescribed authority by 30th June, 2002.
+
+43.2 With a view to provide further time for completion of the rehabilitation and reconstruction work, clauses (iii), (iv) and (v ) of sub-section (5C) of section 80G have been amended to extend the time limit for utilization of the donations by one more year. Accordingly, the donations received by trusts or institutions for providing relief to the victims of the Gujarat earthquake are required to be utilised for this purpose on or before 31st March, 2004 and all unutilised amounts are required to be transferred to the Prime Minister’s National Relief Fund on or before 31st March, 2004. Consequential amendments have also been made in section 10(23C) and section 12.
+
+43.3 These amendments have been brought into effect retrospectively from 3-2-2001 and made applicable to the assessment year 2001-02 and subsequent years.
+
+            [ Sections 6(f), 11 and 36]
+
+44. DTA Sales to units in Special Economic Zones made eligible for deduction under section 80HHC for a period of one year
+
+44.1 Under the existing provisions of section 80HHC, deduction is provided in respect of profits from the export of goods or merchandize by a resident assessee.
+
+44.2 A new sub-section (4C) has been inserted in this section so as provide that the sales by any undertaking which manufactures or produces goods or merchandise anywhere in India (outside any special economic zone) to any undertaking situated in a special economic zone which is eligible for deduction under section 10A, shall be deemed to be export out of India for the purposes of this section, for a period of one year, i.e., assessment year 2004-05. The term "Special Economic Zone" has been defined to assign the same meaning as in section 10A.
+
+44.3 Also, sub-section (4) has been amended to provide that in order to claim the deduction, the assessee would be required to furnish a certificate from the SEZ unit containing the prescribed particulars as certified by the auditors of the SEZ unit, and also an audit report certifying the correctness of deduction.
+
+44.4 The amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05.
+
+            [ Section 37]
+
+45. Extension of time limit for providing telecommunication services, etc. for the purpose of tax holiday under section 80-IA
+
+45.1 Under the existing provision contained in clause (ii) of sub-section (4) of section 80-IA, an undertaking which has started or starts providing telecommunication services, whether basic or cellular, including radio paging, domestic satellite service, network of trunking, broadband network and internet services, before the 31st day of March, 2003, is allowed a deduction for any ten consecutive assessment years beginning from the year in which the undertaking starts providing telecommunication services. The amount of deduction is one hundred per cent of profits for the first five years, and thereafter at thirty per cent of profits for the next five years.
+
+45.2 With a view to give incentives to the new telecom services or domestic satellite services to operate, the time-limit before which the eligible undertaking has to start providing telecommunication services, etc. has been extended to 31st March, 2004.
+
+45.3 The amendment will take effect from the 1st April, 2004 and will, accordingly apply in relation to assessment year 2004-05 and subsequent years.
+
+45.4 In sub-section (2) for the words "or develops or develops and operates or maintains and operates a special economic zone", the words "or develops a special economic zone" have been substituted.
+
+45.5 In clause (iii ) to sub-section (4), the existing proviso has been amended to provide that where an undertaking develops a Special Economic Zone on or after the 1st day of April, 2001 and transfers the operation and maintenance of such Special Economic Zone to another undertaking, the deduction under section 80-IA shall be allowed to the transferee undertaking for the remaining period in the ten consecutive assessment years, as if the operation and maintenance were not so transferred to it.
+
+45.6 These amendments have been brought into effect retrospectively from 1st April, 2002 and made applicable to the assessment year 2002-03 and subsequent years.
+
+            [ Section 38]
+
+46. Extension of time limit for the purpose of tax holiday under section 80-IB to any company carrying on scientific research and development
+
+46.1 Under the existing provisions of sub-section (8A) of section 80-IB, any company carrying on scientific research and development is allowed a deduction of hundred per cent of the profits and gains of such business for a period of ten consecutive assessment years, if such company is for the time being approved by the prescribed authority after the 31st March, 2002, but before the 1st April, 2003. For this purpose, the prescribed authority is the Secretary, Department of Scientific and Industrial Research, Ministry of Science & Technology, Government of India.
+
+46.2 With a view to give boost to the scientific research and development in the country, the deduction is being extended to companies carrying on scientific research and development, which are approved by the prescribed authority before 1st April, 2004.
+
+46.3 The amendment will take effect from 1st April, 2004 and will, accordingly apply in relation to assessment year 2004-05 and subsequent years.
+
+            [ Section 39(b)]
+
+47. Extension of the time limit for obtaining approval and removal of condition for completion of approved housing projects for the purpose of tax holiday under section 80-IB
+
+47.1 Under the existing provision of sub-section (10) of section 80-IB, a deduction equal to one hundred per cent of the profits of an undertaking engaged in developing and building housing projects is allowed. The deduction is available to the housing projects approved by a local authority before the 31st day of March, 2001 and which are completed before the 31st day of March, 2003.
+
+47.2 With a view to allow new housing projects to avail the benefit of tax holiday under this provision, the time limit for obtaining approval from the local authority has been extended to 31st March 2005. Further, to rationalize the provision, the time limit for completion of the project has been omitted.
+
+47.3 The amendments have been brought into effect retrospectively from 1st April, 2002 and have been made applicable to the assessment year 2002-03 and subsequent years.
+
+            [ Section 39(c)]
+
+48. Extension of time limit for setting up and operating a cold chain facility for agricultural produce for claiming deduction under section 80-IB
+
+48.1 Under the existing provision contained in sub-section (11) of section 80-IB, an industrial undertaking deriving profits from the business of setting up and operating a cold chain facility for agricultural produce is allowed a deduction of one hundred per cent of such profits for five years and subsequently twenty five per cent (thirty per cent in the case of companies) for the next five years, if such undertaking begins to operate such facility before 31st March, 2003.
+
+48.2 With a view to given further boost to this sector, the time limit for commencement of operation of a cold chain facility has been extended to 31st March, 2004.
+
+48.3 The amendment will take effect from 1st April, 2004 and will, accordingly apply in relation to assessment year 2004-05 and subsequent years.
+
+            [ Section 39(d)]
+
+49. New provisions allowing a ten years tax holiday in respect of certain undertakings in the States of Himachal Pradesh, Sikkim, Uttaranchal and North-Eastern States
+
+49.1 The Union Cabinet has announced a package of Fiscal and non-fiscal concessions for the special category States of Himachal Pradesh, Uttaranchal, Sikkim and North-Eastern States, in order to give boost to the economy in these States. With a view to give effect to these new packages a new section 80-IC has been inserted to allow a deduction for ten years from the profits of new undertakings or enterprises or existing undertakings or enterprises on their substantial expansion, in the States of Himachal Pradesh, Uttaranchal, Sikkim and North-Eastern States. For this purpose, substantial expansion is defined as increase in the investment in the plant and machinery by at least 50% of the book value of the plant and machinery (before taking depreciation in any year), as on the first day of the previous year in which the substantial expansion is undertaken.
+
+49.2 The section provides that the deduction shall be available to such undertakings or enterprises which manufacture or produce any article or thing, not being any article or thing specified in the Thirteenth Schedule and which commence operation in any Export Processing Zone, or Integrated Infrastructure Development Centre or Industrial Growth Centre or Industrial Estate, or Industrial Park, or Software Technology Park or Industrial Area or Theme Park, as notified by the Board in accordance with rules prescribed in this regard. Similar deduction shall be available to thrust sector industries, as specified in the Fourteenth Schedule.
+
+49.3 The amount of deduction in case of undertakings or enterprises in the States of Sikkim, and the North-Eastern States shall be one hundred per cent of the profits of the undertaking for ten assessment years. The amount of deduction in case of undertakings or enterprises in the States of Uttaranchal, Himachal Pradesh shall be one hundred per cent of the profits of the undertaking for five assessment years, and thereafter twenty-five per cent (thirty per cent for companies) for the next five assessment years.
+
+49.4 The section also provides that no deduction shall be allowed to any undertaking or enterprise under this section, where the total period of deduction inclusive of the period of deduction under this section or under section 80-IB or under section 10C, as the case may be, exceeds ten assessment years. Further, in computing the total income of the assessee, no deduction shall be allowed under any other section contained in Chapter VIA or in section 10A or 10B, in relation to the profits and gains of the undertaking or enterprise.
+
+49.5 A new Thirteenth Schedule has been inserted in the Income-tax Act to specify the list of articles and things, which are ineligible for the purpose of deduction under section 80-IC. Further, a new Fourteenth Schedule has also been inserted, which specifies the list of articles and things, being thrust sector industries, which are eligible for the purposes of availing deduction under this section. Consequent to these amendments, the provisions of section 10C and sub-section (4) of section 80-IB have been made inoperative in respect of the undertakings or enterprises in the State of Himachal Pradesh or in North-Eastern region including Sikkim, with effect from the 1st day of April, 2004.
+
+49.6 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 9, 39(a), 40 and 99]
+
+50. Increase in the deduction in respect of interest on certain securities, dividends, etc.
+
+50.1 Under the existing provisions of section 80L, a person being an individual or a Hindu undivided family deriving any income by way of interest on certain specified deposits or income from certain mutual funds or dividend from an Indian company, is allowed a general deduction of an amount not exceeding rupees nine thousand. An additional deduction of rupees three thousand is available in respect of interest on securities of the Central Government or a State Government.
+
+50.2 With a view to increase the returns on investments particularly for small taxpayers and retired senior citizens, the said limit of deduction of nine thousand rupees has been increased to twelve thousand rupees. The existing deduction of rupees three thousand in respect of interest on securities of the Central Government or a State Government has been continued.
+
+50.3 The amendment will take effect from 1st April, 2003, and will, accordingly, apply in relation to the assessment year 2003-04 and subsequent years.
+
+            [ Section 41(b)]
+
+51. New provision for allowing deduction in respect of certain incomes of Offshore Banking Units
+
+51.1 With a view to reduce the cost of borrowing for the units located in special economic zones and to promote the growth of special economic zones, a new section 80LA has been inserted. The section provides for a deduction to an assessee, being a scheduled bank (not being a bank incorporated by or under the laws of a country outside India) owning an offshore banking unit in a special economic zone, out of certain incomes from the offshore banking unit in a special economic zone with an undertaking located in the special economic zone or any other undertaking which develops, develops and operates or operates and maintains a special economic zone. The amount of deduction is equal to hundred per cent of such income received in convertible foreign exchange for three consecutive assessment years beginning with the assessment year relevant to the previous year in which the permission for setting up the Offshore Banking Unit was obtained under the Banking Regulation Act, and thereafter fifty per cent of such income for two consecutive assessment years.
+
+51.2 In order to claim the deduction under this section, the assessee is required to furnish an audit report in the prescribed form certifying that the deduction has been correctly claimed and also a copy of the permission obtained under the Banking Regulation Act.
+
+51.3 The terms "convertible foreign exchange", "Offshore Banking Unit", "scheduled bank" and "special economic zone" have been defined in the section.
+
+51.4 The amendment will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 42]
+
+52. New provision for allowing deduction upto rupees three lakhs in respect of royalty income, etc. of authors of certain books
+
+52.1 With a view to provide tax relief to the authors in respect of their income from their profession of author, a new section 80QQB has been inserted in the Income-tax Act, 1961.
+
+52.2 The new section 80QQB provides for a deduction up to rupees three lakhs to an individual resident, being an author, in respect of any income derived from the exercise of his profession, on account of any lump sum consideration for the assignment or grant of any of his interest in the copyright of any book, or of royalties or copyright fees (whether receivable in lump sum or otherwise) in respect of such book. The deduction shall be allowed in respect of any book, being a work of literary, artistic or scientific nature. However, the deduction shall not be available on income from text books prescribed for schools, guides, commentaries, newspapers, journals, magazines, diaries, brouchres, tracts, pamphlets, and other publications of a similar nature, by whatever name called. Where an assessee claims deduction under this section, no deduction in respect of the same income shall be allowed under any other provision of the Income-tax Act, 1961.
+
+52.3 The section provides that for calculating the deduction under this section, the amount of so much of eligible income shall be considered as does not exceeds 15% of the value of the books sold during the previous year. However, this condition is not applicable where the royalty or copyright fees, is receivable in lump sum in lieu of all rights of the author in the book. For claiming the deduction, the assessee shall have to furnish a certificate in the prescribed manner in the prescribed format, duly verified in the prescribed manner by the person responsible for paying the income, setting forth details as may be prescribed.
+
+52.4 Where the eligible income is earned outside India, the deduction shall be allowed on so much of the income earned in foreign exchange, which is brought in India within six months from the end of previous year or within such further period as the competent authority may allow in this behalf. For this purpose, competent authority shall mean the Reserve Bank of India or such other authority as is authorized under any law for the time being in force for regulating payments and dealings in foreign exchange. In order to claim deduction in such cases, a certificate in line with similar provisions existing in the Act to the effect that the deduction has been correctly claimed in accordance with the provision of this section is required to be furnished.
+
+52.5 The amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 44]
+
+53. New provision for allowing deduction from the income in the nature of royalty on patents
+
+53.1 Research and Development activities are highly cost-intensive, risky and time-taking often with a low success rate. With the view to encourage individual initiatives in carrying out new inventions, a new section 80RRB has been inserted, which provides that where in the case of a resident individual, the gross total income includes any income by way of royalty in respect of a patent registered on or after 1st day of April, 2003 under the Patents Act, 1970, a deduction equal to the whole of such amount or a sum of rupees three lakhs, whichever is less, shall be allowed. The deduction shall be available to any individual resident in India, who is registered in the patents register under the Patents Act, 1970, as the true and first inventor in respect of an invention, including a co-owner of the patent. The tax benefit is not available to patentees who are assignees or mortgagees in respect of all or any rights in the patent.
+
+53.2 The proposed deduction shall be allowed on any royalty income from working of or use of the patent and shall include consideration for the transfer of all or any rights (including the granting of a license) in a patent, or for imparting of any information concerning the working or use thereof in India, or for rendering of any services in connection with the above. However, no deduction shall be available in respect of any consideration for sale of product manufactured with the use of patented process or of the patented article for commercial use. Further, any consideration which is chargeable under the head "capital gains" shall not be eligible for deduction. Where a compulsory license is granted in respect of any patent under the Patents Act, 1970, the income eligible for deduction under this section shall not exceed the amount of royalty under the terms and conditions of a license settled by the Controller under that Act.
+
+53.3 The section also provides that where any income is earned from sources outside India on which the deduction under the proposed section is claimed, only so much of the income shall be considered, as is brought into India by, or on behalf of the assessee in convertible foreign exchange within a period of six months from the end of the previous year or within such further period as the competent authority may allow in this behalf. For this purpose, competent authority means the Reserve Bank of India or such other authority as is authorized under any law for the time being in force for regulating payments and dealings in foreign exchange.
+
+53.4 To claim deduction under this section, the assessee is required to furnish a certificate in the prescribed form, duly signed by the prescribed authority along with the return of income setting forth such particulars as may be prescribed.
+
+53.5 Where any income is earned from sources outside India, a certificate certifying that the deduction has been correctly claimed in accordance with the provision of this section, in the prescribed form, is required.
+
+53.6 The section further provides that in case the patent is subsequently revoked by the Controller or the High Court or the name of the assessee is subsequently excluded from the patents register as patentee in respect of that patent, the deduction relatable to royalty income in respect of the period for which the patentee’s claim was not valid, shall be withdrawn and the assessment may be rectified accordingly. For this purpose, suitable amendments under section 155 have been made.
+
+53.7 The amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 45 and 66]
+
+54. Deduction in the case of a person with disability or a person with severe disability
+
+54.1 Under the existing provisions contained in the section 80U, an individual, being a resident, is allowed a deduction of forty thousand rupees if he, at the end of the previous year, is suffering from a permanent physical disability (including blindness) or is subject to mental retardation, being a permanent physical disability or mental retardation specified in the rules made in this behalf by the Board, which is certified by a physician, a surgeon, an oculist or a psychiatrist, as the case may be, working in a Government hospital, and which has the effect of reducing considerably such individual’s capacity for normal work or engaging in a gainful employment or occupation. For this purpose, various criteria for defining the eligible level of disability were notified in Rule 11D of the Income-tax Rules, 1962. These rules are at variance with the rules for defining disability under the Persons with disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, under which disability means any disability over 40% and also includes in addition to physical disabilities, mental illness.
+
+54.2 The existing section 80U has been substituted with a view to harmonize the criteria for defining disability as existing under the Income-tax Rules with the criteria prescribed under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 and to increase the amount of deduction. A deduction of an amount of rupees fifty thousand has been provided under this section, in respect of a person with disability, as defined under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995. A higher deduction of rupees seventy-five thousand shall be allowed in respect of a person with severe disability under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, having any disability over 80%.
+
+54.3 For claiming the deduction, the assessee is required to furnish a copy of the certificate issued by the medical authority under the Persons with Disability (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 along with the return of income filed under section 139(1). Where the condition of disability requires reassessment, a fresh certificate from the medical authority shall have to be obtained after the expiry of the period mentioned on the original certificate in order to continue to claim the deduction.
+
+54.4 The amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 46]
+
+55. Rebate for tuition fees paid for the education of any two children
+
+55.1 The existing provisions contained in section 88 provide for a deduction from the tax payable on the total income of an individual or a Hindu undivided family, which is equal to a fixed percentage of sums paid or deposited in specified schemes. For the purpose of this deduction, the aggregate sums paid or deposited in specified schemes, eligible for the deduction under this section, are limited to rupees seventy thousand. Where such sums include subscription to equity shares or debentures, or units of mutual funds forming part of eligible issue of capital, a higher limit of eligible investment of rupees one hundred thousand is available.
+
+55.2 In order to provide necessary fiscal support for imparting education, the section has been amended to include within the purview of tax rebate, any sum paid, as tuition fees whether at the time of admission or thereafter, to any university, college, school or other educational institution situated within India for the purpose of full-time education of any two children of an individual, of such sum as does not exceed an amount of twelve thousand rupees in respect of each such child. However, the eligible amount shall not include any payment towards any development fees or donation or payment of similar nature. The payment shall be within the eligible limit of rupees seventy thousand.
+
+55.3 The amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 47]
+
+56. Increasing the amount of rebate of income-tax in case of individuals of sixty-five years or above
+
+56.1 Under the existing provisions, individuals in the age group of sixty-five years or more are entitled to a deduction from the amount of income-tax on their total income in any assessment year, of an amount equal to hundred per cent of such income-tax or an amount of fifteen thousand rupees, whichever is less.
+
+56.2 With a view to provide tax relief to the senior citizens, the said limit of tax rebate as been enhanced to twenty thousand rupees. The amendment will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 48]
+
+57. Double Taxation Avoidance Agreements - extending the scope to include agreements for developing mutual trade and investment
+
+57.1 Under the existing section 90 the Central Government may enter into an agreement with the Government of any country outside India for the granting of relief in respect of income on which have been paid both income-tax under the Income-tax Act and income-tax in that country, or for the avoidance of double taxation of income under this Act and under the corresponding law in force in that country, etc.
+
+57.2 In order to encourage international trade and commerce, the Finance Act, 2003 has inserted a new clause in sub-section (1) of section 90 so as to provide that the Central Government may also enter into an agreement with the Government of any country outside India for granting relief in respect of income-tax chargeable under this Act and under the corresponding law in that country to promote mutual economic relations, trade and investment.
+
+57.3 Certain terms used in the Double Taxation Avoidance Agreements (DTAAs) have not been defined either in the agreements or in the Income-tax Act. In order to address the problems arising due to conflicting interpretations of such terms, a new provision has been inserted empowering the Central Government to define such terms by way of notification in the Official Gazette.
+
+57.4 This amendment will take effect from 1st April, 2004, and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Section 49]
+
+58. Abolition of tax on dividends and levy of additional income-tax on distributed profits
+
+58.1 Under the provisions contained in section 115-O, domestic companies were liable to pay ten per cent additional income-tax on profits distributed by them on or before the 31st March, 2002. The tax so paid by the company was treated as the final payment of tax in respect of the amount declared, distributed or paid by way of dividend.
+
+58.2 From 1-4-2002 dividend declared, distributed or paid was chargeable to income-tax in the hands of the recipients, i.e., the shareholders. Section 80L provided for deduction of a specified amount from the gross total income in respect of dividends received by a taxpayer.
+
+58.3 To prevent the cascading effect in the case of a company, section 80M provided for a deduction to a domestic company which received dividend from another domestic company and again distributed dividend out of its profits. The amount of deduction on the dividends, so received by a domestic company from another domestic company, was limited to the extent of dividends distributed by the recipient company on or before the due date of filing of return.
+
+58.4 Under the provisions of section 194, tax is required to be deducted at source from dividends in the case of a shareholder who is resident in India. Further, section 195 provides for tax deduction at source from dividends in the case of a shareholder who is a non-resident or a foreign company at the rates in force. Tax is also required to be deducted at source under section 196C on dividend income in respect of bonds or Global Depository Receipts. Section 196D provides for deduction of tax at source in respect of securities referred to in clause (a) of sub-section (1) of section 115AD.
+
+58.5 The Act has substituted sub-section (1) of section 115-O of the Income-tax Act to provide that the amounts declared, distributed or paid on or after 1st April, 2003 by a domestic company by way of dividends shall be charged to additional income-tax at the flat rate of twelve and one-half per cent, in addition to the normal income-tax chargeable on the income of the company.
+
+58.6 It has also been provided that dividends received from domestic companies on or after 1st April, 2003 shall be exempt from income-tax. Consequently, deductions under sections 80L and 80M in respect of dividends have been discontinued. The provisions relating to tax deduction at source have also been suitably amended so as to provide for no deduction of tax at source from income by way of dividends other than dividends referred to in section 115-O.
+
+58.7 Since provisions of section 115-O would now be operative, reference to "other than dividends referred to in section 115-O" has also been inserted in sections 10(23FA ), 10(23G), 115A, 115AC, 115ACA, 115AD and 115C.
+
+58.8 These amendments are effective in respect of amounts declared, distributed or paid as dividends on or after 1st April, 2003.
+
+            [ Sections 6(i), 6(j )(i), 6(m), 32, 41(a ), 43, 50(i), 51, 52, 53, 54,        55, 73(b ), 80(a)(ii ), 82 and 83]
+
+59. Abolition of tax on income from units and levy of additional income-tax on income distributed by Mutual Funds
+
+59.1 Under the existing provisions contained in section 115R, any amount of income distributed by the Unit Trust of India or a Mutual Fund to its unit holders on before the 31st March, 2002 is chargeable to tax and the UTI or the Mutual Fund is liable to pay additional income-tax on such distributed income at the rate of ten per cent.
+
+59.2 From 1-4-2002 income from units referred to in section 115R is chargeable to income-tax in the hands of the recipient, i.e., the unit holder. Section 80L provided for deduction of a specified amount from the gross total income in respect of income received in respect of units from the UTI or a Mutual Fund.
+
+59.3 Under the provisions of section 194K, tax is required to be deducted at source from income in respect of units in the case of a unit holder who is resident in India. Tax is also required to be deducted at source under section 196A in respect of any income paid to a non-resident, not being a company, or to a foreign company, in respect of units of the UTI or a Mutual Fund at the rate of twenty per cent.
+
+59.4 As in the case of dividends distributed by a company, it has been provided that additional income-tax shall be levied on the mutual funds or the specified company and income received from units shall be exempt in the hands of the unit-holder.
+
+59.5 Hence, the Act has amended section 115R of the Income-tax Act to provide that any amount of income distributed by the specified company as defined in the Unit Trust of India (Transfer and Repeal) Act, 2002 or a Mutual Fund to its unit holders shall be chargeable to tax and the specified company or Mutual Fund shall be liable to pay additional income-tax at the flat rate of twelve and one-half per cent.
+
+59.6 Income from units received by a unit holder from the administrator of the specified undertaking as defined in Unit Trust of India (Transfer and Repeal) Act, 2002 or Mutual Fund or the specified company on or after 1st April, 2003 shall be exempt from income-tax. Consequently, deduction under section 80L in respect of income from units has been discontinued. The provisions relating to tax deduction at source from income in respect of units have been suitably amended so as to provide for no deduction of tax at source from such income.
+
+59.7 It has also been provided that the specified company or a Mutual Fund shall be liable to pay interest at the rate of one and one-fourth per cent for every month or part thereof on the amount of the additional income-tax not paid within the specified time. The person responsible for making payment of income distributed by the specified company or a Mutual Fund shall be deemed to be an assessee in default in respect of the amount of tax payable by him or it in case the additional income-tax is not paid to the credit of the Central Government.
+
+59.8 Consequential amendments have also been made in section 10(23D) of the Income-tax Act so as to provide that the exemption in respect of income of a Mutual Fund shall be subject to the provisions of Chapter XII-E of the Income-tax Act.
+
+59.9 These amendments shall be effective in respect of income distri-buted on or after 1st April, 2003.
+
+[Sections 6(g ), 6(m), 41(a ), 56, 57, 58, 79(b) and 81 ]
+
+60. Amendment in section 132 to provide that stock-in-trade not to be seized during search
+
+60.1 The existing provisions of clause (iii) in sub-section (1) of section 132 provide for seizure of any books of account, other documents, money, bullion, jewellery or other valuable article or thing found as a result of search.
+
+60.2 The Finance Act, 2003 has amended section 132 to provide that any bullion, jewellery or other valuable article or thing being stock-in-trade of the business, found as a result of search shall not be seized but the authorised officer shall make a note or inventory of such stock-in-trade. Thus, stock-in-trade of business cannot be seized during search and seizure operations conducted on or after 1st June, 2003.
+
+60.3 The existing provisions of second proviso to sub-section (1) of section 132 provide that where it is not possible to practicable to take physical possession of any valuable article or thing and remove it to a safe place due to its volume, weight or other physical characteristics or due to its being of a dangerous nature, the same could be placed under deemed seizure, wherein the Authorised Officer may serve an order on the owner or the person in immediate possession that he shall not remove or part with it except with the previous permission of the Authorised Officer.
+
+60.4 The Finance Act, 2003 has inserted a third proviso providing that nothing contained in the second proviso shall apply in case of any valuable article or thing, being stock-in-trade of the business.
+
+60.5 These amendments will take effect from 1st June, 2003.
+
+[Section 59(a )]
+
+61. Providing limitation of time for application for release of seized assets
+
+61.1 The existing provision contained in the first proviso to clause (i) of sub-section (1) of section 132B provides for release of any asset seized during search under section 132 or requisitioned under section 132A, if the nature and source of acquisition of such asset is explained to the satisfaction of the Assessing Officer, after recovery therefrom of any existing tax liability, and after taking approval of the Chief Commissioner or Commissioner.
+
+61.2 It has been provided that the asset referred to in the first proviso shall be released, inter alia, if the concerned person makes an application to the Assessing Officer within thirty days from the end of the month in which the asset was seized.
+
+61.3 This amendment will take effect from 1st June, 2003.
+
+            [ Section 60(a)]
+
+62. Modification of provisions relating to survey under section 133A
+
+62.1 Under the existing provisions of section 133A of the Income-tax Act, an income-tax authority conducting a survey is authorised to verify and make an inventory of cash, stock or other valuable article, record the statement of any person, inspect books of account or documents, place mark of identification, and also impound and retain in his custody books of account or other documents after recording reasons for doing so. Such books of account or other documents can be retained by the income-tax authority for only 15 days without the approval of Chief Commissioner or Director General or Commissioner or Director, as the case may be.
+
+62.2 Clause (ia ) in sub-section (3) of the section has been amended to provide that an income-tax authority shall not retain such books of account or other documents for more than ten days without obtaining the approval of the Chief Commissioner or Director General, as the case may be. Thus, the time period for which books can be retained has been reduced from 15 days to 10 days. Also approval of the Chief Commissioner or Director General is required for retention beyond 10 days.
+
+62.3 It has been provided that no action under section 133A shall be exercised by Assistant Director or Deputy Director or Assessing Officer or a Tax Recovery Officer, or an Inspector of Income-tax without the prior approval of the Joint Director or the Joint Commissioner, as the case may be.
+
+62.4 This amendment will take effect from 1st June, 2003.
+
+            [ Section 61]
+
+63. Measures to facilitate electronic filing of return by the assessee
+
+63.1 In order to enable taxpayers to file return of income in a computer readable media (electronic filing of return), the Finance Act, 2003 has inserted a new sub-section (1B) in section139 so as to provide that any person may at his option, on or before the due date, furnish a return of his income in accordance with such scheme as may be specified by the Board in this behalf, in such form including any computer readable media and such return shall be deemed to be a return furnished under section 139.
+
+63.2 This amendment will take effect from 1st April, 2003 and will, accordingly, apply in relation to assessment year 2003-04 and subsequent years.
+
+            [ Section 62]
+
+64. Discontinuance of assessment of income on limited issues under section 143
+
+64.1 Under the existing provision of clause (i) of sub-section (2) of section 143, if an Assessing Officer has reason to believe that an assessee has made a claim of any loss, exemption, deduction, allowance or relief which is inadmissible, he can issue a notice under the said clause, specifying the claim and calling upon the assessee to produce evidence and particulars in support thereof. After hearing such evidence and considering such particulars, the Assessing Officer shall make an assessment of total income or loss under clause (i) of sub-section (3) of section 143.
+
+64.2 The Finance Act, 2003 has discontinued the scheme of ‘scrutiny assessment on limited issues’ by providing that no notice under clause (i) of sub-section (2) of section 143 shall be served on the assessee on or after the 1st June, 2003.
+
+64.3 This amendment will take effect from 1st June, 2003.
+
+            [ Section 64]
+
+65. The special procedure for assessment of search cases under Chapter XIV-B be abolished
+
+65.1 The existing provisions of the Chapter XIV-B provide for a single assessment of undisclosed income of a block period, which means the period comprising previous years relevant to six assessment years preceding the previous year in which the search was conducted and also includes the period up to the date of the commencement of such search, and lay down the manner in which such income is to be computed.
+
+65.2 The Finance Act, 2003 has provided that the provisions of this Chapter shall not apply where a search is initiated under section 132, or books of account, other documents or any assets are requisitioned under section 132A after 31st May, 2003 by inserting a new section 158BI in the Income-tax Act.
+
+65.3 Further three new sections 153A, 153B and 153C have been inserted in the Income-tax Act to provide for assessment in case of search or making requisition.
+
+65.4 The new section 153A provides the procedure for completion of assessment where a search is initiated under section 132 or books of account, or other documents or any assets are requisitioned under section 132A after 31st May, 2003. In such cases, the Assessing Officer shall issue notice to such person requiring him to furnish, within such period as may be specified in the notice, return of income in respect of six assessment years immediately preceding the assessment year relevant to the previous year in which the search was conducted under section 132 or requisition was made under section 132A.
+
+65.5 The Assessing Officer shall assess or reassess the total income of each of these six assessment years. Assessment or reassessment, if any, relating to any assessment year falling within the period of six assessment years pending on the date of initiation of the search under section 132 or requisition under section 132A, as the case may be, shall abate. It is clarified that the appeal, revision or rectification proceedings pending on the date of initiation of search under section 132 or requisition shall not abate. Save as otherwise provided in the proposed section 153A, section 153B and section 153C, all other provisions of this Act shall apply to the assessment or reassessment made under section 153A. It is also clarified that assessment or reassessment made under section 153A shall be subject to interest, penalty and prosecution, if applicable. In the assessment or reassessment made in respect of an assessment year under this section, the tax shall be chargeable at the rate or rates as applicable to such assessment year.
+
+65.6 The new section 153B provides for the time limit for completion of search assessments. It provides that the Assessing Officer shall make an order of assessment or reassessment in respect of each assessment year, falling within six assessment years under section 153A within a period of two years from the end of the financial year in which the last of the authorisations for search under section 132 or for requisition under section 132A was executed.
+
+65.7 This section also provides that assessment in respect of the assessment year relevant to the previous year in which the search is conducted under section 132 or requisition is made under section 132A shall be completed within a period of two years from the end of the financial year in which the last of the authorisations for search under section 132 or for requisition under section 132A, as the case may be, was executed.
+
+65.8 It also provides that in computing the period of limitation for completion of such assessment or reassessment, the period during which the assessment proceeding is stayed by an order or injunction of any court; or the period commencing from the day on which the Assessing Officer directs the assessee to get his accounts audited under sub-section (2A) of section 142 and ending on the day on which the assessee is required to furnish a report of such audit under that sub-section, or the time taken in reopening the whole or any part of the proceeding or giving an opportunity to the assessee of being reheard under the proviso to section 129, or in a case where an application made before the Settlement Commission under section 245C is rejected by it or is not allowed to be proceeded with by it, the period commencing on the date on which such application is made and ending with the date on which the order under sub-section (1) of section 245D is received by the Commissioner under sub-section (2) of that section, shall be excluded. If, after the exclusion of the aforesaid period, the period of limitation available to the Assessing Officer for making an order of assessment or reassessment, as the case may be, is less than sixty days, such remaining period shall be extended to sixty days and the period of limitation shall be deemed to be extended accordingly.
+
+65.9 The new section 153C provides that where an Assessing Officer is satisfied that any money, bullion, jewellery or other valuable article or thing or books of account or documents seized or requisitioned belong or belongs to a person other than the person referred to in section 153A, then the books of account, or documents or assets seized or requisitioned shall be handed over to the Assessing Officer having jurisdiction over such other person and that Assessing Officer shall proceed against such other person and issue such other person notice and assess or reassess income of such other person in accordance with the provisions of section 153A.
+
+65.10 An appeal against the order of assessment or reassessment under section 153A shall lie with the Commissioner of Income-tax (Appeals).
+
+65.11 Consequential amendments have also been made in sections 132, 132B, 140A, 234A, 234B, 246A and 276CC to give reference to section 153A in these sections.
+
+65.12 These amendments will take effect from 1st June, 2003.
+
+            [ Sections 59(b), 60(b ), 63, 65, 67, 89, 90, 93 and 97)]
+
+66. Rationalisation of provisions relating to assessment of firms
+
+66.1 Under the existing provision contained in sub-section (5) of section 184, where, in respect of any assessment year, there is on the part of a firm any such failure as is mentioned in section 144, the firm shall be assessed in the same manner as an association of persons, and all the provisions of the Income-tax Act shall apply accordingly.
+
+66.2 Further, the existing provisions of section 185 provide that in case a firm does not comply with the provisions of section 184 for any assessment year, the firm shall be assessed for that assessment year in the same manner as an association of persons, and all the provisions of this Act shall apply accordingly.
+
+66.3 With a view to rationalize the provisions relating to assessment of firms, the Act has substituted sub-section (5) of section 184 and section 185 so as to provide that in case a firm does not comply with the other provisions of section 184 or a best judgment assessment is made in the case of the firm as referred to in section 144, no deduction by way of any payment of interest, salary, bonus, commission or remuneration, by whatever name called, made by such firm to any partner of such firm shall be allowed in computing the business income of the firm. Such interest, salary, bonus, commission or remuneration shall not be chargeable to income-tax under clause (v) of section 28 of the Income-tax Act.
+
+66.4 These amendments will take effect from 1st April, 2004 and will, accordingly, apply in relation to the assessment year 2004-05 and subsequent years.
+
+            [ Sections 69 and 70]
+
+67. Rationalisation of provisions relating to direct payment of tax by the assessee when tax not deducted at source
+
+67.1 Under the existing provision contained in section 191, in the case of income in respect of which provision is not made under the provisions of Chapter XVII of the Income-tax Act for deducting income-tax at the time of payment, and in any case where income-tax has not been deducted in accordance with the provisions of the said Chapter, income-tax shall be payable by the assessee direct.
+
+67.2 The Act has inserted an Explanation in the said section to clarify that if the principal officer or the company referred to in section 194 or the person referred to in section 200, does not deduct the whole or any part of the tax, he or it shall, without prejudice to any other consequences which he or it may incur, be deemed to be an assessee in default as referred to in sub-section (1) of section 201 in respect of such tax unless such income-tax has been paid directly by the assessee himself.
+
+67.3 This amendment will take effect from 1st June, 2003.
+
+            [ Section 71]
+
+68. Rationalisation of certain provisions of tax deduction at source from payments made to non-residents
+
+68.1 Under the existing provisions contained in section 193 of the Income-tax Act, the person responsible for paying any income by way of interest on securities is required to deduct tax at source at the time of credit of such income to the account of the payee or at the time of payment thereof in cash or by issue of a cheque or a draft or any other mode at the rates in force. Further, section 194-I provides that any person who is responsible for paying to any person any income by way of rent is required to deduct tax at source at the specified rates. Hence, the provisions of these sections apply in relation to payments made both to non-residents as well as residents.
+
+68.2 Under the existing provisions contained in section 195, any person responsible for paying to a non-resident, not being a company, or to a foreign company, any interest (not being interest on securities) or any other sum chargeable under the provisions of the Income-tax Act (not being income chargeable under the head "Salaries") is required to deduct tax at source at the rates in force.
+
+68.3 The Act has amended sections 193 and 194-I to provide that the person responsible for deducting tax from interest on securities and rent shall be required to do so in the case of payments made to residents only.
+
+68.4 The Act has also expanded the scope of section 195 so as to include payments made by way of interest on securities and rent also.
+
+68.5 These amendments will take effect from 1st June, 2003.
+
+            [ Sections 72, 77, 80(a)(i ) and 80(b) ]
+
+69. Enhancement of threshold limit for the purpose of deduction of tax at source from dividends and income from units
+
+69.1 Under the existing provisions contained in section 194, no tax is required to be deducted at source by a company in the case of a shareholder, being an individual, if the dividend is paid by the company by an account payee cheque and the amount of the dividend or, as the case may be, the aggregate of the amounts of the dividend distributed or paid or likely to be distributed or paid during the financial year does not exceed one thousand rupees.
+
+69.2 Further, under the existing provisions contained in section 194K, no tax is required to be deducted at source by the person responsible for making the payment of any income in respect of units of a Mutual Fund specified under clause (23D) of section 10 or of the Unit Trust of India to the account of, or to, the payee where the amount of such income or, as the case may be, the aggregate of the amounts of such income credited or paid or likely to be credited or paid during the financial year does not exceed one thousand rupees.
+
+69.3 With a view to give relief to small investors and senior citizens, the Act has amended sections 194 and 194K of the Income-tax Act to provide that no deduction of tax at source shall be made from income by way of dividends or the income from units where the amount of income or incomes, as the case may be, does not exceed two thousand five hundred rupees.
+
+69.4 These amendments will take effect retrospectively from 1st August, 2002.
+
+            [ Sections 73(a) and 79(a)]
+
+70. Exemption from TDS on interest on compensation paid to the accident victims under the Motor Vehicles Act
+
+70.1 Under the existing provisions contained in section 194A of the Income-tax Act, tax is required to be deducted at source on income by way of interest other than "interest on securities" where the aggregate amounts of such income credited or paid or likely to be credited or paid during the financial year exceeds Rs. 5,000.
+
+70.2 Considering the practical difficulties of people involved in accidents as also the fact that the recipients are mostly people from rural or poor background who are not assessed to tax, the Act has amended section 194A by way of insertion of a new clause (ix) in sub-section (3) to provide that no deduction of tax at source need be made in cases where the interest awarded on compensation does not exceed Rs. 50,000.
+
+70.3 The amendment with effect from the 1st June, 2003.
+
+            [ Section 74]
+
+71. Tax not to be deducted at source while making payments of fees for professional services for personal purpose
+
+71.1 Under the existing provisions contained in the second proviso of sub-section (1) of section 194J, an individual or a Hindu undivided family, whose total sales, gross receipts or turnover from the business or profession carried on by him exceed the monetary limits specified under clause (a) or clause (b) of section 44AB of the Income-tax Act during the financial year immediately preceding the financial year in which sum by way of fees for professional or technical services is credited or paid is required to deduct tax at source while making the payment.
+
+71.2 The Act has inserted a new proviso to the said sub-section so as to provide that no individual or a Hindu undivided family referred to in the second proviso shall be liable to deduct income-tax on the sum by way of fees for professional services in case such sum is credited or paid exclusively for personal purposes.
+
+71.3 This amendment will take effect from 1st June, 2003.
+
+            [ Section 78(a)]
+
+72. Rationalisation of section 197 relating to certificate for tax deduction at lower rate
+
+72.1 Section 197 of the Income-tax Act provides that where, in the case of any income of any person, tax is required to be deducted at source under the provisions of sections 192, 193, 194A, 194D, 194H, 194-I, 194K, 194L and 195, and the Assessing Officer is satisfied that the total income of the recipient justifies the deduction of income-tax at any lower rate or no deduction of income-tax, as the case may be, the Assessing Officer shall, on an application made by the assessee in this behalf give to him such certificate as may be appropriate.
+
+72.2 The Act has amended the said section to include payments of any sum to contractors and sub-contractors referred to in section 194C, any income by way of commission, etc., on sale of lottery tickets referred to in section 194G and payment of any sum by way of fees for professional or technical services referred to in section 194J, within the scope of the said section. The reference of section 194L relating to payment of compensation on acquisition of capital asset in the said section has also been omitted. Consequential amendments have also been made in sections 194C, 194G and 194J of the Income-tax Act.
+
+72.3 These amendments will take effect from 1st June, 2003.
+
+            [ Sections 75, 76, 78(b) and 84]
+
+73. No deduction of tax at source to be made in certain cases on filing of self-declaration
+
+73.1 Under the existing provisions contained in section 197A, no tax is deducted at source if an individual, who is resident in India, furnishes a declaration that the tax on his estimated total income of the previous year in which such income is to be included in computing his total income will be nil. Sub-section (1B) of the aforesaid section provides that the provisions of the section shall not apply where the amount of any income from dividends, payments in respect of deposits under National Savings Schemes, etc. or income from interest on securities or interest other than "interest on securities" or units or the aggregate of the amounts of such incomes credited or paid or likely to be credited or paid during the previous year in which such income is to be included exceeds the maximum amount which is not chargeable to income-tax.
+
+73.2 With a view to give relief to senior citizens, the Act has inserted a new sub-section (1C) in section 197A to provide that no deduction of tax shall be made under section 193 or section 194 or section 194A or section 194EE or section 194K in the case a senior citizen, i.e., an individual of the age of sixty-five years or above, if he furnishes to the person responsible for paying any income of the nature referred to in those sections to the effect that the tax on his estimated total income of the previous year in which such income is to be included in computing his total income will be nil. Hence, the prohibition contained in sub-section (1B) will not be applicable in the case of senior citizens.
+
+73.3 This amendment will take effect from 1st day of June, 2003.
+
+            [ Section 85]
+
+74. Filing of TDS returns on magnetic media
+
+74.1 Under the existing provisions contained in sub-section (1) of section 206, the prescribed person in the case of every office of Government, the principal officer in the case of every company, the prescribed person in the case of every local authority or other public body or association, every private employer and every other person responsible for deducting tax is required to prepare and deliver or cause to be delivered to the prescribed income-tax authority, such returns in such form and verified in such manner and setting forth such particulars as may be prescribed within the prescribed time after the end of each financial year.
+
+74.2 Sub-section (2) of the said section further provides that the returns of tax deducted at source may be filed on computer readable media such as floppies, diskettes, magnetic cartridge tapes, etc., as may be specified by the Board and that the information in such returns shall be admitted in evidence in any proceeding under the Income-tax Act.
+
+74.3 Sub-section (3) of the said section provides for the requirement of checking and authenticating of the return by the Assessing Officer and due care by him for preservation of the return in the computer media by duplicating, transferring, mastering or storage without loss of data.
+
+74.4 The Act has substituted sub-section (2) to provide that the person responsible for deducting tax under the provisions of Chapter XVII-B of the Income-tax Act, other than the principal officer in the case of every company may, at his option, deliver or cause to be delivered such return to the prescribed income-tax authority in accordance with such scheme as may be specified by the Board in this behalf, by notification in the Official Gazette, and subject to such conditions as may be specified therein, on or before the prescribed time after the end of each financial year, on a floppy, diskette, magnetic cartridge etc. CD-ROM or any other computer media and in the manner as may be specified in that scheme. However, the filing of TDS returns on computer media under the said scheme has been made mandatory in the case where the principal officer in the case of a company makes the deduction.
+
+74.5 Sub-section (3) has also been substituted to provide that a return filed on computer media shall be deemed to be a return for the purposes of this section and the rules made thereunder and shall be admissible in any proceedings thereunder, without further proof of production of the original, as evidence of any contents of the original or of any fact stated therein.
+
+74.6 A new sub-section (4) has also been inserted which provides that where the Assessing Officer considers that the return delivered or cause to be delivered under sub-section (2) is defective, he may intimate the defect to the person responsible for deducting tax or the principal officer in the case of company, as the case may be, and give him an opportunity of rectifying the defect within a period of fifteen days from the date of such intimation or within such further period which, on an application made in this behalf, the Assessing Officer may, at his discretion, allow; and if the defect is not rectified within the said period of fifteen days or, as the case may be, the further period so allowed, then, regardless of anything contained in any other provision of this Act, such return will be treated as an invalid return and the provisions of this Act shall apply as if such person had failed to deliver the return.
+
+74.7 This amendment will take effect from 1st June, 2003.
+
+            [ Section 86]
+
+75. Rationalisation of provisions relating to profits and gains from the business of trading in alcoholic liquor, forest produce, scrap, etc.
+
+75.1 Under the existing provisions of section 206C, sellers of certain goods are required to collect tax from a buyer at the rates specified in the Table below sub-section (1). The Table specifies a rate of ten per cent for alcoholic liquor for human consumption (other than Indian made foreign liquor) and tendu leaves.
+
+75.2 The Explanation to the section provides that the "buyer" does not, inter alia, include a buyer where the goods are not obtained by him by way of auction and where the sale price of such goods to be sold by the buyer is fixed by or under any State Act and a buyer in the further sale of such goods obtained in pursuance of such sale. Further, the definition of "seller" in clause (b) of the Explanation excludes individuals and Hindu undivided families from the responsibility of collection of tax at source.
+
+75.3 The Act has substituted the Table in sub-section (1), inter alia, to provide for collection of tax at source at the rate of ten per cent in the case of Indian made foreign liquor and scrap.
+
+75.4 The Explanation to the section has also been amended so as to make the provisions of the section applicable in the case of a buyer where he does not obtain the goods by way of auction and where the sale price of such goods to be sold by the buyer is fixed by or under any State Act. It has also been provided that buyer shall not include a buyer in retail sale. The expression "scrap" has been defined for the purpose of section 206C to mean waste and scrap from the manufacture or mechanical working of materials which is definitely not usable as such because of breakage, cutting up, wear and other reasons. Further, the definition of seller has also been amended to include individuals and Hindu undivided families carrying on business and whose total sales, gross receipts or turnover from the business or profession carried on by him exceed the monetary limits specified under clause (a) or clause (b) of section 44AB during the financial year immediately preceding the financial year in which the goods of the nature specified in the Table in sub-section (1) are sold.
+
+75.5 These amendments will take effect from 1st June, 2003.
+
+            [ Section 87]
+
+76. Tax clearance certificate to be required only in certain cases
+
+76.1 The existing provisions of sub-section (1) of section 230 provide for the requirement of tax clearance certificate in the case of a person who leaves the territory of India by land, sea or air. Certain exceptions to this requirement have been specified by the Central Government.
+
+76.2 The Act has substituted sub-section (1) of section 230 so as to provide that no person, subject to such exceptions as the Central Government may, by notification in the Official Gazette, specify in this behalf, who is not domiciled in India and who has come to India in connection with business, profession or employment; and who has income derived from any source in India, shall leave the territory of India by land, sea or air unless he furnishes an undertaking. The said undertaking is required to be furnished in the prescribed form from the employer of the said person or through whom such person is in receipt of the income, to the effect that tax payable by such person shall be paid by the employer or the person through whom any income is received and the prescribed authority shall, on the receipt of the undertaking, immediately give to such person a no-objection certificate, for leaving India. The provisions contained in the substituted sub-section (1) shall not apply to a person who is not domiciled in India but visits India as a foreign tourist or for any other purpose not connected with business, profession or employment.
+
+76.3 A new sub-section (1A) has also been inserted so as to provide that every person, subject to such exceptions as the Central Government may, by notification in the Official Gazette specify in this behalf, who is domiciled in India at the time of his departure, shall furnish, to the income-tax authority or such other authority as may be prescribed his permanent account number allotted to him under section 139A or in case no such permanent account number has been allotted to him, or his total income is not chargeable to income-tax or who is not required to obtain permanent account number under this Act a certificate in the prescribed form; and the purpose of his visit; and the estimated period of his stay outside India.
+
+76.4 It has also been provided that no person, who is domiciled in India at the time of his departure and in respect of whom circumstances exist which, in the opinion of an income-tax authority render it necessary form him to obtain a certificate under this section, shall leave the territory of India by land, sea or air unless he obtains a certificate from the income-tax authority or such authority as may be prescribed stating that he has no liabilities under this Act, the Wealth-tax Act, 1957, the Expenditure-tax Act, 1957, or the Gift-tax Act, 1958, or that satisfactory arrangements have been made for the payment of all or any of such taxes which are or may become payable by that person. It is also proposed to provide that no income-tax authority shall make it necessary for any person who is domiciled in India to obtain a certificate under this section unless he records the reasons therefor and obtains the prior approval of the Chief Commissioner of Income-tax.
+
+76.5 This amendment will take effect from 1st June, 2003.
+
+            [ Section 88]
+
+77. Charging of interest on excess refund granted at time of summary assessment
+
+77.1 Under the provisions of section 143(4), where a regular assessment under section 143(3) or section 144 is made, any tax or interest paid under section 143(1) shall be deemed to have been paid towards such regular assessment and if no refund is due on regular assessment or the amount refunded under section 143(1) exceeds the amount refundable on regular assessment, the whole or the excess amount so refunded is deemed to be tax payable by the assessee.
+
+77.2 In a case where an assessee claims refund of a substantial portion of advance-tax or TDS or TCS treated as paid by him on the basis of the total income as declared in his return of income furnished under section 139, such refund has to be granted to him at the time of processing of the return under section 143(1). Subsequently, if regular assessment is made on a total income much higher than the returned income, the refund earlier granted to the assessee or a substantial portion of it is treated as tax payable. But while the assessee pays interest for shortfall in payment of advance-tax with effect from the 1st day of the assessment year, nothing is charged from the assessee for having utilized the refund amount, till the date of regular assessment.
+
+77.3 Keeping this in view, the Act has inserted a new section 234D in the Income-tax Act to charge interest on excess refund granted at the time of summary assessment.
+
+77.4 Sub-section (1) of the said section provides that where any refund is granted to the assessee under sub-section (1) of section 143 and no refund is due on regular assessment, or the amount refunded under sub-section (1) of section 143 exceeds the amount refundable on regular assessment, then, the assessee shall be liable to pay simple interest at the rate of two-third per cent on the whole or the excess amount so refunded for every month or part of a month comprised in the period from the date of grant of refund to the date of such regular assessment.
+
+77.5 Sub-section (2) of the section provides that where, as a result of an order under section 154 or section 155 or section 250 or section 254 or section 260 or section 262 or section 263 or section 264 or an order of the Settlement Commission under sub-section (4) of section 254D of the Income-tax Act, the amount of refund granted under sub-section (1) of section 143 is held to be correctly allowed, either in whole or in part, as the case may be, then the interest chargeable under sub-section (1), shall be reduced accordingly. It has also been provided that an assessment made for the first time under section 147 shall be regarded as a regular assessment for the purposes of aforesaid section.
+
+77.6 This amendment will take effect from 1st June, 2003.
+
+            [ Section 91]
+
+78. Clarification in the definition of Advance Ruling
+
+78.1 Under the existing provision contained in sub-clause (ii) of clause (a) of section 245N, the expression "advance ruling", inter alia, means determination of any question of law or of fact specified in the application by the Authority in relation to a transaction which has been undertaken or is proposed to be undertaken by a resident applicant with a non-resident.
+
+78.2 The Finance Act, 2003 has amended the said sub-clause so as to clarify that the determination of any question of law or fact by the Authority shall be in relation to the tax liability of a non-resident arising out of a transaction which has been undertaken or is proposed to be undertaken by a resident applicant with a non-resident and not in relation to the tax liability of the resident.
+
+78.3 It has further been provided that where an advance ruling has been pronounced by the Authority in respect of an application by a resident applicant referred to in sub-clause (ii) of the said clause (a) before the date of commencement of the Finance Act, 2003, such ruling shall be binding on persons specified in section 245S.
+
+78.4 These amendments will take effect retrospectively from 1st June, 2000.
+
+            [ Section 92]
+
+79. Amendment in section 269T relating to mode of repayment of loans and deposits
+
+79.1 The existing provisions of section 269T of the Income-tax Act, 1961 provide that no branch of a banking company or a co-operative bank and no other company or co-operative society and no firm or other person, shall repay any loan or deposit made with it otherwise than by an account payee cheque or account payee bank draft, in cases where the amount of the loan or deposit held by such person is twenty thousand rupees or more. The term "loan" was included in the section by the Finance Act, 2002.
+
+79.2 Most of the assessees carrying on business avail credit facilities from banks such as cash credit account, over draft account, etc., which fall within the ambit of the term ‘loan’. Thus, the assessee would not be able to deposit even their cash sale proceeds into these credit facility accounts, as the same would amount to repayment of loans.
+
+79.3 The Finance Act, 2003, has amended the section so as to provide that the provisions of this section shall not apply in case of repayment of any loan or deposit taken or accepted from (i) Government; (ii) any banking company, post office savings bank or co-operative bank; (iii) any corporation established by a Central, State or Provincial Act; (iv) any Government company as defined in section 617 of the Companies Act, 1956; (v) such other institution, association or body or class of institutions, associations or bodies which the Central Government may, for reasons to be recorded in writing, notify in this behalf in the Official Gazette.
+
+79.4 This amendment will take effect retrospectively from 1st June, 2002.
+
+79.5 Section 269T was amended to include the term ‘loan’ by the Finance Act, 2002. In consequence of the same, section 271E has also been amended by the Finance Act, 2003, so as to provide for levy of penalty on a person if he fails to repay any loan or deposit in accordance with the provisions of section 269T.
+
+79.6 This amendment will take effect retrospectively from 1st June, 2003.
+
+            [ Sections 94 and 95]
+
+80. Amendment of section 275 relating to time limit for imposing of penalty
+
+80.1 Under the existing provisions contained in clause (a) of sub-section (1) of section 275, no order imposing a penalty shall be passed, in a case where the relevant assessment or other order is the subject-matter of an appeal to the Commissioner (Appeals), or to the Appellate Tribunal after the expiry of the financial year in which the proceedings, in the course of which action for the imposition of penalty has been initiated, are completed, or within six months from the end of the month in which the order of the Commissioner (Appeals), or, as the case may be, the Appellate Tribunal is received by the Chief Commissioner or Commissioner, whichever period expires later.
+
+80.2 The Finance Act, 2003 has inserted a proviso in the said clause so as to provide that in a case where the relevant assessment or other order is the subject-matter of an appeal to the Commissioner (Appeals) under section 246 or section 246A of the Income-tax Act, and the Commissioner (Appeals) passes the order on or after the 1st June, 2003 in such appeal, an order imposing penalty shall be passed before the expiry of the financial year in which the proceedings, in the course of which action for imposition of penalty has been initiated, are completed or within one year from the end of the financial year in which the order of the Commissioner (Appeals) is received by the Chief Commissioner or Commissioner, whichever is later.
+
+80.3 Under the existing provisions contained in clause (b) of sub-section (1) of the said section, no order imposing a penalty shall be passed in cases where the relevant assessment or other order is the subject-matter of revision under section 263 of the Income-tax Act, after the expiry of six months from the end of the month in which the order of revision under the said section 263 is passed.
+
+80.4 The said clause (b ) has been amended to provide that in cases where the order is under revision even under section 264 of the Income-tax Act, the order imposing penalty shall be passed within six months from the end of the month in which the revision order is passed.
+
+80.5 These amendments will take effect from the 1st day of June, 2003.
+
+            [ Section 96]
+
+81. New provision for filing of Annual Information Return
+
+81.1 In order to provide a mechanism wherein the flow of information regarding the material financial transactions entered into by a taxpayer with other persons is automatic so that the same can be utilised for widening and deepening of the tax base, the Finance Act, 2003 has inserted a new section 285BA. It provides that any assessee, who enters into any financial transaction, as may be prescribed, with any other person, shall furnish an annual information return in such form and manner, as may be prescribed, in respect of such financial transactions entered into by him during any previous year.
+
+81.2 This amendment will take effect from 1st April, 2004.
+
+            [ Section 98]
+
+WEALTH-TAX & GIFT-TAX
+
+82. Modification of provisions of section 17 of the Wealth-tax Act and section 16 of the Gift-tax Act
+
+82.2 Under the existing provisions contained in section 17 of the Wealth-tax Act, 1957, in a case where net wealth chargeable to tax has escaped assessment, the Assessing Officer shall serve on the assessee a notice requiring him to furnish within such period not being less than thirty days as may be specified in the notice, a return of his net wealth in respect of which such person is assessable as on the valuation date mentioned in the notice.
+
+82.3 The existing provisions contained in section 16 of the Gift-tax Act, 1958 provide that, in a case where taxable gifts, in respect of which any person is assessable under the said Act, (whether made by him or by any other person) have escaped assessment, the Assessing Officer shall serve on the assessee a notice requiring him to furnish within such period not less than thirty days as may be specified in the notice, a return of his taxable gifts made by him or by such other person during the previous year mentioned in the notice in respect of which he is assessable.
+
+82.4 The Act has amended section 17 of the Wealth-tax Act and section 16 of the Gift-tax Act so as to omit the period of not less than thirty days for furnishing of returns on lines similar to amendment of section 148 by the Finance Act, 1996.
+
+82.5 These amendments will take effect retrospectively from 1st April, 1989 and will, accordingly, apply in relation to notices issued on or after 1st April, 1989.
+
+            [ Sections 100 and 101]
+
+EXPENDITURE-TAX
+
+83. Abolition of Expenditure-tax
+
+83.1 The Expenditure-tax Act, 1987 provides for levy of tax on chargeable expenditure incurred in a hotel where the room charges for any unit of residential accommodation as Rs. 3,000 or more per day.
+
+83.2 The Finance Act, 2003 has abolished expenditure-tax by providing that the expenditure-tax shall not be charged on the chargeable expenditure incurred in a hotel after the 31st May, 2003.
+
+83.3 This amendment will take effect from 1st June, 2003 and will accordingly apply in relation to expenditure incurred on or after that date.
