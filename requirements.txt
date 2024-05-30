@@ -1,7 +1,7 @@
 langchain 
 langchain-community
-langchainhub 
 langchain-openai
 langchain-pinecone
-unstructured
 streamlit
+openai
+pinecone

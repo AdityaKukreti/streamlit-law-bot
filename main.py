@@ -22,9 +22,9 @@ if prompt:
     st.session_state.messages.append({'role':'user',"content":prompt})
 
     response = bot.query(prompt)
-    response = f'''source: {response['sources']}\n\n{response['answer']}'''
+    response = f'''{response}'''
 
     with st.chat_message("assistant"):
-        st.markdown(response)
+        st.markdown(response,unsafe_allow_html=True)
 
     st.session_state.messages.append({"role":"assistant","content":response})
