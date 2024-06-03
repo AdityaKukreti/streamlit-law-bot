@@ -50,14 +50,12 @@ class LawBot:
                 model = "gpt-4o",messages = [
                     {
                         "role":"system",
-                        "content":"""Given a big chunk of text and a query, arrange the given chunk in a proper meaningful manner and return it.
-                        Keep the answers crisp and brief and include all sections and ammendments.
-                        Use all the provisions of Income Tax act.
-                        Also in the given metadata, i want you to list down the various source files given in the data. 
-                        Do not add any additional text from your end. 
-                        Embed the text in appropriate html tags except html, head, body tags.
-                        For heading, don't use h1 and h2.
-                        Close all the content in the p tag.
+                        "content":"""
+                        Your job is to answer the user query using the context provided by adhering to the following rules:
+                        1. Quote all provisions of Income Tax act present from the context, that are relevant to the answer.
+                        2. Include all sections and amendments from context that are relevant to the answer.
+                        3. Do not add any additional text from your end. 
+                        4. Embed the text in appropriate html tags except html, head, body tags. For heading, don't use h1 and h2. Close all the content in the p tag.
                         """
                     },
                     {
