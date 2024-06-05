@@ -15,7 +15,7 @@ class PineconeInitializer:
         self.pinecone = pinecone.Pinecone(api_key=os.environ['PINECONE_API_KEY'])
 
 
-        # self.deleteIndex()
+        self.deleteIndex()
         self.upsert()
         
     def upsert(self):
