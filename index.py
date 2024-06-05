@@ -14,17 +14,18 @@ class PineconeInitializer:
         self.text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
         self.pinecone = pinecone.Pinecone(api_key=os.environ['PINECONE_API_KEY'])
 
-        self.deleteIndex()
+
+        # self.deleteIndex()
         self.upsert()
         
     def upsert(self):
 
-        documents = loader.load()
         loader = DirectoryLoader("Database/")
+        documents = loader.load()
 
         docs = self.text_splitter.split_documents(documents)
 
-        self.pinecone.create_index(self.index_name)
+        self.pinecone.create_index(self.index_name,dimension=1536,spec=pinecone.ServerlessSpec(cloud = "aws",region="us-east-1"))
 
         PineconeVectorStore.from_documents(
             docs,
@@ -35,3 +36,5 @@ class PineconeInitializer:
     def deleteIndex(self):
 
         self.pinecone.delete_index(self.index_name)
+
+PineconeInitializer()
